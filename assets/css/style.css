@@ -78,6 +78,12 @@
 ================================================== */
 /* 1.2 - Template Global Reset - Start
 ================================================== */
+@font-face {
+  font-family: GalaxieCopernicus-Book;
+  src: url("../fonts/GalaxieCopernicus-Book.otf");
+}
+
+
 body {
   margin: 0px;
   padding: 0px;
@@ -86,7 +92,7 @@ body {
   line-height: 1.65;
   font-style: normal;
   color: #5D636A;
-  font-family: "Manrope", sans-serif;
+  font-family: "GalaxieCopernicus-Book", sans-serif;
   text-rendering: optimizelegibility;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -172,7 +178,7 @@ button:focus {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   color: #0F0E0E;
-  font-family: "Manrope", sans-serif;
+  font-family: "GalaxieCopernicus-Book", sans-serif;
   line-height: 1.2;
 }
 
@@ -1870,7 +1876,7 @@ blockquote .blockquote_content {
   font-weight: 500;
   line-height: 31px;
   margin-bottom: 15px;
-  font-family: "Manrope", sans-serif;
+  font-family: "GalaxieCopernicus-Book", sans-serif;
 }
 blockquote .author_name {
   font-size: 16px;
@@ -2318,7 +2324,7 @@ textarea.form-control {
   line-height: 22px;
   color: #0F0E0E;
   margin-bottom: 14px;
-  font-family: "Manrope", sans-serif;
+  font-family: "GalaxieCopernicus-Book", sans-serif;
 }
 
 .form_required_indicator {
@@ -3096,7 +3102,7 @@ textarea.form-control {
   margin-bottom: 15px;
   display: inline-block;
   color: #FFC961;
-  font-family: "Manrope", sans-serif;
+  font-family: "GalaxieCopernicus-Book", sans-serif;
 }
 .iconbox_item .serial_number:before {
   top: 50%;
@@ -5088,14 +5094,14 @@ textarea.form-control {
   font-weight: 400;
   line-height: 27px;
   color: #5D636A;
-  font-family: "Manrope", sans-serif;
+  font-family: "GalaxieCopernicus-Book", sans-serif;
 }
 .hero_banner_section.style_2 .iconbox_item p {
   font-size: 16px;
   font-weight: 600;
   line-height: 22px;
   color: #0F0E0E;
-  font-family: "Manrope", sans-serif;
+  font-family: "GalaxieCopernicus-Book", sans-serif;
 }
 
 .hero_banner_section.style_3 {
@@ -6951,7 +6957,7 @@ textarea.form-control {
   font-weight: 700;
   line-height: 92px;
   color: #0F0E0E;
-  font-family: "Manrope", sans-serif;
+  font-family: "GalaxieCopernicus-Book", sans-serif;
 }
 @media (max-width: 575px), only screen and (min-width: 992px) and (max-width: 1199px) {
   .pricing_item .price_value strong {
