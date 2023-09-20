@@ -742,6 +742,9 @@ hr {
 .page_list a:hover {
   color: #0F0E0E;
 }
+.icon{
+  width: 100px;
+}
 .page_list a:hover .list_item_icon {
   opacity: 1;
   margin: 0 8px 0 0;
@@ -1785,7 +1788,7 @@ hr {
   color: #FFC961;
 }
 .section_heading .heading_title {
-  font-size: 50px;
+  font-size: 38px;
   line-height: 1.36;
   margin-bottom: 25px;
   text-transform: capitalize;
@@ -1999,7 +2002,7 @@ blockquote .author_name:before {
   width: auto;
   height: auto;
   margin: 0 2px;
-  display: inline-block;
+  display: none;
 }
 .slick-dots li button {
   margin: 0;
@@ -5954,7 +5957,6 @@ textarea.form-control {
   margin-bottom: 30px;
   padding-bottom: 30px;
   transition: 0.3s cubic-bezier(0.5, 1, 0.89, 1);
-  border-bottom: 1px dashed rgba(15, 14, 14, 0.1);
 }
 .service_item.style_1 .item_details_btn {
   font-size: 16px;
