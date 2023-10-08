@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title> Paradox - Creative Agency HTML5 Template</title>
+    <title>Content Management Systems (CMS)-O2bd </title>
     <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
     <!-- Fraimwork - CSS Include -->
@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -109,109 +109,9 @@
     <div class="offcanvas__overlay-white"></div>
     <!-- Offcanvas area start -->
 
-    <!-- Site Header - Start
-    ================================================== -->
-    <header class="site_header site_header_4 p-0 bg-transparent shadow-none">
-        <div class="container">
-            <div class="content_box">
-                <div class="header_wrapper">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdb.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="mean__menu-wrapper d-none d-lg-block">
-                        <div class="main-menu main-menu-4">
-                            <nav id="mobile-menu">
-                                <ul>
-                                    <li>
-                                        <a href="index.html">Home</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Services</a>
-                                        <ul class="submenu">
-                                            <li><a href="#">Website Design and Development</a></li>
-                                            <li><a href="#">E-commerce Solutions</a></li>
-                                            <li><a href="#">Custom Web Applications</a></li>
-                                            <li><a href="#">Graphic Design and Branding</a></li>
-                                            <li><a href="#">Social Media Management</a></li>
-                                            <li><a href="#">UI/UX Design</a></li>
-                                            <li><a href="#">Content Management Systems (CMS)</a></li>
-                                            <li><a href="#">Management Software</a></li>
-                                            <li><a href="#">Automation and Integration</a></li>
-                                            <li><a href="#">CRM Solutions</a></li>
-                                            <li><a href="#">Website Maintenance</a></li>
-                                            <li><a href="#">AI Integration</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">Pages</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Portfolio</a>
-                                        <ul class="submenu">
-                                            <li><a href="portfolio.html">Portfolio Default</a></li>
-                                            <li><a href="#">Portfolio Grid</a></li>
-                                            <li><a href="#">Portfolio Full-width</a></li>
-                                            <li><a href="#">Portfolio Masonry</a></li>
-                                            <li><a href="#">Portfolio Details</a></li>
-                                        </ul>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Blog</a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Contact</a>
-                                    </li>
-
-                                </ul>
-                            </nav>
-                            <!-- for wp -->
-                            <div class="header__hamburger ml-50 d-none">
-                                <button type="button" class="hamburger-btn offcanvas-open-btn">
-                                    <span>01</span>
-                                    <span>01</span>
-                                    <span>01</span>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header_right">
-                        <ul class="header_btns_group unordered_list_end d-none d-md-flex">
-                            <li>
-                                <a href="contact.html" class="bd-btn-link btn_dark">
-                      <span class="bd-button-content-wrapper">
-                         <span class="pd-animation-flip">
-                            <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">Get a Quotes</span>
-                               <span class="bd-button-text">Get a Quotes</span>
-                            </span>
-                         </span>
-                      </span>
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="offcanvas-toggle d-lg-none">
-                            <a class="bar-icon" href="javascript:void(0)">
-                                <span></span>
-                                <span>
-                  <small></small>
-                 </span>
-                                <span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Site Header - End
-    ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/header.php');?>
+    <!-- End of Header -->
 
     <!-- Main Body - Start
     ================================================== -->
@@ -223,7 +123,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Service Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Service Details</li>
                 </ul>
 
@@ -254,7 +154,7 @@
                             <div class="details_sectio_content mb-4 mb-lg-0">
                                 <div class="section_heading">
                                     <h2 class="heading_title mb-0">
-                                        Bespoke Solutions for Your Unique Needs.
+                                        Take Control of Your Website Content
                                     </h2>
                                 </div>
                                 <a href="#" class="bd-btn-link btn_primary">
@@ -274,7 +174,7 @@
                         </div>
                         <div class="col col-lg-6">
                             <p>
-                                At o2bid, we specialize in developing customized web applications that streamline your business processes, enhance customer experiences, and give you a significant competitive edge. Our custom web application service is designed to fit your specific requirements, providing tailored solutions for your success.
+                                At o2bd, we specialize in setting up and customizing Content Management Systems (CMS) to empower you to manage and update your website's content with ease. Our CMS service gives you the control you need to keep your website fresh and engaging for your audience.
 
                             </p>
                             <h4 class="mb-3">Features:</h4>
@@ -282,36 +182,27 @@
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
-
                       </span>
-                                    <span class="list_item_text">Custom Application Development: Solutions designed from the ground up to match your business requirements.</span>
+                                    <span class="list_item_text">Custom CMS Setup: Tailoring the CMS to your specific needs and preferences.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">User-Friendly Interface: Intuitive designs that your team and customers will find easy to navigate.</span>
+                                    <span class="list_item_text"> User-Friendly Interface: An intuitive dashboard that makes content management a breeze.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">Integration with Existing Systems: Seamlessly connect your new web applications with your existing software and tools.</span>
-                                </li>
-
-
-                                <li>
-                      <span class="list_item_icon">
-                        <i class="fas fa-check"></i>
-                      </span>
-                                    <span class="list_item_text">Scalable Architecture: Grow your applications as your business expands.</span>
+                                    <span class="list_item_text"> Training and Support: We provide training to ensure you're comfortable using your CMS, with ongoing support as needed.</span>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="section_space_lg">
                         <div class="video_widget">
-                            <img src="assets/images/video/service_details_video_poster.jpg"
+                            <img src="assets/images/video/CMS.jpg"
                                  alt="Paradox Service Video Poster">
                             <a class="video_play_icon popup_video" href="#">
                     <span class="icon_wrap" data-magnetic>
@@ -352,9 +243,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Cost Efficiency</h3>
+                                            <h3 class="item_title">Easy Content Updates</h3>
                                             <p class="mb-0">
-                                                Custom web applications are built to align perfectly with your business processes, eliminating the need for costly workarounds or inefficient manual tasks.
+                                                Say goodbye to technical hassles. Our CMS makes it simple for you to add, edit, or remove content as needed.
                                             </p>
                                         </div>
                                     </div>
@@ -366,9 +257,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Increased Productivity</h3>
+                                            <h3 class="item_title">Quick Response to Changes</h3>
                                             <p class="mb-0">
-                                                Our web applications are designed to make your operations smoother, enabling your team to work more efficiently and get more done in less time.
+                                                Keep your website current by making updates in real-time, ensuring your audience always sees the latest information.
 
                                             </p>
                                         </div>
@@ -381,9 +272,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Better Customer Engagement</h3>
+                                            <h3 class="item_title">Cost-Effective</h3>
                                             <p class="mb-0">
-                                                Tailored solutions enhance the user experience, making it easier for your customers to interact with your business, ultimately driving customer satisfaction and loyalty.
+                                                No need to rely on developers for every content change, saving you time and money.
 
                                             </p>
                                         </div>
@@ -396,9 +287,10 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Competitive Advantage</h3>
+                                            <h3 class="item_title">Scalability</h3>
                                             <p class="mb-0">
-                                                Stay ahead of the competition with web applications that are built to meet your unique needs, giving you an edge in the market.
+                                                As your business grows, your CMS can scale with you, accommodating more content and features.
+
 
                                             </p>
                                         </div>
@@ -663,6 +555,7 @@
                              <span class="bd-button-text">Need to Know More</span>
                           </span>
                        </span>
+
                     </span>
                             </a>
                         </div>
@@ -681,7 +574,7 @@
                                      aria-labelledby="heading_one" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We begin by understanding your business processes, challenges, and goals.
+                                            We start by understanding your website and content management requirements.
                                         </p>
                                     </div>
                                 </div>
@@ -691,14 +584,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_two" aria-expanded="false"
                                             aria-controls="collapse_two">
-                                        Design and Development
+                                        CMS Selection
                                     </button>
                                 </h3>
                                 <div id="collapse_two" class="accordion-collapse collapse" aria-labelledby="heading_two"
                                      data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Our experts design and build a customized web application tailored to your needs.
+                                            Recommending the best CMS platform based on your needs (e.g., php, ajax, mySql).
                                         </p>
                                     </div>
                                 </div>
@@ -708,14 +601,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_three" aria-expanded="false"
                                             aria-controls="collapse_three">
-                                        Testing
+                                        Customization
                                     </button>
                                 </h3>
                                 <div id="collapse_three" class="accordion-collapse collapse"
                                      aria-labelledby="heading_three" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                             Rigorous testing ensures your application functions flawlessly.
+                                            Customizing the CMS to match your branding and functional requirements.
                                         </p>
                                     </div>
                                 </div>
@@ -725,14 +618,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_four" aria-expanded="false"
                                             aria-controls="collapse_four">
-                                        Integration
+                                        Training
                                     </button>
                                 </h3>
                                 <div id="collapse_four" class="accordion-collapse collapse"
                                      aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We integrate your new web application with your existing systems and software.
+                                            We provide training to help you confidently manage your website's content.
                                         </p>
                                     </div>
                                 </div>
@@ -742,14 +635,15 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_four" aria-expanded="false"
                                             aria-controls="collapse_four">
-                                        Launch
+                                        Ongoing Support
                                     </button>
                                 </h3>
                                 <div id="collapse_four" class="accordion-collapse collapse"
                                      aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Your custom web application is deployed and ready to transform your business.
+                                            If you encounter any issues or need assistance, we're here to help.
+
                                         </p>
                                     </div>
                                 </div>
@@ -835,9 +729,7 @@
                                         Process Timeline
                                     </h3>
                                     <p class="item_description mb-0">
-                                        The timeline for developing your custom web application varies depending on the project's complexity. During our consultation, we'll provide you with an estimated timeframe.
-
-
+                                        The timeline for setting up your CMS depends on the complexity of your requirements. During our consultation, we'll provide you with an estimated timeframe.
                                     </p>
                                 </div>
                             </div>
@@ -877,10 +769,10 @@
                                 </div>
                                 <div class="item_content">
                                     <h3 class="item_title">
-                                        Team Expertise
+                                        Guarantees or Warranties
                                     </h3>
                                     <p class="item_description mb-0">
-                                        Our custom web application team consists of experienced developers, designers, and project managers dedicated to delivering tailored solutions for your success.
+                                        We offer a satisfaction guarantee and ongoing support to ensure your CMS serves your content management needs effectively.
 
 
                                     </p>
@@ -931,12 +823,10 @@
                                 </div>
                                 <div class="item_content">
                                     <h3 class="item_title">
-                                        Guarantees or Warranties
+                                        Team Expertise
                                     </h3>
                                     <p class="item_description mb-0">
-                                        We offer a satisfaction guarantee and ongoing support to ensure your custom web application continues to enhance your business operations.
-
-
+                                        Our CMS team consists of experienced developers and trainers dedicated to simplifying your content management experience.
                                     </p>
                                 </div>
                             </div>
@@ -1001,95 +891,9 @@
     <!-- Main Body - End
     ================================================== -->
 
-    <!-- Site Footer - Start
-    ================================================== -->
-    <footer class="site_footer style_1">
-        <div class="footer_widget_area bg_dark_3">
-            <div class="container">
-                <div class="footer_widget_grid">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdw.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Contact Us</h3>
-                        <div class="icon_list_widget">
-                            <h4 class="widget_title mb-0">
-                                If you want to Get a New Idea:
-                            </h4>
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <a href="https://html.bdevs.net/cdn-cgi/l/email-protection#afccc0c1dbceccdbefdfceddcecbc0d781ccc0c2">
-                        <span class="list_item_text">
-                          <span class="__cf_email__" data-cfemail="6e0d01001a0f0d1a2e1e0f1c0f0a0116400d0103">[email&#160;protected]</span>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Find Us</h3>
-                        <div class="icon_list_widget">
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <div class="w-location mb-2">
-                                        <img src="assets/images/icons/icon_mapmark.svg" alt="Icon Mapmark">
-                                    </div>
-                                    <a target="_blank" href="https://www.google.com/maps">
-                        <span class="list_item_text">
-                          17, 5th Floor, R. Amin Trade Centre, <small class="d-md-block">KDA Ave, Khulna 9100</small>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Newsletter</h3>
-                        <form action="#">
-                            <div class="small_newsletter_form">
-                                <input type="email" placeholder="Email Adreess">
-                                <button type="submit">
-                                    <i class="far fa-arrow-right"></i>
-                                </button>
-                            </div>
-                            <div class="form-check mb-0">
-                                <input type="checkbox" id="checkMeOut">
-                                <label for="checkMeOut">Check me out</label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer_bottom bg_dark_3">
-            <div class="container">
-                <div class="footer_bottom_grid">
-                    <div class="copyright_widget">
-                        Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/"><u>FrogBID</u></a>
-                        All Rights Reserved.
-                    </div>
-                    <div class="backtotop style_1">
-                        <a href="#" class="scroll">
-                            <i class="fal fa-chevron-up"></i>
-                        </a>
-                    </div>
-                    <div class="footer_social">
-                        <ul class="social_icon unordered_list_end">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Site Footer - End
-    ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/footer.php');?>
+    <!-- End of Header -->
 
 
 </div>
@@ -1145,4 +949,5 @@
 
 </body>
 
+<!-- Mirrored from html.bdevs.net/paradox_prev/paradox/website-design.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Sep 2023 06:20:24 GMT -->
 </html>

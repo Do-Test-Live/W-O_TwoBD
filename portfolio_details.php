@@ -1,15 +1,14 @@
 <!doctype html>
 <html lang="en">
 
-  
-<!-- Mirrored from html.bdevs.net/paradox_prev/paradox/portfolio_details.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Sep 2023 06:20:35 GMT -->
+
 <head>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title> Paradox - Creative Agency HTML5 Template</title>
+    <title> Portfolio-Details - O2bd </title>
     <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
     <!-- Fraimwork - CSS Include -->
@@ -68,7 +67,7 @@
               <div class="offcanvas__content">
                 <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                     <div class="offcanvas__logo">
-                      <a href="index.html">
+                      <a href="index.php">
                       <img src="assets/images/logo/site_logo_white.svg" alt="logo not found">
                       </a>
                     </div>
@@ -104,192 +103,9 @@
     <div class="offcanvas__overlay-white"></div>
     <!-- Offcanvas area start -->
 
-      <!-- Site Header - Start
-      ================================================== -->
-      <header class="site_header site_header_1">
-        <div class="container">
-          <div class="header_wrapper">
-            <div class="site_logo">
-                 <a class="site_link" href="index.html">
-                <img src="assets/images/logo/site_logo_dark.svg" alt="Site Logo - Paradox - Agency Template">
-              </a>
-            </div>
-            <div class="mean__menu-wrapper d-none d-lg-block">
-              <div class="main-menu">
-                 <nav id="mobile-menu">
-                    <ul>
-                       <li class="has-dropdown">
-                          <a href="index.html">Home</a>
-                          <ul class="submenu">
-                            <li class="active"><a href="index.html">Creative Agency</a></li>
-                            <li><a href="personal_portfolio.html">Personal Portfolio</a></li>
-                            <li><a href="startup_business.html">Startup Business</a></li>
-                            <li><a href="digital_agency.html">Digital Agency</a></li>
-                            <li><a href="business_consulting.html">Business Consulting</a></li>
-                            <li><a href="it_agency.html">IT Agency</a></li>
-                            <li class="has-dropdown"><a href="javascript:void(0)">RTL Demos</a>
-                              <ul class="submenu">
-                                <li><a href="index_rtl.html">Creative Agency RTL</a></li>
-                                <li><a href="personal_portfolio_rtl.html">Personal Portfolio RTL</a></li>
-                                <li><a href="startup_business_rtl.html">Startup Business RTL</a></li>
-                                <li><a href="digital_agency_rtl.html">Digital Agency RTL</a></li>
-                                <li><a href="business_consulting_rtl.html">Business Consulting RTL</a></li>
-                                <li><a href="it_agency_rtl.html">IT Agency RTL</a></li>
-                              </ul>
-                            </li>
-                          </ul>
-                       </li>
-                       
-                       <li class="has-dropdown">
-                          <a href="blog.html">Services</a>
-                          <ul class="submenu">
-                            <li><a href="service.html">Service Layout 1</a></li>
-                            <li><a href="service_2.html">Service Layout 2</a></li>
-                            <li><a href="service_3.html">Service Layout 3</a></li>
-                            <li><a href="service_4.html">Service Layout 4</a></li>
-                            <li><a href="website-design.html">Service Details</a></li>
-                          </ul>
-                        </li>
-
-                       <li class="has-dropdown has-mega-menu">
-                        <a href="#">Pages</a>
-                        <ul class="mega-menu">
-                          <li>
-                             <a href="javasript:void(0);" class="mega-menu-title">Page Layout 1</a>
-                             <ul>
-                                <li><a href="portfolio.html">Portfolio Default</a></li>
-                                <li><a href="portfolio_grid.html">Portfolio Grid</a></li>
-                                <li><a href="portfolio_fullwidth.html">Portfolio Full-width</a></li>
-                                <li><a href="portfolio_masonry.html">Portfolio Masonry</a></li>
-                                <li><a href="portfolio_details.html">Portfolio Details</a></li>    
-                            </ul>
-                          </li>
-                          <li>
-                             <a href="javasript:void(0);" class="mega-menu-title">Page Layout 2</a>
-                             <ul>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="about_2.html">About Me</a></li>
-                                <li><a href="team.html">Our Team</a></li>
-                                <li><a href="blog.html">Blog Default</a></li>
-                                <li><a href="blog_classic.html">Blog Classic</a></li>
-                                <li><a href="blog_left_sidebar.html">Blog Left Sidebar</a></li>
-                                <li><a href="blog_right_sidebar.html">Blog Right Sidebar</a></li>
-                                <li><a href="blog_details.html">Blog Details</a></li>
-                              </ul>
-                          </li>
-                          <li>
-                             <a href="javasript:void(0);" class="mega-menu-title">Page Layout 3</a>
-
-                             <ul>
-                                <li><a href="service.html">Service Layout 1</a></li>
-                                <li><a href="service_2.html">Service Layout 2</a></li>
-                                <li><a href="service_3.html">Service Layout 3</a></li>
-                                <li><a href="service_4.html">Service Layout 4</a></li>
-                                <li><a href="website-design.html">Service Details</a></li>
-                                <li><a href="testimonial.html">Testimonial </a></li>
-                                <li><a href="pricing.html">Pricing Table</a></li>
-                                <li><a href="terms_conditions.html">Terms & Conditions</a></li>
-                                <li><a href="policy_privacy.html">Privacy & Policy</a></li>
-                             </ul>
-                          </li>
-                          <li>
-                             <a href="javasript:void(0);" class="mega-menu-title">Page Layout 4</a>
-
-                             <ul>
-                                <li><a href="signin.html">Sign In</a></li>
-                                <li><a href="signup.html">Sign Up</a></li>
-                                <li><a href="client_form.html">Feedback Form</a></li>
-                                <li><a href="error.html">Error 404</a></li>
-                                <li><a href="faq.html">FAQs</a></li>
-                                <li><a href="contact.html">Contact Layout 1</a></li>
-                                <li><a href="contact_2.html">Contact Layout 2</a></li>
-                                <li><a href="comming_soon.html">comming soon</a></li>
-                             </ul>
-                          </li>
-                       </ul>
-                       </li>
-                       
-                       <li class="has-dropdown">
-                        <a href="blog.html">Portfolio</a>
-                        <ul class="submenu">
-                          <li><a href="portfolio.html">Portfolio Default</a></li>
-                          <li><a href="portfolio_grid.html">Portfolio Grid</a></li>
-                          <li><a href="portfolio_fullwidth.html">Portfolio Full-width</a></li>
-                          <li><a href="portfolio_masonry.html">Portfolio Masonry</a></li>
-                          <li><a href="portfolio_details.html">Portfolio Details</a></li>
-                        </ul>
-                      </li>
-
-                      <li class="has-dropdown">
-                          <a href="blog.html">Blog</a>
-                          <ul class="submenu">
-                            <li><a href="blog.html">Blog Default</a></li>
-                            <li><a href="blog_classic.html">Blog Classic</a></li>
-                            <li><a href="blog_left_sidebar.html">Blog Left Sidebar</a></li>
-                            <li><a href="blog_right_sidebar.html">Blog Right Sidebar</a></li>
-                            <li><a href="blog_details.html">Blog Details</a></li>
-                          </ul>
-                      </li>
-
-                      <li>
-                          <a href="contact.html">Contact</a>
-                      </li>
-
-                    </ul>
-                 </nav>
-                 <!-- for wp -->
-                 <div class="header__hamburger ml-50 d-none">
-                    <button type="button" class="hamburger-btn offcanvas-open-btn">
-                       <span>01</span>
-                       <span>01</span>
-                       <span>01</span>
-                    </button>
-                 </div>
-              </div>
-           </div>
-            <div class="header_right">
-              <ul class="header_btns_group unordered_list_end d-none d-md-flex">
-                <li>
-                  <div class="select_option m-0">
-                    <div class="icon_wrap">
-                      <img src="assets/images/icons/icon_globe.svg" alt="Globe Icon">
-                    </div>
-                    <select>
-                      <option value="english" selected>English</option>
-                      <option value="arabic">Arabic</option>
-                      <option value="portuguese">Portuguese</option>
-                      <option value="french">French</option>
-                    </select>
-                  </div>
-                </li>
-                <li>
-                  <a href="contact.html" class="bd-btn-link outline-dark">
-                    <span class="bd-button-content-wrapper">
-                       <span class="pd-animation-flip">
-                          <span class="bd-btn-anim-wrapp">
-                             <span class="bd-button-text">Get a Quotes</span>
-                             <span class="bd-button-text">Get a Quotes</span>
-                          </span>
-                       </span> 
-                    </span>
-                 </a>
-                </li>
-              </ul>
-              <div class="offcanvas-toggle d-lg-none">
-              <a class="bar-icon" href="javascript:void(0)">
-                 <span></span>
-                 <span>
-                  <small></small>
-                 </span>
-                 <span></span>
-              </a>
-             </div>
-            </div>
-          </div>
-        </div>
-      </header>
-      <!-- Site Header - End
-      ================================================== -->
+        <!-- Start of Header -->
+        <?php include ('include/header.php');?>
+        <!-- End of Header -->
 
       <!-- Main Body - Start
       ================================================== -->
@@ -301,7 +117,7 @@
           <div class="container decoration_wrap">
             <h1 class="page_title">Portfolio Details</h1>
             <ul class="breadcrumb_nav unordered_list_center">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li>Portfolio Details</li>
             </ul>
 
@@ -566,93 +382,9 @@
       <!-- Main Body - End
       ================================================== -->
 
-      <!-- Site Footer - Start
-      ================================================== -->
-      <footer class="site_footer style_1">
-        <div class="footer_widget_area bg_dark_3">
-          <div class="container">
-            <div class="footer_widget_grid">
-              <div class="site_logo">
-                   <a class="site_link" href="index.html">
-                  <img src="assets/images/logo/site_logo_white.svg" alt="Site Logo - Paradox - Agency Template">
-                </a>
-              </div>
-              <div class="footer_widget">
-                <h3 class="footer_widget_title">Contact Us</h3>
-                <div class="icon_list_widget">
-                  <h4 class="widget_title mb-0">
-                    If you want to Get a New Idea:
-                  </h4>
-                  <ul class="icon_list unordered_list_block">
-                    <li>
-                      <a href="https://html.bdevs.net/cdn-cgi/l/email-protection#3754585943565443774756455653584f1954585a">
-                        <span class="list_item_text">
-                          <span class="__cf_email__" data-cfemail="10737f7e647173645060716271747f683e737f7d">[email&#160;protected]</span>
-                        </span>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="footer_widget">
-                <h3 class="footer_widget_title">Find Us</h3>
-                <div class="icon_list_widget">
-                  <ul class="icon_list unordered_list_block">
-                    <li>
-                      <div class="w-location mb-2">
-                        <img src="assets/images/icons/icon_mapmark.svg" alt="Icon Mapmark">
-                      </div>
-                      <a target="_blank" href="https://www.google.com/maps">
-                        <span class="list_item_text">
-                          1989 Timber Ridge Road <small class="d-md-block">Sacramento CA, California</small>
-                        </span>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="footer_widget">
-                <h3 class="footer_widget_title">Newsletter</h3>
-                <form action="#">
-                  <div class="small_newsletter_form">
-                    <input type="email" placeholder="Email Adreess">
-                    <button type="submit">
-                      <i class="far fa-arrow-right"></i>
-                    </button>
-                  </div>
-                  <div class="form-check mb-0">
-                    <input type="checkbox" id="checkMeOut">
-                    <label for="checkMeOut">Check me out</label>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="footer_bottom bg_dark_3">
-          <div class="container">
-            <div class="footer_bottom_grid">
-              <div class="copyright_widget">
-                Copyright © 2023 by <a target="_blank" href="https://themeforest.net/user/bdevs/portfolio"><u>Bdevs</u></a> All Rights Reserved.
-              </div>
-              <div class="backtotop style_1">
-                <a href="#" class="scroll">
-                  <i class="fal fa-chevron-up"></i>
-                </a>
-              </div>
-              <div class="footer_social">
-                <ul class="social_icon unordered_list_end">
-                  <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-                  <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-                  <li><a href="#!"><i class="fab fa-youtube"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
-      <!-- Site Footer - End
-      ================================================== -->
+        <!-- Start of Header -->
+        <?php include ('include/footer.php');?>
+        <!-- End of Header -->
 
 
     </div>

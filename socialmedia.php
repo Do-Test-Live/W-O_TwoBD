@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title> Paradox - Creative Agency HTML5 Template</title>
+    <title> Social Media Management - O2bd</title>
     <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
     <!-- Fraimwork - CSS Include -->
@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -109,109 +109,9 @@
     <div class="offcanvas__overlay-white"></div>
     <!-- Offcanvas area start -->
 
-    <!-- Site Header - Start
-    ================================================== -->
-    <header class="site_header site_header_4 p-0 bg-transparent shadow-none">
-        <div class="container">
-            <div class="content_box">
-                <div class="header_wrapper">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdb.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="mean__menu-wrapper d-none d-lg-block">
-                        <div class="main-menu main-menu-4">
-                            <nav id="mobile-menu">
-                                <ul>
-                                    <li>
-                                        <a href="index.html">Home</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Services</a>
-                                        <ul class="submenu">
-                                            <li><a href="#">Website Design and Development</a></li>
-                                            <li><a href="#">E-commerce Solutions</a></li>
-                                            <li><a href="#">Custom Web Applications</a></li>
-                                            <li><a href="#">Graphic Design and Branding</a></li>
-                                            <li><a href="#">Social Media Management</a></li>
-                                            <li><a href="#">UI/UX Design</a></li>
-                                            <li><a href="#">Content Management Systems (CMS)</a></li>
-                                            <li><a href="#">Management Software</a></li>
-                                            <li><a href="#">Automation and Integration</a></li>
-                                            <li><a href="#">CRM Solutions</a></li>
-                                            <li><a href="#">Website Maintenance</a></li>
-                                            <li><a href="#">AI Integration</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">Pages</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Portfolio</a>
-                                        <ul class="submenu">
-                                            <li><a href="portfolio.html">Portfolio Default</a></li>
-                                            <li><a href="#">Portfolio Grid</a></li>
-                                            <li><a href="#">Portfolio Full-width</a></li>
-                                            <li><a href="#">Portfolio Masonry</a></li>
-                                            <li><a href="#">Portfolio Details</a></li>
-                                        </ul>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Blog</a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Contact</a>
-                                    </li>
-
-                                </ul>
-                            </nav>
-                            <!-- for wp -->
-                            <div class="header__hamburger ml-50 d-none">
-                                <button type="button" class="hamburger-btn offcanvas-open-btn">
-                                    <span>01</span>
-                                    <span>01</span>
-                                    <span>01</span>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header_right">
-                        <ul class="header_btns_group unordered_list_end d-none d-md-flex">
-                            <li>
-                                <a href="contact.html" class="bd-btn-link btn_dark">
-                      <span class="bd-button-content-wrapper">
-                         <span class="pd-animation-flip">
-                            <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">Get a Quotes</span>
-                               <span class="bd-button-text">Get a Quotes</span>
-                            </span>
-                         </span>
-                      </span>
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="offcanvas-toggle d-lg-none">
-                            <a class="bar-icon" href="javascript:void(0)">
-                                <span></span>
-                                <span>
-                  <small></small>
-                 </span>
-                                <span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Site Header - End
-    ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/header.php');?>
+    <!-- End of Header -->
 
     <!-- Main Body - Start
     ================================================== -->
@@ -223,7 +123,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Service Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Service Details</li>
                 </ul>
 
@@ -254,7 +154,7 @@
                             <div class="details_sectio_content mb-4 mb-lg-0">
                                 <div class="section_heading">
                                     <h2 class="heading_title mb-0">
-                                        Take Control of Your Website Content
+                                        Maximize Your Online Presence
                                     </h2>
                                 </div>
                                 <a href="#" class="bd-btn-link btn_primary">
@@ -274,7 +174,7 @@
                         </div>
                         <div class="col col-lg-6">
                             <p>
-                                At o2bd, we specialize in setting up and customizing Content Management Systems (CMS) to empower you to manage and update your website's content with ease. Our CMS service gives you the control you need to keep your website fresh and engaging for your audience.
+                                At o2bd, we're experts in managing and growing your social media profiles. We create captivating content, run targeted ad campaigns, and engage with your audience to build a strong online presence for your brand. Our social media management service is designed to help you connect with your audience effectively.
 
                             </p>
                             <h4 class="mb-3">Features:</h4>
@@ -283,26 +183,34 @@
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">Custom CMS Setup: Tailoring the CMS to your specific needs and preferences.</span>
+                                    <span class="list_item_text">Content Creation: Engaging posts, articles, and visuals that resonate with your audience.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text"> User-Friendly Interface: An intuitive dashboard that makes content management a breeze.</span>
+                                    <span class="list_item_text">Ad Campaign Management: Running targeted ad campaigns to expand your reach.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text"> Training and Support: We provide training to ensure you're comfortable using your CMS, with ongoing support as needed.</span>
+                                    <span class="list_item_text">Audience Engagement: Responding to comments, messages, and interacting with your audience.</span>
+                                </li>
+
+
+                                <li>
+                      <span class="list_item_icon">
+                        <i class="fas fa-check"></i>
+                      </span>
+                                    <span class="list_item_text">Analytics and Reporting: Monitoring performance and providing insights for improvement.</span>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="section_space_lg">
                         <div class="video_widget">
-                            <img src="assets/images/video/service_details_video_poster.jpg"
+                            <img src="assets/images/video/social-media-management.jpg"
                                  alt="Paradox Service Video Poster">
                             <a class="video_play_icon popup_video" href="#">
                     <span class="icon_wrap" data-magnetic>
@@ -343,9 +251,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Easy Content Updates</h3>
+                                            <h3 class="item_title">Increased Engagement</h3>
                                             <p class="mb-0">
-                                                Say goodbye to technical hassles. Our CMS makes it simple for you to add, edit, or remove content as needed.
+                                                Our strategies and content keep your audience engaged, leading to more likes, shares, and comments.
                                             </p>
                                         </div>
                                     </div>
@@ -357,10 +265,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Quick Response to Changes</h3>
+                                            <h3 class="item_title">Growing Online Community</h3>
                                             <p class="mb-0">
-                                                Keep your website current by making updates in real-time, ensuring your audience always sees the latest information.
-
+                                                We foster a thriving online community around your brand, building loyalty and trust.
                                             </p>
                                         </div>
                                     </div>
@@ -372,9 +279,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Cost-Effective</h3>
+                                            <h3 class="item_title">More Conversions</h3>
                                             <p class="mb-0">
-                                                No need to rely on developers for every content change, saving you time and money.
+                                                Engaging content and ad campaigns drive more traffic to your website and convert visitors into customers.
 
                                             </p>
                                         </div>
@@ -387,10 +294,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Scalability</h3>
+                                            <h3 class="item_title">Time Savings</h3>
                                             <p class="mb-0">
-                                                As your business grows, your CMS can scale with you, accommodating more content and features.
-
+                                                Free up your time by letting us handle your social media, so you can focus on other aspects of your business.
 
                                             </p>
                                         </div>
@@ -404,6 +310,154 @@
         </section>
         <!-- Details Section - End
         ================================================== -->
+
+        <section class="portfolio_section section_space_lg">
+            <div class="container">
+                <div>
+                    <div class="row">
+                        <h3 class="heading_title mb-0 text-center" style=" padding-bottom: 50px; font-size: 50px;">
+                            Our Latest Work
+                        </h3>
+
+                    </div>
+                </div>
+                <div class="button-group filters-button-group">
+                    <div class="portfolio_button">
+                        <button class="active" data-filter="*">View All</button>
+                        <button data-filter=".graphics">Graphics</button>
+                        <button data-filter=".uiux">UI/UX</button>
+                        <button data-filter=".wordpress">WordPress</button>
+                        <button data-filter=".webdesign">Web Design</button>
+                    </div>
+                </div>
+                <div class="row grid">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">Graphics</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Taxi car for online transportation
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">UI/UX</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Landing Page Marketing Theme
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">WordPress</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Location Tracking 3D Illustration
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">Web Design</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Website Redesign
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">Web Design</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Location Tracking 3D Illustration
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">WordPress</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Furniture E-Commerce App
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pagination_wrap">
+                    <ul class="pagination_nav unordered_list_center">
+                        <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
+                        <li class="active"><a href="#!">1</a></li>
+                        <li><a href="#!">2</a></li>
+                        <li><a href="#!">3</a></li>
+                        <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
 
         <!-- Review Section - Start
         ================================================== -->
@@ -655,10 +709,13 @@
                              <span class="bd-button-text">Need to Know More</span>
                           </span>
                        </span>
-
                     </span>
                             </a>
-                        </div>
+                        </div>:
+                        :
+                       :
+
+
                     </div>
                     <div class="col col-lg-8">
                         <div class="accordion_wrap" id="faq_accordion">
@@ -674,7 +731,7 @@
                                      aria-labelledby="heading_one" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We start by understanding your website and content management requirements.
+                                            We start by understanding your brand, target audience, and social media goals.
                                         </p>
                                     </div>
                                 </div>
@@ -684,14 +741,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_two" aria-expanded="false"
                                             aria-controls="collapse_two">
-                                        CMS Selection
+                                        Content Strategy
                                     </button>
                                 </h3>
                                 <div id="collapse_two" class="accordion-collapse collapse" aria-labelledby="heading_two"
                                      data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Recommending the best CMS platform based on your needs (e.g., php, ajax, mySql).
+                                            Crafting a content strategy tailored to your audience and business objectives.
                                         </p>
                                     </div>
                                 </div>
@@ -701,14 +758,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_three" aria-expanded="false"
                                             aria-controls="collapse_three">
-                                        Customization
+                                        Content Creation
                                     </button>
                                 </h3>
                                 <div id="collapse_three" class="accordion-collapse collapse"
                                      aria-labelledby="heading_three" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Customizing the CMS to match your branding and functional requirements.
+                                            We create and schedule engaging content, including posts, articles, and visuals.
                                         </p>
                                     </div>
                                 </div>
@@ -718,14 +775,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_four" aria-expanded="false"
                                             aria-controls="collapse_four">
-                                        Training
+                                        Ad Campaigns
                                     </button>
                                 </h3>
                                 <div id="collapse_four" class="accordion-collapse collapse"
                                      aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We provide training to help you confidently manage your website's content.
+                                             Running targeted ad campaigns to boost visibility and conversions.
                                         </p>
                                     </div>
                                 </div>
@@ -735,15 +792,31 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_four" aria-expanded="false"
                                             aria-controls="collapse_four">
-                                        Ongoing Support
+                                        Audience Engagement
                                     </button>
                                 </h3>
                                 <div id="collapse_four" class="accordion-collapse collapse"
                                      aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            If you encounter any issues or need assistance, we're here to help.
-
+                                            We actively engage with your audience, responding to comments and messages.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion_item">
+                                <h3 class="accordion_header m-0" id="heading_four">
+                                    <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapse_four" aria-expanded="false"
+                                            aria-controls="collapse_four">
+                                        Performance Analysis
+                                    </button>
+                                </h3>
+                                <div id="collapse_four" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                    <div class="accordion_body">
+                                        <p class="m-0">
+                                             Regular monitoring of social media performance, with insights for improvement.
                                         </p>
                                     </div>
                                 </div>
@@ -829,7 +902,7 @@
                                         Process Timeline
                                     </h3>
                                     <p class="item_description mb-0">
-                                        The timeline for setting up your CMS depends on the complexity of your requirements. During our consultation, we'll provide you with an estimated timeframe.
+                                        The timeline for your social media management project varies based on your unique requirements. During our consultation, we'll provide you with an estimated timeframe.
                                     </p>
                                 </div>
                             </div>
@@ -869,10 +942,10 @@
                                 </div>
                                 <div class="item_content">
                                     <h3 class="item_title">
-                                        Guarantees or Warranties
+                                        Team Expertise
                                     </h3>
                                     <p class="item_description mb-0">
-                                        We offer a satisfaction guarantee and ongoing support to ensure your CMS serves your content management needs effectively.
+                                        Our social media management team includes experienced content creators, ad specialists, and engagement experts dedicated to boosting your online presence.
 
 
                                     </p>
@@ -923,10 +996,12 @@
                                 </div>
                                 <div class="item_content">
                                     <h3 class="item_title">
-                                        Team Expertise
+                                        Guarantees or Warranties
                                     </h3>
                                     <p class="item_description mb-0">
-                                        Our CMS team consists of experienced developers and trainers dedicated to simplifying your content management experience.
+                                        We offer a satisfaction guarantee and ongoing support to ensure your social media presence continues to thrive.
+
+
                                     </p>
                                 </div>
                             </div>
@@ -991,95 +1066,9 @@
     <!-- Main Body - End
     ================================================== -->
 
-    <!-- Site Footer - Start
-    ================================================== -->
-    <footer class="site_footer style_1">
-        <div class="footer_widget_area bg_dark_3">
-            <div class="container">
-                <div class="footer_widget_grid">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdw.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Contact Us</h3>
-                        <div class="icon_list_widget">
-                            <h4 class="widget_title mb-0">
-                                If you want to Get a New Idea:
-                            </h4>
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <a href="https://html.bdevs.net/cdn-cgi/l/email-protection#afccc0c1dbceccdbefdfceddcecbc0d781ccc0c2">
-                        <span class="list_item_text">
-                          <span class="__cf_email__" data-cfemail="6e0d01001a0f0d1a2e1e0f1c0f0a0116400d0103">[email&#160;protected]</span>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Find Us</h3>
-                        <div class="icon_list_widget">
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <div class="w-location mb-2">
-                                        <img src="assets/images/icons/icon_mapmark.svg" alt="Icon Mapmark">
-                                    </div>
-                                    <a target="_blank" href="https://www.google.com/maps">
-                        <span class="list_item_text">
-                          17, 5th Floor, R. Amin Trade Centre, <small class="d-md-block">KDA Ave, Khulna 9100</small>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Newsletter</h3>
-                        <form action="#">
-                            <div class="small_newsletter_form">
-                                <input type="email" placeholder="Email Adreess">
-                                <button type="submit">
-                                    <i class="far fa-arrow-right"></i>
-                                </button>
-                            </div>
-                            <div class="form-check mb-0">
-                                <input type="checkbox" id="checkMeOut">
-                                <label for="checkMeOut">Check me out</label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer_bottom bg_dark_3">
-            <div class="container">
-                <div class="footer_bottom_grid">
-                    <div class="copyright_widget">
-                        Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/"><u>FrogBID</u></a>
-                        All Rights Reserved.
-                    </div>
-                    <div class="backtotop style_1">
-                        <a href="#" class="scroll">
-                            <i class="fal fa-chevron-up"></i>
-                        </a>
-                    </div>
-                    <div class="footer_social">
-                        <ul class="social_icon unordered_list_end">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Site Footer - End
-    ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/footer.php');?>
+    <!-- End of Header -->
 
 
 </div>
@@ -1135,5 +1124,4 @@
 
 </body>
 
-<!-- Mirrored from html.bdevs.net/paradox_prev/paradox/website-design.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Sep 2023 06:20:24 GMT -->
 </html>

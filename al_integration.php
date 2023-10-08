@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title> Paradox - Creative Agency HTML5 Template</title>
+    <title> AI Integration-O2bd</title>
     <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
     <!-- Fraimwork - CSS Include -->
@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -109,109 +109,9 @@
     <div class="offcanvas__overlay-white"></div>
     <!-- Offcanvas area start -->
 
-    <!-- Site Header - Start
-    ================================================== -->
-    <header class="site_header site_header_4 p-0 bg-transparent shadow-none">
-        <div class="container">
-            <div class="content_box">
-                <div class="header_wrapper">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdb.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="mean__menu-wrapper d-none d-lg-block">
-                        <div class="main-menu main-menu-4">
-                            <nav id="mobile-menu">
-                                <ul>
-                                    <li>
-                                        <a href="index.html">Home</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Services</a>
-                                        <ul class="submenu">
-                                            <li><a href="#">Website Design and Development</a></li>
-                                            <li><a href="#">E-commerce Solutions</a></li>
-                                            <li><a href="#">Custom Web Applications</a></li>
-                                            <li><a href="#">Graphic Design and Branding</a></li>
-                                            <li><a href="#">Social Media Management</a></li>
-                                            <li><a href="#">UI/UX Design</a></li>
-                                            <li><a href="#">Content Management Systems (CMS)</a></li>
-                                            <li><a href="#">Management Software</a></li>
-                                            <li><a href="#">Automation and Integration</a></li>
-                                            <li><a href="#">CRM Solutions</a></li>
-                                            <li><a href="#">Website Maintenance</a></li>
-                                            <li><a href="#">AI Integration</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">Pages</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Portfolio</a>
-                                        <ul class="submenu">
-                                            <li><a href="portfolio.html">Portfolio Default</a></li>
-                                            <li><a href="#">Portfolio Grid</a></li>
-                                            <li><a href="#">Portfolio Full-width</a></li>
-                                            <li><a href="#">Portfolio Masonry</a></li>
-                                            <li><a href="#">Portfolio Details</a></li>
-                                        </ul>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Blog</a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Contact</a>
-                                    </li>
-
-                                </ul>
-                            </nav>
-                            <!-- for wp -->
-                            <div class="header__hamburger ml-50 d-none">
-                                <button type="button" class="hamburger-btn offcanvas-open-btn">
-                                    <span>01</span>
-                                    <span>01</span>
-                                    <span>01</span>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header_right">
-                        <ul class="header_btns_group unordered_list_end d-none d-md-flex">
-                            <li>
-                                <a href="contact.html" class="bd-btn-link btn_dark">
-                      <span class="bd-button-content-wrapper">
-                         <span class="pd-animation-flip">
-                            <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">Get a Quotes</span>
-                               <span class="bd-button-text">Get a Quotes</span>
-                            </span>
-                         </span>
-                      </span>
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="offcanvas-toggle d-lg-none">
-                            <a class="bar-icon" href="javascript:void(0)">
-                                <span></span>
-                                <span>
-                  <small></small>
-                 </span>
-                                <span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Site Header - End
-    ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/header.php');?>
+    <!-- End of Header -->
 
     <!-- Main Body - Start
     ================================================== -->
@@ -223,7 +123,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Service Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Service Details</li>
                 </ul>
 
@@ -254,7 +154,7 @@
                             <div class="details_sectio_content mb-4 mb-lg-0">
                                 <div class="section_heading">
                                     <h2 class="heading_title mb-0">
-                                        Crafting Your Digital Success.
+                                        Harness the Power of AI to Transform Your Business
                                     </h2>
                                 </div>
                                 <a href="#" class="bd-btn-link btn_primary">
@@ -267,18 +167,14 @@
                                <span class="bd-button-text">Get This Service Now</span>
                                <span class="bd-button-text">Get This Service Now</span>
                             </span>
-                         </span> 
+                         </span>
                       </span>
                                 </a>
                             </div>
                         </div>
                         <div class="col col-lg-6">
                             <p>
-                                At o2bd we're experts at creating captivating and user-friendly websites that
-                                empower businesses to thrive online. Our website design and development service is
-                                tailored to your brand and business needs, ensuring a seamless online experience for
-                                your customers.
-
+                                At o2bd, we specialize in integrating Artificial Intelligence (AI) solutions into your existing systems and processes, unlocking new possibilities for your business. Our AI integration service is designed to enhance decision-making, automation, and overall efficiency, helping you stay at the forefront of technology.
                             </p>
                             <h4 class="mb-3">Features:</h4>
                             <ul class="icon_list unordered_list_block">
@@ -286,40 +182,37 @@
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">Custom Website Design: Unique, tailored designs that match your brand identity.</span>
+                                    <span class="list_item_text">Custom AI Integration: Tailored AI solutions that align with your business goals and processes.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">Mobile-Responsive Development: Websites that look and function flawlessly on any device.</span>
+                                    <span class="list_item_text">Data Analysis and Insights: Extract meaningful insights from your data using AI algorithms.</span>
+                                </li>
+                                <li>
+                      <span class="list_item_icon">
+                        <i class="fas fa-check"></i>
+                      </span></span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">SEO Optimization: A website that's designed to rank well in search engines.</span>
-                                </li>
-
-
-                                <li>
-                      <span class="list_item_icon">
-                        <i class="fas fa-check"></i>
-                      </span>
-                                    <span class="list_item_text">User-Friendly Navigation: Easy-to-use menus and layouts.</span>
+                                    <span class="list_item_text"> Process Automation: Automate tasks and workflows for improved efficiency.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">Engaging Visuals and Graphics: Eye-catching design elements that captivate your audience.</span>
+                                    <span class="list_item_text"> Machine Learning Models: Implement predictive models and recommendations for better decision-making.</span>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="section_space_lg">
                         <div class="video_widget">
-                            <img src="assets/images/video/service_details_video_poster.jpg"
+                            <img src="assets/images/video/ai-inteligent.jpg"
                                  alt="Paradox Service Video Poster">
                             <a class="video_play_icon popup_video" href="#">
                     <span class="icon_wrap" data-magnetic>
@@ -346,7 +239,7 @@
                                <span class="bd-button-text">View Case Studies</span>
                                <span class="bd-button-text">View Case Studies</span>
                             </span>
-                         </span> 
+                         </span>
                       </span>
                                 </a>
                             </div>
@@ -360,9 +253,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Enhanced User Experience</h3>
+                                            <h3 class="item_title">Smarter Decision-Making</h3>
                                             <p class="mb-0">
-                                                Our user-focused design guarantees that visitors to your website have a smooth, intuitive, and enjoyable experience. This means longer visits, fewer people leaving your site right away, and more customers choosing to do business with you.
+                                                Leverage AI insights for data-driven decisions that lead to better outcomes.
                                             </p>
                                         </div>
                                     </div>
@@ -374,10 +267,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Mobile-First Approach</h3>
+                                            <h3 class="item_title">Increased Automation</h3>
                                             <p class="mb-0">
-                                                In today's mobile-driven world, having a website that looks and works great on all screen sizes is a must. Our designs are fully responsive, ensuring a consistent and engaging experience for mobile users, who make up a significant portion of your audience.
-
+                                                Automate repetitive tasks and processes for greater efficiency.
                                             </p>
                                         </div>
                                     </div>
@@ -389,10 +281,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Higher Search Engine Visibility</h3>
+                                            <h3 class="item_title">Enhanced Customer Experiences</h3>
                                             <p class="mb-0">
-                                                Our websites aren't just eye-catching; they're designed to perform well in search engine results. That means more people can find your website when they search online, leading to increased organic traffic and potential customers.
-
+                                                Deliver personalized and relevant experiences to your customers.
                                             </p>
                                         </div>
                                     </div>
@@ -404,10 +295,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Ready for Growth</h3>
+                                            <h3 class="item_title">Competitive Advantage</h3>
                                             <p class="mb-0">
-                                                We build websites with your future success in mind. As your business grows, your website can easily expand to accommodate new features, products, or services, ensuring long-term success and adaptability to your evolving needs
-
+                                                Stay ahead in your industry by adopting cutting-edge AI technology.
                                             </p>
                                         </div>
                                     </div>
@@ -670,7 +560,8 @@
                              <span class="bd-button-text">Need to Know More</span>
                              <span class="bd-button-text">Need to Know More</span>
                           </span>
-                       </span> 
+                       </span>
+
                     </span>
                             </a>
                         </div>
@@ -689,7 +580,7 @@
                                      aria-labelledby="heading_one" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We start by getting to know your business, goals, and design preferences.
+                                            We start by understanding your business processes, challenges, and AI goals.
                                         </p>
                                     </div>
                                 </div>
@@ -699,14 +590,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_two" aria-expanded="false"
                                             aria-controls="collapse_two">
-                                        Testing
+                                        AI Solution Design
                                     </button>
                                 </h3>
                                 <div id="collapse_two" class="accordion-collapse collapse" aria-labelledby="heading_two"
                                      data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We rigorously test your website to ensure it works perfectly on all devices and browsers.
+                                            Our experts design a customized AI solution that aligns with your objectives.
                                         </p>
                                     </div>
                                 </div>
@@ -716,14 +607,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_three" aria-expanded="false"
                                             aria-controls="collapse_three">
-                                        Launch
+                                        Integration Planning
                                     </button>
                                 </h3>
                                 <div id="collapse_three" class="accordion-collapse collapse"
                                      aria-labelledby="heading_three" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We make your website live, so your audience can find you online.
+                                            We plan and implement the seamless integration of AI into your existing systems.
                                         </p>
                                     </div>
                                 </div>
@@ -733,14 +624,33 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_four" aria-expanded="false"
                                             aria-controls="collapse_four">
-                                        Post-Launch Support
+                                        Training
                                     </button>
                                 </h3>
                                 <div id="collapse_four" class="accordion-collapse collapse"
                                      aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We're here to provide ongoing support and maintenance to keep your site running smoothly.
+                                            We provide training to your team to ensure they can effectively use the AI tools.
+                                            Testing and Optimization: Rigorous testing and continuous optimization ensure optimal AI performance.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion_item">
+                                <h3 class="accordion_header m-0" id="heading_four">
+                                    <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapse_four" aria-expanded="false"
+                                            aria-controls="collapse_four">
+                                        Ongoing Support
+                                    </button>
+                                </h3>
+                                <div id="collapse_four" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                    <div class="accordion_body">
+                                        <p class="m-0">
+                                            We offer ongoing support and updates to keep your AI integration running smoothly.
+
                                         </p>
                                     </div>
                                 </div>
@@ -826,7 +736,7 @@
                                         Process Timeline
                                     </h3>
                                     <p class="item_description mb-0">
-                                        The timeline for website design and development varies based on project complexity. During our consultation, we'll provide you with an estimated timeframe.
+                                        The timeline for your AI integration project varies based on complexity. During our consultation, we'll provide you with an estimated timeframe.
                                     </p>
                                 </div>
                             </div>
@@ -869,7 +779,8 @@
                                         Guarantees or Warranties
                                     </h3>
                                     <p class="item_description mb-0">
-                                        We offer a satisfaction guarantee and provide ongoing support to ensure your website's continued success.
+                                        We offer a satisfaction guarantee and ongoing support to ensure your AI integration continues to enhance your business operations effectively.
+
                                     </p>
                                 </div>
                             </div>
@@ -921,7 +832,7 @@
                                         Team Expertise
                                     </h3>
                                     <p class="item_description mb-0">
-                                        Our website design and development team includes experienced designers, developers, and UI/UX experts, all dedicated to ensuring your success online.
+                                        Our AI integration team includes experienced data scientists and AI specialists dedicated to maximizing the benefits of AI for your business.
                                     </p>
                                 </div>
                             </div>
@@ -971,7 +882,7 @@
                              <span class="bd-button-text">Contact us</span>
                              <span class="bd-button-text">Contact us</span>
                           </span>
-                       </span> 
+                       </span>
                     </span>
                             </a>
                         </div>
@@ -986,96 +897,9 @@
     <!-- Main Body - End
     ================================================== -->
 
-    <!-- Site Footer - Start
-    ================================================== -->
-    <footer class="site_footer style_1">
-        <div class="footer_widget_area bg_dark_3">
-            <div class="container">
-                <div class="footer_widget_grid">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdw.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Contact Us</h3>
-                        <div class="icon_list_widget">
-                            <h4 class="widget_title mb-0">
-                                If you want to Get a New Idea:
-                            </h4>
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <a href="https://html.bdevs.net/cdn-cgi/l/email-protection#afccc0c1dbceccdbefdfceddcecbc0d781ccc0c2">
-                        <span class="list_item_text">
-                          <span class="__cf_email__" data-cfemail="6e0d01001a0f0d1a2e1e0f1c0f0a0116400d0103">[email&#160;protected]</span>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Find Us</h3>
-                        <div class="icon_list_widget">
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <div class="w-location mb-2">
-                                        <img src="assets/images/icons/icon_mapmark.svg" alt="Icon Mapmark">
-                                    </div>
-                                    <a target="_blank" href="https://www.google.com/maps">
-                        <span class="list_item_text">
-                          17, 5th Floor, R. Amin Trade Centre, <small class="d-md-block">KDA Ave, Khulna 9100</small>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Newsletter</h3>
-                        <form action="#">
-                            <div class="small_newsletter_form">
-                                <input type="email" placeholder="Email Adreess">
-                                <button type="submit">
-                                    <i class="far fa-arrow-right"></i>
-                                </button>
-                            </div>
-                            <div class="form-check mb-0">
-                                <input type="checkbox" id="checkMeOut">
-                                <label for="checkMeOut">Check me out</label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer_bottom bg_dark_3">
-            <div class="container">
-                <div class="footer_bottom_grid">
-                    <div class="copyright_widget">
-                        Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/"><u>FrogBID</u></a>
-                        All Rights Reserved.
-                    </div>
-                    <div class="backtotop style_1">
-                        <a href="#" class="scroll">
-                            <i class="fal fa-chevron-up"></i>
-                        </a>
-                    </div>
-                    <div class="footer_social">
-                        <ul class="social_icon unordered_list_end">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Site Footer - End
-    ================================================== -->
-
+    <!-- Start of Header -->
+    <?php include ('include/footer.php');?>
+    <!-- End of Header -->
 
 </div>
 <!-- Body Wrap - End -->
@@ -1130,5 +954,4 @@
 
 </body>
 
-<!-- Mirrored from html.bdevs.net/paradox_prev/paradox/website-design.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Sep 2023 06:20:24 GMT -->
 </html>

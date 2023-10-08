@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title> Paradox - Creative Agency HTML5 Template</title>
+  <title> Home-O2bd</title>
   <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
   <!-- Fraimwork - CSS Include -->
@@ -63,7 +63,7 @@
               <div class="offcanvas__content">
                 <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                     <div class="offcanvas__logo">
-                      <a href="index.html">
+                      <a href="index.php">
                       <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                       </a>
                     </div>
@@ -110,108 +110,9 @@
       </div>
       <!-- Back to Top Button Fixed - End -->
 
-      <!-- Site Header - Start
-      ================================================== -->
-      <header class="site_header site_header_4 p-0 bg-transparent shadow-none">
-        <div class="container">
-          <div class="content_box">
-            <div class="header_wrapper">
-              <div class="site_logo">
-                   <a class="site_link" href="index.html">
-                  <img src="assets/images/logo/o2bdb.png" style="width: 170px;" alt="Site Logo - Paradox - Agency Template">
-                </a>
-              </div>
-              <div class="mean__menu-wrapper d-none d-lg-block">
-                <div class="main-menu main-menu-4">
-                  <nav id="mobile-menu">
-                    <ul>
-                       <li>
-                          <a href="index.html">Home</a>
-                       </li>
-
-                      <li class="has-dropdown">
-                        <a href="#">Services</a>
-                        <ul class="submenu">
-                          <li><a href="#">Website Design and Development</a></li>
-                          <li><a href="#">E-commerce Solutions</a></li>
-                          <li><a href="#">Custom Web Applications</a></li>
-                          <li><a href="#">Graphic Design and Branding</a></li>
-                          <li><a href="#">Social Media Management</a></li>
-                          <li><a href="#">UI/UX Design</a></li>
-                          <li><a href="#">Content Management Systems (CMS)</a></li>
-                          <li><a href="#">Management Software</a></li>
-                          <li><a href="#">Automation and Integration</a></li>
-                          <li><a href="#">CRM Solutions</a></li>
-                          <li><a href="#">Website Maintenance</a></li>
-                          <li><a href="#">AI Integration</a></li>
-                        </ul>
-                      </li>
-                      <li>
-                        <a href="#">Pages</a>
-                       </li>
-                       
-                       <li class="has-dropdown">
-                        <a href="#">Portfolio</a>
-                        <ul class="submenu">
-                          <li><a href="portfolio.html">Portfolio Default</a></li>
-                          <li><a href="#">Portfolio Grid</a></li>
-                          <li><a href="#">Portfolio Full-width</a></li>
-                          <li><a href="#">Portfolio Masonry</a></li>
-                          <li><a href="#">Portfolio Details</a></li>
-                        </ul>
-                      </li>
-
-                      <li>
-                          <a href="#">Blog</a>
-                      </li>
-
-                      <li>
-                          <a href="#">Contact</a>
-                      </li>
-
-                    </ul>
-                 </nav>
-                   <!-- for wp -->
-                   <div class="header__hamburger ml-50 d-none">
-                      <button type="button" class="hamburger-btn offcanvas-open-btn">
-                         <span>01</span>
-                         <span>01</span>
-                         <span>01</span>
-                      </button>
-                   </div>
-                </div>
-             </div>
-              <div class="header_right">
-                <ul class="header_btns_group unordered_list_end d-none d-md-flex">
-                  <li>
-                    <a href="contact.html" class="bd-btn-link btn_dark">
-                      <span class="bd-button-content-wrapper">
-                         <span class="pd-animation-flip">
-                            <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">Get a Quotes</span>
-                               <span class="bd-button-text">Get a Quotes</span>
-                            </span>
-                         </span> 
-                      </span>
-                   </a>
-                  </li>
-                </ul>
-                <div class="offcanvas-toggle d-lg-none">
-              <a class="bar-icon" href="javascript:void(0)">
-                 <span></span>
-                 <span>
-                  <small></small>
-                 </span>
-                 <span></span>
-              </a>
-               </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </header>
-      <!-- Site Header - End
-      ================================================== -->
+        <!-- Start of Header -->
+        <?php include ('include/header.php');?>
+        <!-- End of Header -->
 
       <!-- Main Body - Start
       ================================================== -->
@@ -356,7 +257,7 @@
                   </div>
                   <div class="btn_wrap pb-0">
                     <ul class="btns_group unordered_list">
-                      <li>
+                    <!--  <li>
                         <a href="about.html" class="bd-btn-link btn_primary">
                           <span class="bd-button-content-wrapper">
                              <span class="bd-button-icon">
@@ -370,15 +271,15 @@
                              </span>
                           </span>
                         </a>
-                      </li>
-                      <li>
+                      </li>-->
+                     <!-- <li>
                         <a class="video_play_btn popup_video" href="https://www.youtube.com/watch?v=7e90gBu4pas" data-cursor="-exclusion -lg" data-cursor-stick="#intro_vbtn">
                           <span id="intro_vbtn" class="icon_wrap">
                             <i class="fas fa-play"></i>
                           </span>
                           <span class="btn_text">Watch Our Video</span>
                         </a>
-                      </li>
+                      </li>-->
                     </ul>
                   </div>
                 </div>
@@ -450,7 +351,7 @@
                       Create a stunning website to attract more customers, boost your brand's visibility, and take your business to new heights.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="website-design.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -490,7 +391,7 @@
                       Increase sales, make customers happier, and build a thriving online store.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="ecom.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -535,7 +436,7 @@
                       Cut costs, work smarter, and gain a competitive edge with our tailor-made web tools.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="customweb.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -585,7 +486,7 @@
                       Make your brand unforgettable, attract loyal customers, and stand out from the competition.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="graphic.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -638,7 +539,7 @@
                        Get more engagement, grow your online community, and turn clicks into customers.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="socialmedia.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -687,7 +588,7 @@
                       Keep customers happy, improve user satisfaction, and watch your sales soar.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="uxdesign.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -736,7 +637,7 @@
                       Take control of your website content with ease.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="cms.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -786,7 +687,7 @@
                       Gain control, increase productivity, and see your business flourish with our customized management tools.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="management_software.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -836,7 +737,7 @@
                       Focus on growth, eliminate errors, and boost your bottom line by streamlining your operations
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="automation.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -886,7 +787,7 @@
                       Strengthen customer relationships, boost sales, and streamline your business with our customized CRM systems.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="crm.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -936,7 +837,7 @@
                       Keep your website running smoothly, secure, and up-to-date without the hassle.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="website_maintenance.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -985,7 +886,7 @@
                       Leverage the power of artificial intelligence to automate tasks, enhance decision-making, and stay ahead of the competition.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.html">
+                  <a class="item_details_btn" href="al_integration.php">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -1011,7 +912,7 @@
 
               </div>
             </div>
-            <div class="button-group filters-button-group">
+         <!--   <div class="button-group filters-button-group">
               <div class="portfolio_button">
                 <button class="active" data-filter="*">View All</button>
                 <button data-filter=".graphics">Graphics</button>
@@ -1020,22 +921,22 @@
                 <button data-filter=".webdesign">Web Design</button>
               </div>
             </div>
-
+-->
             <div class="row grid">
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg" alt="Paradox Portfolio Image">
+                    <a href="graphic.php">
+                      <img src="assets/images/portfolio/Graphic-design-and-branding.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="#!">Graphics</a></li>
+                      <li><a href="graphic.php">Graphic</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Taxi car for online transportation
+                      <a href="graphic.php">
+                          Graphic Design and Branding
                       </a>
                     </h3>
                   </div>
@@ -1044,17 +945,17 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg" alt="Paradox Portfolio Image">
+                    <a href="uxdesign.php">
+                      <img src="assets/images/portfolio/ui-ux-design.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="#!">UI/UX</a></li>
+                      <li><a href="uxdesign.php">UI/UX</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Landing Page Marketing Theme
+                      <a href="uxdesign.php">
+                          Keep customers happy
                       </a>
                     </h3>
                   </div>
@@ -1063,17 +964,17 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg" alt="Paradox Portfolio Image">
+                    <a href="website-design.php">
+                      <img src="assets/images/portfolio/website-design.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="#!">WordPress</a></li>
+                      <li><a href="website-design.php">Website Design and Development</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Location Tracking 3D Illustration
+                      <a href="website-design.php">
+                          Take your business to new heights.
                       </a>
                     </h3>
                   </div>
@@ -1082,17 +983,17 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
+                    <a href="socialmedia.php">
+                      <img src="assets/images/portfolio/social-media-management.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="#!">Web Design</a></li>
+                      <li><a href="socialmedia.php">Social Media Management</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Website Redesign
+                      <a href="socialmedia.php">
+                          Get more engagement
                       </a>
                     </h3>
                   </div>
@@ -1101,17 +1002,17 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
+                    <a href="customweb.php">
+                      <img src="assets/images/portfolio/Custom-web-application.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="#!">Web Design</a></li>
+                      <li><a href="customweb.php">Custom Web Applications</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Location Tracking 3D Illustration
+                      <a href="customweb.php">
+                          Cut costs, work smarter
                       </a>
                     </h3>
                   </div>
@@ -1120,74 +1021,17 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg" alt="Paradox Portfolio Image">
+                    <a href="ecom.php">
+                      <img src="assets/images/portfolio/ecommerce-solution.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="#!">WordPress</a></li>
+                      <li><a href="ecom.php">E-commerce Solutions</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Furniture E-Commerce App
-                      </a>
-                    </h3>
-                  </div>
-                </div>
-              </div>
-              <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
-                <div class="portfolio_item layout_grid text-center">
-                  <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_7.jpg" alt="Paradox Portfolio Image">
-                    </a>
-                  </div>
-                  <div class="item_content">
-                    <ul class="category_list unordered_list_center">
-                      <li><a href="#!">UI/UX</a></li>
-                    </ul>
-                    <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Landing Page Marketing Theme
-                      </a>
-                    </h3>
-                  </div>
-                </div>
-              </div>
-              <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
-                <div class="portfolio_item layout_grid text-center">
-                  <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
-                    </a>
-                  </div>
-                  <div class="item_content">
-                    <ul class="category_list unordered_list_center">
-                      <li><a href="#!">Graphics</a></li>
-                    </ul>
-                    <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Taxi car for online transportation
-                      </a>
-                    </h3>
-                  </div>
-                </div>
-              </div>
-              <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
-                <div class="portfolio_item layout_grid text-center">
-                  <div class="item_image">
-                    <a href="portfolio_details.html">
-                      <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
-                    </a>
-                  </div>
-                  <div class="item_content">
-                    <ul class="category_list unordered_list_center">
-                      <li><a href="#!">Web Design</a></li>
-                    </ul>
-                    <h3 class="item_title mb-0">
-                      <a href="portfolio_details.html">
-                        Location Tracking 3D Illustration
+                      <a href="ecom.php">
+                          Increase sales, make customers happier.
                       </a>
                     </h3>
                   </div>
@@ -1195,7 +1039,7 @@
               </div>
             </div>
 
-            <div class="pagination_wrap">
+          <!--  <div class="pagination_wrap">
               <ul class="pagination_nav unordered_list_center">
                 <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
                 <li class="active"><a href="#!">1</a></li>
@@ -1203,7 +1047,7 @@
                 <li><a href="#!">3</a></li>
                 <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
               </ul>
-            </div>
+            </div>-->
           </div>
         </section>
         <!-- Portfolio Section - End
@@ -1517,173 +1361,9 @@
       <!-- Main Body - End
       ================================================== -->
 
-      <!-- Site Footer - Start
-      ================================================== -->
-      <footer class="site_footer style_3">
-        <div class="footer_widget_area bg_dark_3">
-          <div class="container">
-            <div class="row justify-content-lg-between">
-              <div class="col col-lg-4 col-md-6">
-                <div class="footer_widget pe-lg-5">
-                  <div class="site_logo">
-                       <a class="site_link" href="index.html">
-                      <img src="assets/images/logo/o2bdw.png" style="width: 170px;" alt="Site Logo - Paradox - Agency Template">
-                    </a>
-                  </div>
-                  <p>
-                    Our action plan is focused and planned. We are result oriented organization
-                  </p>
-                  <div class="social_wrap d-block">
-                    <h3 class="social_title mb-2">Follow Us:</h3>
-                    <ul class="social_icon unordered_list mb-0">
-                      <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                      <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                      <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                      <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col col-lg-2 col-md-6">
-                <div class="footer_widget">
-                  <h3 class="footer_widget_title text-white">Our Services</h3>
-                  <ul class="page_list unordered_list_block">
-                    <li>
-                      <a href="#">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">UI/UX Design</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">Website Design</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">Email Marketing</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">SEO Analysing</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">Digital Marketing</span>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col col-lg-2 col-md-6">
-                <div class="footer_widget">
-                  <h3 class="footer_widget_title text-white">Company</h3>
-                  <ul class="page_list unordered_list_block">
-                    <li>
-                      <a href="about.html">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">About Us</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="team.html">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">Our Team</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="portfolio.html">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">Gallery</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="faq.html">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">FAQ</span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="blog.html">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                        <span class="list_item_text">Our Blog</span>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col col-lg-3 col-md-6">
-                <div class="footer_widget">
-                  <h3 class="footer_widget_title text-white">Newsletter</h3>
-                  <form action="#">
-                    <div class="small_newsletter_form">
-                      <input type="email" placeholder="Email Adreess">
-                      <button type="submit">
-                        <i class="far fa-arrow-right"></i>
-                      </button>
-                    </div>
-                    <div class="form-check mb-0">
-                      <input type="checkbox" id="checkMeOut">
-                      <label for="checkMeOut">Check me out</label>
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="footer_bottom bg_dark_2">
-          <div class="container">
-            <div class="copyright_widget">
-              Copyright © 2023 by <a target="_blank" href="https://themeforest.net/user/bdevs/portfolio"><u>Bdevs</u></a> All Rights Reserved.
-            </div>
-            <ul class="page_list unordered_list">
-              <li>
-                <a href="terms_conditions.html">
-                  <span class="list_item_text">Terms & Condition</span>
-                </a>
-              </li>
-              <li>
-                <a href="policy_privacy.html">
-                  <span class="list_item_icon">
-                    <i class="fas fa-circle"></i>
-                  </span>
-                  <span class="list_item_text">Policy & Privacy</span>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </footer>
-      <!-- Site Footer - End
-      ================================================== -->
+        <!-- Start of Header -->
+        <?php include ('include/footer.php');?>
+        <!-- End of Header -->
 
     </div>
     <!-- Body Wrap - End -->

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title> Paradox - Creative Agency HTML5 Template</title>
+    <title> Website Maintenance - O2bd</title>
     <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
     <!-- Fraimwork - CSS Include -->
@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -109,109 +109,9 @@
     <div class="offcanvas__overlay-white"></div>
     <!-- Offcanvas area start -->
 
-    <!-- Site Header - Start
-    ================================================== -->
-    <header class="site_header site_header_4 p-0 bg-transparent shadow-none">
-        <div class="container">
-            <div class="content_box">
-                <div class="header_wrapper">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdb.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="mean__menu-wrapper d-none d-lg-block">
-                        <div class="main-menu main-menu-4">
-                            <nav id="mobile-menu">
-                                <ul>
-                                    <li>
-                                        <a href="index.html">Home</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Services</a>
-                                        <ul class="submenu">
-                                            <li><a href="#">Website Design and Development</a></li>
-                                            <li><a href="#">E-commerce Solutions</a></li>
-                                            <li><a href="#">Custom Web Applications</a></li>
-                                            <li><a href="#">Graphic Design and Branding</a></li>
-                                            <li><a href="#">Social Media Management</a></li>
-                                            <li><a href="#">UI/UX Design</a></li>
-                                            <li><a href="#">Content Management Systems (CMS)</a></li>
-                                            <li><a href="#">Management Software</a></li>
-                                            <li><a href="#">Automation and Integration</a></li>
-                                            <li><a href="#">CRM Solutions</a></li>
-                                            <li><a href="#">Website Maintenance</a></li>
-                                            <li><a href="#">AI Integration</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">Pages</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Portfolio</a>
-                                        <ul class="submenu">
-                                            <li><a href="portfolio.html">Portfolio Default</a></li>
-                                            <li><a href="#">Portfolio Grid</a></li>
-                                            <li><a href="#">Portfolio Full-width</a></li>
-                                            <li><a href="#">Portfolio Masonry</a></li>
-                                            <li><a href="#">Portfolio Details</a></li>
-                                        </ul>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Blog</a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Contact</a>
-                                    </li>
-
-                                </ul>
-                            </nav>
-                            <!-- for wp -->
-                            <div class="header__hamburger ml-50 d-none">
-                                <button type="button" class="hamburger-btn offcanvas-open-btn">
-                                    <span>01</span>
-                                    <span>01</span>
-                                    <span>01</span>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header_right">
-                        <ul class="header_btns_group unordered_list_end d-none d-md-flex">
-                            <li>
-                                <a href="contact.html" class="bd-btn-link btn_dark">
-                      <span class="bd-button-content-wrapper">
-                         <span class="pd-animation-flip">
-                            <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">Get a Quotes</span>
-                               <span class="bd-button-text">Get a Quotes</span>
-                            </span>
-                         </span>
-                      </span>
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="offcanvas-toggle d-lg-none">
-                            <a class="bar-icon" href="javascript:void(0)">
-                                <span></span>
-                                <span>
-                  <small></small>
-                 </span>
-                                <span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Site Header - End
-    ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/header.php');?>
+    <!-- End of Header -->
 
     <!-- Main Body - Start
     ================================================== -->
@@ -223,7 +123,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Service Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Service Details</li>
                 </ul>
 
@@ -254,7 +154,7 @@
                             <div class="details_sectio_content mb-4 mb-lg-0">
                                 <div class="section_heading">
                                     <h2 class="heading_title mb-0">
-                                        Elevate Your Brand's Visual Identity.
+                                        Keep Your Website Running Smoothly and Secure
                                     </h2>
                                 </div>
                                 <a href="#" class="bd-btn-link btn_primary">
@@ -274,46 +174,45 @@
                         </div>
                         <div class="col col-lg-6">
                             <p>
-                                At o2bd, we specialize in creating captivating graphic designs and branding materials that leave a lasting impression, attract loyal customers, and set your brand apart in a competitive marketplace. Our graphic design and branding service is tailored to enhance your unique brand identity.
-
-
-
+                                At o2bd, we specialize in providing comprehensive website maintenance services to ensure your website remains up-to-date, secure, and fully functional. Our website maintenance service allows you to focus on your core business while we take care of your online presence.
                             </p>
                             <h4 class="mb-3">Features:</h4>
                             <ul class="icon_list unordered_list_block">
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
-
                       </span>
-                                    <span class="list_item_text"> Logo Design: Crafting a unique and memorable logo that embodies your brand's essence.</span>
+                                    <span class="list_item_text">Software Updates: Keeping your website's software, plugins, and themes up-to-date.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">Branding Materials: Business cards, letterheads, and other materials that reflect your brand identity.</span>
+                                    <span class="list_item_text">Security Audits: Regular security checks to identify and address vulnerabilities.</span>
+                                </li>
+                                <li>
+                      <span class="list_item_icon">
+                        <i class="fas fa-check"></i>
+                      </span></span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">Graphics for Marketing: Eye-catching graphics for online and offline marketing campaigns.</span>
+                                    <span class="list_item_text"> Content Updates: Adding, editing, or removing content as needed to keep your site current.</span>
                                 </li>
-
-
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text">Custom Branding Strategies: Tailored branding strategies to enhance your market presence.</span>
+                                    <span class="list_item_text"> Backup and Recovery: Regular backups ensure your data is safe and can be restored if needed.</span>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="section_space_lg">
                         <div class="video_widget">
-                            <img src="assets/images/video/service_details_video_poster.jpg"
+                            <img src="assets/images/video/web-maintance.jpg"
                                  alt="Paradox Service Video Poster">
                             <a class="video_play_icon popup_video" href="#">
                     <span class="icon_wrap" data-magnetic>
@@ -354,9 +253,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Unforgettable Brand Image</h3>
+                                            <h3 class="item_title">Security Assurance</h3>
                                             <p class="mb-0">
-                                                Our designs create a memorable and distinctive brand identity that customers will recognize and trust.
+                                                Regular updates and security checks protect your website from potential threats and vulnerabilities.
                                             </p>
                                         </div>
                                     </div>
@@ -368,10 +267,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Professionalism</h3>
+                                            <h3 class="item_title">Enhanced Performance</h3>
                                             <p class="mb-0">
-                                                High-quality branding materials, such as business cards and letterheads, convey professionalism and leave a positive impression on clients and partners.
-
+                                                Ongoing optimization keeps your website running smoothly and loading quickly.
                                             </p>
                                         </div>
                                     </div>
@@ -383,10 +281,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Effective Marketing</h3>
+                                            <h3 class="item_title">Content Updates</h3>
                                             <p class="mb-0">
-                                                Engaging graphics for marketing campaigns increase the impact of your advertising efforts, driving better results.
-
+                                                Keep your content fresh and relevant to engage your audience effectively.
                                             </p>
                                         </div>
                                     </div>
@@ -398,10 +295,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Customer Attraction</h3>
+                                            <h3 class="item_title">Improved SEO</h3>
                                             <p class="mb-0">
-                                                A well-defined brand attracts loyal customers who connect with your values and offerings.
-
+                                                Regular maintenance contributes to better search engine rankings and visibility.
                                             </p>
                                         </div>
                                     </div>
@@ -665,6 +561,7 @@
                              <span class="bd-button-text">Need to Know More</span>
                           </span>
                        </span>
+
                     </span>
                             </a>
                         </div>
@@ -683,7 +580,7 @@
                                      aria-labelledby="heading_one" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We begin by understanding your brand, target audience, and goals.
+                                            We start by understanding your website's current status and your maintenance requirements.
                                         </p>
                                     </div>
                                 </div>
@@ -693,14 +590,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_two" aria-expanded="false"
                                             aria-controls="collapse_two">
-                                        Design Phase
+                                        Maintenance Plan
                                     </button>
                                 </h3>
                                 <div id="collapse_two" class="accordion-collapse collapse" aria-labelledby="heading_two"
                                      data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Our designers create initial concepts and refine them based on your feedback.
+                                            We create a customized maintenance plan that suits your website's needs.
                                         </p>
                                     </div>
                                 </div>
@@ -710,14 +607,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_three" aria-expanded="false"
                                             aria-controls="collapse_three">
-                                        Branding Material Creation
+                                        Regular Updates
                                     </button>
                                 </h3>
                                 <div id="collapse_three" class="accordion-collapse collapse"
                                      aria-labelledby="heading_three" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We develop branding materials to ensure consistency across all touchpoints.
+                                            We perform software updates, security audits, and backups on a scheduled basis.
                                         </p>
                                     </div>
                                 </div>
@@ -727,15 +624,51 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_four" aria-expanded="false"
                                             aria-controls="collapse_four">
-                                        Marketing Graphics
+                                        Content Updates
                                     </button>
                                 </h3>
                                 <div id="collapse_four" class="accordion-collapse collapse"
                                      aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Engaging graphics are designed to amplify your marketing efforts.
-                                            Brand Strategy: We collaborate with you to create a branding strategy that resonates with your audience.
+                                            We add, edit, or remove content as requested to keep your site fresh.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion_item">
+                                <h3 class="accordion_header m-0" id="heading_four">
+                                    <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapse_four" aria-expanded="false"
+                                            aria-controls="collapse_four">
+                                        Monitoring
+                                    </button>
+                                </h3>
+                                <div id="collapse_four" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                    <div class="accordion_body">
+                                        <p class="m-0">
+                                            We continuously monitor your website's performance and security.
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion_item">
+                                <h3 class="accordion_header m-0" id="heading_four">
+                                    <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapse_four" aria-expanded="false"
+                                            aria-controls="collapse_four">
+                                        Emergency Support
+
+                                    </button>
+                                </h3>
+                                <div id="collapse_four" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                    <div class="accordion_body">
+                                        <p class="m-0">
+                                            In case of issues or emergencies, we're available to provide support.
+
                                         </p>
                                     </div>
                                 </div>
@@ -821,7 +754,7 @@
                                         Process Timeline
                                     </h3>
                                     <p class="item_description mb-0">
-                                        The timeline for your graphic design and branding project varies based on your unique requirements. During our consultation, we'll provide you with an estimated timeframe.
+                                        The timeline for your website maintenance project varies based on the complexity of your website and maintenance requirements. During our consultation, we'll provide you with an estimated timeframe.
                                     </p>
                                 </div>
                             </div>
@@ -861,10 +794,11 @@
                                 </div>
                                 <div class="item_content">
                                     <h3 class="item_title">
-                                        Team Expertise
+                                        Guarantees or Warranties
                                     </h3>
                                     <p class="item_description mb-0">
-                                        Our graphic design and branding team includes experienced designers and brand strategists
+                                        We offer a satisfaction guarantee and ongoing support to ensure your website remains secure and functional.
+
                                     </p>
                                 </div>
                             </div>
@@ -913,10 +847,10 @@
                                 </div>
                                 <div class="item_content">
                                     <h3 class="item_title">
-                                        Guarantees or Warranties
+                                        Team Expertise
                                     </h3>
                                     <p class="item_description mb-0">
-                                        We offer a satisfaction guarantee and ongoing support to ensure your brand's visual identity continues to resonate with your audience.
+                                        Our website maintenance team includes experienced developers and security experts dedicated to keeping your website in optimal condition.
                                     </p>
                                 </div>
                             </div>
@@ -981,95 +915,9 @@
     <!-- Main Body - End
     ================================================== -->
 
-    <!-- Site Footer - Start
-    ================================================== -->
-    <footer class="site_footer style_1">
-        <div class="footer_widget_area bg_dark_3">
-            <div class="container">
-                <div class="footer_widget_grid">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdw.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Contact Us</h3>
-                        <div class="icon_list_widget">
-                            <h4 class="widget_title mb-0">
-                                If you want to Get a New Idea:
-                            </h4>
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <a href="https://html.bdevs.net/cdn-cgi/l/email-protection#afccc0c1dbceccdbefdfceddcecbc0d781ccc0c2">
-                        <span class="list_item_text">
-                          <span class="__cf_email__" data-cfemail="6e0d01001a0f0d1a2e1e0f1c0f0a0116400d0103">[email&#160;protected]</span>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Find Us</h3>
-                        <div class="icon_list_widget">
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <div class="w-location mb-2">
-                                        <img src="assets/images/icons/icon_mapmark.svg" alt="Icon Mapmark">
-                                    </div>
-                                    <a target="_blank" href="https://www.google.com/maps">
-                        <span class="list_item_text">
-                          17, 5th Floor, R. Amin Trade Centre, <small class="d-md-block">KDA Ave, Khulna 9100</small>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Newsletter</h3>
-                        <form action="#">
-                            <div class="small_newsletter_form">
-                                <input type="email" placeholder="Email Adreess">
-                                <button type="submit">
-                                    <i class="far fa-arrow-right"></i>
-                                </button>
-                            </div>
-                            <div class="form-check mb-0">
-                                <input type="checkbox" id="checkMeOut">
-                                <label for="checkMeOut">Check me out</label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer_bottom bg_dark_3">
-            <div class="container">
-                <div class="footer_bottom_grid">
-                    <div class="copyright_widget">
-                        Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/"><u>FrogBID</u></a>
-                        All Rights Reserved.
-                    </div>
-                    <div class="backtotop style_1">
-                        <a href="#" class="scroll">
-                            <i class="fal fa-chevron-up"></i>
-                        </a>
-                    </div>
-                    <div class="footer_social">
-                        <ul class="social_icon unordered_list_end">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Site Footer - End
-    ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/footer.php');?>
+    <!-- End of Header -->
 
 
 </div>

@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title> Paradox - Creative Agency HTML5 Template</title>
+  <title>UI/UX Design - O2bd</title>
   <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
   <!-- Fraimwork - CSS Include -->
@@ -109,109 +109,9 @@
   <div class="offcanvas__overlay-white"></div>
   <!-- Offcanvas area start -->
 
-  <!-- Site Header - Start
-  ================================================== -->
-  <header class="site_header site_header_4 p-0 bg-transparent shadow-none">
-    <div class="container">
-      <div class="content_box">
-        <div class="header_wrapper">
-          <div class="site_logo">
-            <a class="site_link" href="index.html">
-              <img src="assets/images/logo/o2bdb.png" style="width: 170px;"
-                   alt="Site Logo - Paradox - Agency Template">
-            </a>
-          </div>
-          <div class="mean__menu-wrapper d-none d-lg-block">
-            <div class="main-menu main-menu-4">
-              <nav id="mobile-menu">
-                <ul>
-                  <li>
-                    <a href="index.html">Home</a>
-                  </li>
-
-                  <li class="has-dropdown">
-                    <a href="#">Services</a>
-                    <ul class="submenu">
-                      <li><a href="#">Website Design and Development</a></li>
-                      <li><a href="#">E-commerce Solutions</a></li>
-                      <li><a href="#">Custom Web Applications</a></li>
-                      <li><a href="#">Graphic Design and Branding</a></li>
-                      <li><a href="#">Social Media Management</a></li>
-                      <li><a href="#">UI/UX Design</a></li>
-                      <li><a href="#">Content Management Systems (CMS)</a></li>
-                      <li><a href="#">Management Software</a></li>
-                      <li><a href="#">Automation and Integration</a></li>
-                      <li><a href="#">CRM Solutions</a></li>
-                      <li><a href="#">Website Maintenance</a></li>
-                      <li><a href="#">AI Integration</a></li>
-                    </ul>
-                  </li>
-                  <li>
-                    <a href="#">Pages</a>
-                  </li>
-
-                  <li class="has-dropdown">
-                    <a href="#">Portfolio</a>
-                    <ul class="submenu">
-                      <li><a href="portfolio.html">Portfolio Default</a></li>
-                      <li><a href="#">Portfolio Grid</a></li>
-                      <li><a href="#">Portfolio Full-width</a></li>
-                      <li><a href="#">Portfolio Masonry</a></li>
-                      <li><a href="#">Portfolio Details</a></li>
-                    </ul>
-                  </li>
-
-                  <li>
-                    <a href="#">Blog</a>
-                  </li>
-
-                  <li>
-                    <a href="#">Contact</a>
-                  </li>
-
-                </ul>
-              </nav>
-              <!-- for wp -->
-              <div class="header__hamburger ml-50 d-none">
-                <button type="button" class="hamburger-btn offcanvas-open-btn">
-                  <span>01</span>
-                  <span>01</span>
-                  <span>01</span>
-                </button>
-              </div>
-            </div>
-          </div>
-          <div class="header_right">
-            <ul class="header_btns_group unordered_list_end d-none d-md-flex">
-              <li>
-                <a href="contact.html" class="bd-btn-link btn_dark">
-                      <span class="bd-button-content-wrapper">
-                         <span class="pd-animation-flip">
-                            <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">Get a Quotes</span>
-                               <span class="bd-button-text">Get a Quotes</span>
-                            </span>
-                         </span>
-                      </span>
-                </a>
-              </li>
-            </ul>
-            <div class="offcanvas-toggle d-lg-none">
-              <a class="bar-icon" href="javascript:void(0)">
-                <span></span>
-                <span>
-                  <small></small>
-                 </span>
-                <span></span>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-  <!-- Site Header - End
-  ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/header.php');?>
+    <!-- End of Header -->
 
   <!-- Main Body - Start
   ================================================== -->
@@ -223,7 +123,7 @@
       <div class="container decoration_wrap">
         <h1 class="page_title">Service Details</h1>
         <ul class="breadcrumb_nav unordered_list_center">
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li>Service Details</li>
         </ul>
 
@@ -313,7 +213,7 @@
           </div>
           <div class="section_space_lg">
             <div class="video_widget">
-              <img src="assets/images/video/service_details_video_poster.jpg"
+              <img src="assets/images/video/ui-ux-video.jpg"
                    alt="Paradox Service Video Poster">
               <a class="video_play_icon popup_video" href="#">
                     <span class="icon_wrap" data-magnetic>
@@ -414,6 +314,153 @@
     </section>
     <!-- Details Section - End
     ================================================== -->
+      <section class="portfolio_section section_space_lg">
+          <div class="container">
+              <div>
+                  <div class="row">
+                      <h3 class="heading_title mb-0 text-center" style=" padding-bottom: 50px; font-size: 50px;">
+                          Our Latest Work
+                      </h3>
+
+                  </div>
+              </div>
+              <div class="button-group filters-button-group">
+                  <div class="portfolio_button">
+                      <button class="active" data-filter="*">View All</button>
+                      <button data-filter=".graphics">Graphics</button>
+                      <button data-filter=".uiux">UI/UX</button>
+                      <button data-filter=".wordpress">WordPress</button>
+                      <button data-filter=".webdesign">Web Design</button>
+                  </div>
+              </div>
+              <div class="row grid">
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="portfolio_details.html">
+                                  <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg" alt="Paradox Portfolio Image">
+                              </a>
+                          </div>
+                          <div class="item_content">
+                              <ul class="category_list unordered_list_center">
+                                  <li><a href="#!">Graphics</a></li>
+                              </ul>
+                              <h3 class="item_title mb-0">
+                                  <a href="portfolio_details.html">
+                                      Taxi car for online transportation
+                                  </a>
+                              </h3>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="portfolio_details.html">
+                                  <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg" alt="Paradox Portfolio Image">
+                              </a>
+                          </div>
+                          <div class="item_content">
+                              <ul class="category_list unordered_list_center">
+                                  <li><a href="#!">UI/UX</a></li>
+                              </ul>
+                              <h3 class="item_title mb-0">
+                                  <a href="portfolio_details.html">
+                                      Landing Page Marketing Theme
+                                  </a>
+                              </h3>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="portfolio_details.html">
+                                  <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg" alt="Paradox Portfolio Image">
+                              </a>
+                          </div>
+                          <div class="item_content">
+                              <ul class="category_list unordered_list_center">
+                                  <li><a href="#!">WordPress</a></li>
+                              </ul>
+                              <h3 class="item_title mb-0">
+                                  <a href="portfolio_details.html">
+                                      Location Tracking 3D Illustration
+                                  </a>
+                              </h3>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="portfolio_details.html">
+                                  <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
+                              </a>
+                          </div>
+                          <div class="item_content">
+                              <ul class="category_list unordered_list_center">
+                                  <li><a href="#!">Web Design</a></li>
+                              </ul>
+                              <h3 class="item_title mb-0">
+                                  <a href="portfolio_details.html">
+                                      Website Redesign
+                                  </a>
+                              </h3>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="portfolio_details.html">
+                                  <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
+                              </a>
+                          </div>
+                          <div class="item_content">
+                              <ul class="category_list unordered_list_center">
+                                  <li><a href="#!">Web Design</a></li>
+                              </ul>
+                              <h3 class="item_title mb-0">
+                                  <a href="portfolio_details.html">
+                                      Location Tracking 3D Illustration
+                                  </a>
+                              </h3>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="portfolio_details.html">
+                                  <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg" alt="Paradox Portfolio Image">
+                              </a>
+                          </div>
+                          <div class="item_content">
+                              <ul class="category_list unordered_list_center">
+                                  <li><a href="#!">WordPress</a></li>
+                              </ul>
+                              <h3 class="item_title mb-0">
+                                  <a href="portfolio_details.html">
+                                      Furniture E-Commerce App
+                                  </a>
+                              </h3>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="pagination_wrap">
+                  <ul class="pagination_nav unordered_list_center">
+                      <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
+                      <li class="active"><a href="#!">1</a></li>
+                      <li><a href="#!">2</a></li>
+                      <li><a href="#!">3</a></li>
+                      <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
+                  </ul>
+              </div>
+          </div>
+      </section>
 
     <!-- Review Section - Start
     ================================================== -->
@@ -1015,95 +1062,9 @@
   <!-- Main Body - End
   ================================================== -->
 
-  <!-- Site Footer - Start
-  ================================================== -->
-  <footer class="site_footer style_1">
-    <div class="footer_widget_area bg_dark_3">
-      <div class="container">
-        <div class="footer_widget_grid">
-          <div class="site_logo">
-            <a class="site_link" href="index.html">
-              <img src="assets/images/logo/o2bdw.png" style="width: 170px;"
-                   alt="Site Logo - Paradox - Agency Template">
-            </a>
-          </div>
-          <div class="footer_widget">
-            <h3 class="footer_widget_title">Contact Us</h3>
-            <div class="icon_list_widget">
-              <h4 class="widget_title mb-0">
-                If you want to Get a New Idea:
-              </h4>
-              <ul class="icon_list unordered_list_block">
-                <li>
-                  <a href="https://html.bdevs.net/cdn-cgi/l/email-protection#afccc0c1dbceccdbefdfceddcecbc0d781ccc0c2">
-                        <span class="list_item_text">
-                          <span class="__cf_email__" data-cfemail="6e0d01001a0f0d1a2e1e0f1c0f0a0116400d0103">[email&#160;protected]</span>
-                        </span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="footer_widget">
-            <h3 class="footer_widget_title">Find Us</h3>
-            <div class="icon_list_widget">
-              <ul class="icon_list unordered_list_block">
-                <li>
-                  <div class="w-location mb-2">
-                    <img src="assets/images/icons/icon_mapmark.svg" alt="Icon Mapmark">
-                  </div>
-                  <a target="_blank" href="https://www.google.com/maps">
-                        <span class="list_item_text">
-                          17, 5th Floor, R. Amin Trade Centre, <small class="d-md-block">KDA Ave, Khulna 9100</small>
-                        </span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="footer_widget">
-            <h3 class="footer_widget_title">Newsletter</h3>
-            <form action="#">
-              <div class="small_newsletter_form">
-                <input type="email" placeholder="Email Adreess">
-                <button type="submit">
-                  <i class="far fa-arrow-right"></i>
-                </button>
-              </div>
-              <div class="form-check mb-0">
-                <input type="checkbox" id="checkMeOut">
-                <label for="checkMeOut">Check me out</label>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="footer_bottom bg_dark_3">
-      <div class="container">
-        <div class="footer_bottom_grid">
-          <div class="copyright_widget">
-            Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/"><u>FrogBID</u></a>
-            All Rights Reserved.
-          </div>
-          <div class="backtotop style_1">
-            <a href="#" class="scroll">
-              <i class="fal fa-chevron-up"></i>
-            </a>
-          </div>
-          <div class="footer_social">
-            <ul class="social_icon unordered_list_end">
-              <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
-  <!-- Site Footer - End
-  ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/footer.php');?>
+    <!-- End of Header -->
 
 
 </div>

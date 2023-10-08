@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title> Paradox - Creative Agency HTML5 Template</title>
+    <title> E-commerce Solutions-O2bd</title>
     <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
     <!-- Fraimwork - CSS Include -->
@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -109,110 +109,9 @@
     <div class="offcanvas__overlay-white"></div>
     <!-- Offcanvas area start -->
 
-    <!-- Site Header - Start
-    ================================================== -->
-    <header class="site_header site_header_4 p-0 bg-transparent shadow-none">
-        <div class="container">
-            <div class="content_box">
-                <div class="header_wrapper">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdb.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="mean__menu-wrapper d-none d-lg-block">
-                        <div class="main-menu main-menu-4">
-                            <nav id="mobile-menu">
-                                <ul>
-                                    <li>
-                                        <a href="index.html">Home</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Services</a>
-                                        <ul class="submenu">
-                                            <li><a href="#">Website Design and Development</a></li>
-                                            <li><a href="#">E-commerce Solutions</a></li>
-                                            <li><a href="#">Custom Web Applications</a></li>
-                                            <li><a href="#">Graphic Design and Branding</a></li>
-                                            <li><a href="#">Social Media Management</a></li>
-                                            <li><a href="#">UI/UX Design</a></li>
-                                            <li><a href="#">Content Management Systems (CMS)</a></li>
-                                            <li><a href="#">Management Software</a></li>
-                                            <li><a href="#">Automation and Integration</a></li>
-                                            <li><a href="#">CRM Solutions</a></li>
-                                            <li><a href="#">Website Maintenance</a></li>
-                                            <li><a href="#">AI Integration</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">Pages</a>
-                                    </li>
-
-                                    <li class="has-dropdown">
-                                        <a href="#">Portfolio</a>
-                                        <ul class="submenu">
-                                            <li><a href="portfolio.html">Portfolio Default</a></li>
-                                            <li><a href="#">Portfolio Grid</a></li>
-                                            <li><a href="#">Portfolio Full-width</a></li>
-                                            <li><a href="#">Portfolio Masonry</a></li>
-                                            <li><a href="#">Portfolio Details</a></li>
-                                        </ul>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Blog</a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#">Contact</a>
-                                    </li>
-
-                                </ul>
-                            </nav>
-                            <!-- for wp -->
-                            <div class="header__hamburger ml-50 d-none">
-                                <button type="button" class="hamburger-btn offcanvas-open-btn">
-                                    <span>01</span>
-                                    <span>01</span>
-                                    <span>01</span>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="header_right">
-                        <ul class="header_btns_group unordered_list_end d-none d-md-flex">
-                            <li>
-                                <a href="contact.html" class="bd-btn-link btn_dark">
-                      <span class="bd-button-content-wrapper">
-                         <span class="pd-animation-flip">
-                            <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">Get a Quotes</span>
-                               <span class="bd-button-text">Get a Quotes</span>
-                            </span>
-                         </span>
-                      </span>
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="offcanvas-toggle d-lg-none">
-                            <a class="bar-icon" href="javascript:void(0)">
-                                <span></span>
-                                <span>
-                  <small></small>
-                 </span>
-                                <span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Site Header - End
-    ================================================== -->
-
+    <!-- Start of Header -->
+    <?php include ('include/header.php');?>
+    <!-- End of Header -->
     <!-- Main Body - Start
     ================================================== -->
     <main class="page_content">
@@ -223,7 +122,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Service Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Service Details</li>
                 </ul>
 
@@ -254,7 +153,7 @@
                             <div class="details_sectio_content mb-4 mb-lg-0">
                                 <div class="section_heading">
                                     <h2 class="heading_title mb-0">
-                                        Gain Control, Increase Productivity, and Watch Your Business Flourish
+                                        Unlocking Your Online Sales Potential.
                                     </h2>
                                 </div>
                                 <a href="#" class="bd-btn-link btn_primary">
@@ -274,7 +173,7 @@
                         </div>
                         <div class="col col-lg-6">
                             <p>
-                                At o2bd, we specialize in providing customized management software solutions designed to streamline your business operations, enhance productivity, and boost your bottom line. Our management software service is tailored to meet your specific business needs and ensure you have the tools to succeed.
+                                At o2bd, we're experts in creating powerful e-commerce solutions that drive sales and help businesses flourish online. Our e-commerce services are customized to your brand and business, delivering a seamless online shopping experience for your customers.
 
                             </p>
                             <h4 class="mb-3">Features:</h4>
@@ -282,33 +181,45 @@
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
+
+
+
+
                       </span>
-                                    <span class="list_item_text">Custom Software Development: Tailored software solutions to fit your unique business processes.</span>
+                                    <span class="list_item_text">Custom E-commerce Website: Tailored design and functionality to match your brand and products.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text"> User-Friendly Interface: Intuitive interfaces that are easy for your team to learn and use.</span>
+                                    <span class="list_item_text">Secure Payment Gateways: Multiple payment options with robust security.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text"> Integration Capabilities: Seamless integration with existing systems and tools.</span>
+                                    <span class="list_item_text">Product Catalog Management: Easy-to-use tools to add, update, and organize products.</span>
+                                </li>
+
+
+                                <li>
+                      <span class="list_item_icon">
+                        <i class="fas fa-check"></i>
+                      </span>
+                                    <span class="list_item_text">Inventory Management: Stay in control of your stock levels and sales.</span>
                                 </li>
                                 <li>
                       <span class="list_item_icon">
                         <i class="fas fa-check"></i>
                       </span>
-                                    <span class="list_item_text"> Data Security: Robust security measures to protect your sensitive business data.</span>
+                                    <span class="list_item_text">Responsive Design: Mobile-friendly shopping for customers on the go.</span>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="section_space_lg">
                         <div class="video_widget">
-                            <img src="assets/images/video/service_details_video_poster.jpg"
+                            <img src="assets/images/video/ecommerce-solution.jpg"
                                  alt="Paradox Service Video Poster">
                             <a class="video_play_icon popup_video" href="#">
                     <span class="icon_wrap" data-magnetic>
@@ -349,9 +260,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Efficiency Boost</h3>
+                                            <h3 class="item_title">Skyrocket Your Sales</h3>
                                             <p class="mb-0">
-                                                Our management software simplifies complex processes, reducing manual work and increasing efficiency.
+                                                Our e-commerce solutions are designed to boost your online revenue, turning visitors into loyal customers and increasing your bottom line.
                                             </p>
                                         </div>
                                     </div>
@@ -363,9 +274,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Data Insights</h3>
+                                            <h3 class="item_title">Customer Delight</h3>
                                             <p class="mb-0">
-                                                Gain valuable insights into your business with data analytics and reporting features, helping you make informed decisions.
+                                                We create user-friendly online stores that make shopping a breeze. Happy customers are more likely to return and recommend your brand to others.
 
                                             </p>
                                         </div>
@@ -378,9 +289,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Scalable Solutions</h3>
+                                            <h3 class="item_title">Secure Transactions</h3>
                                             <p class="mb-0">
-                                                Our software grows with your business, adapting to changing needs without disruption.
+                                                Rest easy knowing that our e-commerce solutions include robust security measures, ensuring that customer data and payments are protected at all times.
 
                                             </p>
                                         </div>
@@ -393,9 +304,9 @@
                                                  alt="Paradox Icon Eye White">
                                         </div>
                                         <div class="item_content">
-                                            <h3 class="item_title">Competitive Edge</h3>
+                                            <h3 class="item_title">Effortless Inventory Management</h3>
                                             <p class="mb-0">
-                                                Stay ahead of the competition by optimizing your operations and staying agile.
+                                                Streamline your product catalog, manage inventory with ease, and stay on top of stock levels, minimizing out-of-stock situations and maximizing sales.
 
 
                                             </p>
@@ -410,6 +321,154 @@
         </section>
         <!-- Details Section - End
         ================================================== -->
+
+        <section class="portfolio_section section_space_lg">
+            <div class="container">
+                <div>
+                    <div class="row">
+                        <h3 class="heading_title mb-0 text-center" style=" padding-bottom: 50px; font-size: 50px;">
+                            Our Latest Work
+                        </h3>
+
+                    </div>
+                </div>
+                <div class="button-group filters-button-group">
+                     <div class="portfolio_button">
+                       <button class="active" data-filter="*">View All</button>
+                       <button data-filter=".graphics">Graphics</button>
+                       <button data-filter=".uiux">UI/UX</button>
+                       <button data-filter=".wordpress">WordPress</button>
+                       <button data-filter=".webdesign">Web Design</button>
+                     </div>
+                   </div>
+                <div class="row grid">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">Graphics</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Taxi car for online transportation
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">UI/UX</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Landing Page Marketing Theme
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">WordPress</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Location Tracking 3D Illustration
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">Web Design</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Website Redesign
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">Web Design</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Location Tracking 3D Illustration
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="portfolio_details.html">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                            <div class="item_content">
+                                <ul class="category_list unordered_list_center">
+                                    <li><a href="#!">WordPress</a></li>
+                                </ul>
+                                <h3 class="item_title mb-0">
+                                    <a href="portfolio_details.html">
+                                        Furniture E-Commerce App
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pagination_wrap">
+                    <ul class="pagination_nav unordered_list_center">
+                        <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
+                        <li class="active"><a href="#!">1</a></li>
+                        <li><a href="#!">2</a></li>
+                        <li><a href="#!">3</a></li>
+                        <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
 
         <!-- Review Section - Start
         ================================================== -->
@@ -661,7 +720,6 @@
                              <span class="bd-button-text">Need to Know More</span>
                           </span>
                        </span>
-
                     </span>
                             </a>
                         </div>
@@ -680,7 +738,7 @@
                                      aria-labelledby="heading_one" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We start by understanding your business processes, challenges, and goals.
+                                            We start by understanding your business, products, and goals.
                                         </p>
                                     </div>
                                 </div>
@@ -690,14 +748,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_two" aria-expanded="false"
                                             aria-controls="collapse_two">
-                                        Software Design and Development
+                                        Design and Development
                                     </button>
                                 </h3>
                                 <div id="collapse_two" class="accordion-collapse collapse" aria-labelledby="heading_two"
                                      data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Our experts design and develop customized software to address your specific needs.
+                                            Our experts create a unique e-commerce website that fits your brand and showcases your products effectively.
                                         </p>
                                     </div>
                                 </div>
@@ -707,14 +765,14 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_three" aria-expanded="false"
                                             aria-controls="collapse_three">
-                                        Testing
+                                        Payment Integration
                                     </button>
                                 </h3>
                                 <div id="collapse_three" class="accordion-collapse collapse"
                                      aria-labelledby="heading_three" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Rigorous testing ensures the software functions flawlessly.
+                                            Secure payment gateways are integrated to facilitate smooth transactions.
                                         </p>
                                     </div>
                                 </div>
@@ -724,50 +782,48 @@
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapse_four" aria-expanded="false"
                                             aria-controls="collapse_four">
-                                        Integration
+                                        Product Catalog Setup
                                     </button>
                                 </h3>
                                 <div id="collapse_four" class="accordion-collapse collapse"
                                      aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We seamlessly integrate the software with your existing systems and tools.
+                                            We help you organize and upload your products.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion_item">
-                                <h3 class="accordion_header m-0" id="heading_four">
+                                <h3 class="accordion_header m-0" id="heading_five">
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapse_four" aria-expanded="false"
-                                            aria-controls="collapse_four">
-                                        Training
+                                            data-bs-target="#collapse_five" aria-expanded="false"
+                                            aria-controls="collapse_five">
+                                        Testing
                                     </button>
                                 </h3>
-                                <div id="collapse_four" class="accordion-collapse collapse"
-                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                <div id="collapse_five" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_five" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We provide training to ensure your team can effectively use the software.
-
+                                            Rigorous testing ensures a hassle-free shopping experience.
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion_item">
-                                <h3 class="accordion_header m-0" id="heading_four">
+                                <h3 class="accordion_header m-0" id="heading_six">
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapse_four" aria-expanded="false"
-                                            aria-controls="collapse_four">
-                                        Ongoing Support
+                                            data-bs-target="#collapse_six" aria-expanded="false"
+                                            aria-controls="collapse_six">
+                                        Launch
                                     </button>
                                 </h3>
-                                <div id="collapse_four" class="accordion-collapse collapse"
-                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                <div id="collapse_six" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_six" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Our team is available to provide support and updates as needed.
-
+                                            Your e-commerce store goes live, ready to receive customers.
                                         </p>
                                     </div>
                                 </div>
@@ -853,7 +909,9 @@
                                         Process Timeline
                                     </h3>
                                     <p class="item_description mb-0">
-                                        The timeline for your management software project varies based on complexity. During our consultation, we'll provide you with an estimated timeframe.
+                                        The timeline for implementing your e-commerce solution depends on the complexity of your project. We'll provide you with an estimated timeframe during our consultation.
+
+                                        Guarantees or Warranties: We offer a satisfaction guarantee and ongoing support to ensure your e-commerce success continues to grow.
                                     </p>
                                 </div>
                             </div>
@@ -893,12 +951,10 @@
                                 </div>
                                 <div class="item_content">
                                     <h3 class="item_title">
-                                        Guarantees or Warranties
+                                        Team Expertise
                                     </h3>
                                     <p class="item_description mb-0">
-                                        We offer a satisfaction guarantee and ongoing support to ensure your management software continues to optimize your business operations effectively.
-
-
+                                        Our e-commerce team consists of seasoned designers, developers, and online retail specialists dedicated to your online success.
                                     </p>
                                 </div>
                             </div>
@@ -947,10 +1003,10 @@
                                 </div>
                                 <div class="item_content">
                                     <h3 class="item_title">
-                                        Team Expertise
+                                        Pricing
                                     </h3>
                                     <p class="item_description mb-0">
-                                        Our management software team includes experienced developers and business analysts dedicated to streamlining your business processes.
+                                        Contact us for a customized quote based on your specific e-commerce needs.
                                     </p>
                                 </div>
                             </div>
@@ -1015,95 +1071,9 @@
     <!-- Main Body - End
     ================================================== -->
 
-    <!-- Site Footer - Start
-    ================================================== -->
-    <footer class="site_footer style_1">
-        <div class="footer_widget_area bg_dark_3">
-            <div class="container">
-                <div class="footer_widget_grid">
-                    <div class="site_logo">
-                        <a class="site_link" href="index.html">
-                            <img src="assets/images/logo/o2bdw.png" style="width: 170px;"
-                                 alt="Site Logo - Paradox - Agency Template">
-                        </a>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Contact Us</h3>
-                        <div class="icon_list_widget">
-                            <h4 class="widget_title mb-0">
-                                If you want to Get a New Idea:
-                            </h4>
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <a href="https://html.bdevs.net/cdn-cgi/l/email-protection#afccc0c1dbceccdbefdfceddcecbc0d781ccc0c2">
-                        <span class="list_item_text">
-                          <span class="__cf_email__" data-cfemail="6e0d01001a0f0d1a2e1e0f1c0f0a0116400d0103">[email&#160;protected]</span>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Find Us</h3>
-                        <div class="icon_list_widget">
-                            <ul class="icon_list unordered_list_block">
-                                <li>
-                                    <div class="w-location mb-2">
-                                        <img src="assets/images/icons/icon_mapmark.svg" alt="Icon Mapmark">
-                                    </div>
-                                    <a target="_blank" href="https://www.google.com/maps">
-                        <span class="list_item_text">
-                          17, 5th Floor, R. Amin Trade Centre, <small class="d-md-block">KDA Ave, Khulna 9100</small>
-                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="footer_widget">
-                        <h3 class="footer_widget_title">Newsletter</h3>
-                        <form action="#">
-                            <div class="small_newsletter_form">
-                                <input type="email" placeholder="Email Adreess">
-                                <button type="submit">
-                                    <i class="far fa-arrow-right"></i>
-                                </button>
-                            </div>
-                            <div class="form-check mb-0">
-                                <input type="checkbox" id="checkMeOut">
-                                <label for="checkMeOut">Check me out</label>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer_bottom bg_dark_3">
-            <div class="container">
-                <div class="footer_bottom_grid">
-                    <div class="copyright_widget">
-                        Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/"><u>FrogBID</u></a>
-                        All Rights Reserved.
-                    </div>
-                    <div class="backtotop style_1">
-                        <a href="#" class="scroll">
-                            <i class="fal fa-chevron-up"></i>
-                        </a>
-                    </div>
-                    <div class="footer_social">
-                        <ul class="social_icon unordered_list_end">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Site Footer - End
-    ================================================== -->
+    <!-- Start of Header -->
+    <?php include ('include/footer.php');?>
+    <!-- End of Header -->
 
 
 </div>
@@ -1159,5 +1129,4 @@
 
 </body>
 
-<!-- Mirrored from html.bdevs.net/paradox_prev/paradox/website-design.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Sep 2023 06:20:24 GMT -->
 </html>
