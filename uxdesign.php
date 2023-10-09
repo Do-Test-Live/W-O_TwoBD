@@ -324,7 +324,7 @@
 
                   </div>
               </div>
-              <div class="button-group filters-button-group">
+            <!--  <div class="button-group filters-button-group">
                   <div class="portfolio_button">
                       <button class="active" data-filter="*">View All</button>
                       <button data-filter=".graphics">Graphics</button>
@@ -332,132 +332,125 @@
                       <button data-filter=".wordpress">WordPress</button>
                       <button data-filter=".webdesign">Web Design</button>
                   </div>
-              </div>
+              </div>-->
               <div class="row grid">
-                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="portfolio_details.html">
-                                  <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg" alt="Paradox Portfolio Image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/1.jpg"
+                                       alt="Paradox Portfolio Image">
                               </a>
-                          </div>
-                          <div class="item_content">
-                              <ul class="category_list unordered_list_center">
-                                  <li><a href="#!">Graphics</a></li>
-                              </ul>
-                              <h3 class="item_title mb-0">
-                                  <a href="portfolio_details.html">
-                                      Taxi car for online transportation
-                                  </a>
-                              </h3>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/1.jpg"></a>
+                              </div>
                           </div>
                       </div>
                   </div>
-                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="portfolio_details.html">
-                                  <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg" alt="Paradox Portfolio Image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/2.jpg"
+                                       alt="Paradox Portfolio Image">
                               </a>
-                          </div>
-                          <div class="item_content">
-                              <ul class="category_list unordered_list_center">
-                                  <li><a href="#!">UI/UX</a></li>
-                              </ul>
-                              <h3 class="item_title mb-0">
-                                  <a href="portfolio_details.html">
-                                      Landing Page Marketing Theme
-                                  </a>
-                              </h3>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/2.jpg"></a>
+                              </div>
                           </div>
                       </div>
                   </div>
-                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="portfolio_details.html">
-                                  <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg" alt="Paradox Portfolio Image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/3.jpg"
+                                       alt="Paradox Portfolio Image">
                               </a>
-                          </div>
-                          <div class="item_content">
-                              <ul class="category_list unordered_list_center">
-                                  <li><a href="#!">WordPress</a></li>
-                              </ul>
-                              <h3 class="item_title mb-0">
-                                  <a href="portfolio_details.html">
-                                      Location Tracking 3D Illustration
-                                  </a>
-                              </h3>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/3.jpg"></a>
+                              </div>
                           </div>
                       </div>
                   </div>
-                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="portfolio_details.html">
-                                  <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/4.jpg"
+                                       alt="Paradox Portfolio Image">
                               </a>
-                          </div>
-                          <div class="item_content">
-                              <ul class="category_list unordered_list_center">
-                                  <li><a href="#!">Web Design</a></li>
-                              </ul>
-                              <h3 class="item_title mb-0">
-                                  <a href="portfolio_details.html">
-                                      Website Redesign
-                                  </a>
-                              </h3>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/4.jpg"></a>
+                              </div>
                           </div>
                       </div>
                   </div>
-                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="portfolio_details.html">
-                                  <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/5.jpg"
+                                       alt="Paradox Portfolio Image">
                               </a>
-                          </div>
-                          <div class="item_content">
-                              <ul class="category_list unordered_list_center">
-                                  <li><a href="#!">Web Design</a></li>
-                              </ul>
-                              <h3 class="item_title mb-0">
-                                  <a href="portfolio_details.html">
-                                      Location Tracking 3D Illustration
-                                  </a>
-                              </h3>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/5.jpg"></a>
+                              </div>
                           </div>
                       </div>
                   </div>
-                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="portfolio_details.html">
-                                  <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg" alt="Paradox Portfolio Image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/6.jpg"
+                                       alt="Paradox Portfolio Image">
                               </a>
-                          </div>
-                          <div class="item_content">
-                              <ul class="category_list unordered_list_center">
-                                  <li><a href="#!">WordPress</a></li>
-                              </ul>
-                              <h3 class="item_title mb-0">
-                                  <a href="portfolio_details.html">
-                                      Furniture E-Commerce App
-                                  </a>
-                              </h3>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/6.jpg"></a>
+                              </div>
                           </div>
                       </div>
                   </div>
-              </div>
-
-              <div class="pagination_wrap">
-                  <ul class="pagination_nav unordered_list_center">
-                      <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
-                      <li class="active"><a href="#!">1</a></li>
-                      <li><a href="#!">2</a></li>
-                      <li><a href="#!">3</a></li>
-                      <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
-                  </ul>
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/7.jpg"
+                                       alt="Paradox Portfolio Image">
+                              </a>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/7.jpg"></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/8.jpg"
+                                       alt="Paradox Portfolio Image">
+                              </a>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/8.jpg"></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
+                      <div class="portfolio_item layout_grid text-center">
+                          <div class="item_image">
+                              <a href="#gallery-1" class="btn-gallery">
+                                  <img src="assets/images/portfolio/UI-UX/9.jpg"
+                                       alt="Paradox Portfolio Image">
+                              </a>
+                              <div id="gallery-1" class="hidden">
+                                  <a href="assets/images/portfolio/UI-UX/9.jpg"></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
               </div>
           </div>
       </section>

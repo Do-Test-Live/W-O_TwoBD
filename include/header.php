@@ -35,18 +35,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="portfolio.php">Portfolio</a>
-                                  <!--  <ul class="submenu">
-                                        <li><a href="portfolio.php">Portfolio Default</a></li>
-                                        <li><a href="#">Portfolio Grid</a></li>
-                                        <li><a href="#">Portfolio Full-width</a></li>
-                                        <li><a href="#">Portfolio Masonry</a></li>
-                                        <li><a href="#">Portfolio Details</a></li>
-                                    </ul>-->
-                                </li>
-
-                                <li>
-                                    <a href="#">Faq</a>
+                                    <a href="faq.php">Faq</a>
                                 </li>
 
                                 <li>

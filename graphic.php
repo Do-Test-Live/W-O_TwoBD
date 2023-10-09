@@ -40,6 +40,8 @@
 
     <!-- Custom - CSS Include -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css'>
+    <link rel="stylesheet" href="./style.css">
 
 </head>
 
@@ -89,7 +91,8 @@
                             <span><a href="tel:01729277765">01729277765</a></span>
                         </div>
                         <div class="offcanvas__contact-text">
-                            <p><a target="_blank" href="https://www.google.com/maps">17, 5th Floor, R. Amin Trade Centre,KDA Ave, Khulna 9100</a></p>
+                            <p><a target="_blank" href="https://www.google.com/maps">17, 5th Floor, R. Amin Trade
+                                    Centre,KDA Ave, Khulna 9100</a></p>
                         </div>
                     </div>
                     <div class="offcanvas__devider"></div>
@@ -110,7 +113,7 @@
     <!-- Offcanvas area start -->
 
     <!-- Start of Header -->
-    <?php include ('include/header.php');?>
+    <?php include('include/header.php'); ?>
     <!-- End of Header -->
     <!-- Main Body - Start
     ================================================== -->
@@ -173,8 +176,10 @@
                         </div>
                         <div class="col col-lg-6">
                             <p>
-                                At o2bd, we specialize in creating captivating graphic designs and branding materials that leave a lasting impression, attract loyal customers, and set your brand apart in a competitive marketplace. Our graphic design and branding service is tailored to enhance your unique brand identity.
-
+                                At o2bd, we specialize in creating captivating graphic designs and branding materials
+                                that leave a lasting impression, attract loyal customers, and set your brand apart in a
+                                competitive marketplace. Our graphic design and branding service is tailored to enhance
+                                your unique brand identity.
 
 
                             </p>
@@ -255,7 +260,8 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Unforgettable Brand Image</h3>
                                             <p class="mb-0">
-                                                Our designs create a memorable and distinctive brand identity that customers will recognize and trust.
+                                                Our designs create a memorable and distinctive brand identity that
+                                                customers will recognize and trust.
                                             </p>
                                         </div>
                                     </div>
@@ -269,7 +275,9 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Professionalism</h3>
                                             <p class="mb-0">
-                                                High-quality branding materials, such as business cards and letterheads, convey professionalism and leave a positive impression on clients and partners.
+                                                High-quality branding materials, such as business cards and letterheads,
+                                                convey professionalism and leave a positive impression on clients and
+                                                partners.
 
                                             </p>
                                         </div>
@@ -284,7 +292,8 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Effective Marketing</h3>
                                             <p class="mb-0">
-                                                Engaging graphics for marketing campaigns increase the impact of your advertising efforts, driving better results.
+                                                Engaging graphics for marketing campaigns increase the impact of your
+                                                advertising efforts, driving better results.
 
                                             </p>
                                         </div>
@@ -299,7 +308,8 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Customer Attraction</h3>
                                             <p class="mb-0">
-                                                A well-defined brand attracts loyal customers who connect with your values and offerings.
+                                                A well-defined brand attracts loyal customers who connect with your
+                                                values and offerings.
 
                                             </p>
                                         </div>
@@ -327,127 +337,845 @@
                 <div class="button-group filters-button-group">
                     <div class="portfolio_button">
                         <button class="active" data-filter="*">View All</button>
-                        <button data-filter=".graphics">Graphics</button>
-                        <button data-filter=".uiux">UI/UX</button>
-                        <button data-filter=".wordpress">WordPress</button>
-                        <button data-filter=".webdesign">Web Design</button>
+                        <button data-filter=".banner">Banner</button>
+                        <button data-filter=".business">Business Solution</button>
+                        <button data-filter=".email">Email Template</button>
+                        <button data-filter=".social">Social Media Post</button>
+                        <button data-filter=".tshirt">Tshirt Design</button>
+                        <button data-filter=".typography">Typography</button>
                     </div>
                 </div>
                 <div class="row grid">
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg" alt="Paradox Portfolio Image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/1.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">Graphics</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Taxi car for online transportation
-                                    </a>
-                                </h3>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/1.jpg"></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg" alt="Paradox Portfolio Image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/2.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">UI/UX</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Landing Page Marketing Theme
-                                    </a>
-                                </h3>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/2.jpg"></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg" alt="Paradox Portfolio Image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/3.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">WordPress</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Location Tracking 3D Illustration
-                                    </a>
-                                </h3>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/3.jpg"></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/4.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">Web Design</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Website Redesign
-                                    </a>
-                                </h3>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/4.jpg"></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/5.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">Web Design</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Location Tracking 3D Illustration
-                                    </a>
-                                </h3>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/5.jpg"></a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg" alt="Paradox Portfolio Image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/6.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">WordPress</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Furniture E-Commerce App
-                                    </a>
-                                </h3>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/6.jpg"></a>
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/7.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/7.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/8.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/8.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Banner/9.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Banner/9.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/1.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/1.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/2.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/2.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/3.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/3.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/4.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/4.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/5.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/5.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/6.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/6.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/7.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/7.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/8.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/8.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/Branding/9.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/Branding/9.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/1.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/1.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/2.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/2.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/3.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/3.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/4.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/4.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/5.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/5.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/6.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/6.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/7.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/7.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/8.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/8.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Business%20Solution/brochure/9.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Business%20Solution/brochure/9.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/1.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/1.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/2.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/2.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/3.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/3.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/4.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/4.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/5.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/5.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/6.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/6.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/7.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/7.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/8.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/8.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Email%20template/9.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Email%20template/9.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/1.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/1.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/2.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/2.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/3.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/3.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/4.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/4.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/5.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/5.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/6.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/6.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/7.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/7.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/8.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/8.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Social%20media%20post/9.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Social%20media%20post/9.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/1.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/1.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/2.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/2.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/3.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/3.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/4.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/4.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/5.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/5.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/6.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/6.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/7.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/7.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/8.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/8.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/Tshirt%20design/9.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/Tshirt%20design/9.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/1.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/1.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/2.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/2.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/3.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/3.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/4.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/4.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/5.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/5.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/6.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/6.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/7.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/7.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/8.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/8.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#gallery-1" class="btn-gallery">
+                                    <img src="assets/images/portfolio/typography/9.jpg"
+                                         alt="Paradox Portfolio Image">
+                                </a>
+                                <div id="gallery-1" class="hidden">
+                                    <a href="assets/images/portfolio/typography/9.jpg"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
                 </div>
 
                 <div class="pagination_wrap">
@@ -747,7 +1475,8 @@
                                      data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Our designers create initial concepts and refine them based on your feedback.
+                                            Our designers create initial concepts and refine them based on your
+                                            feedback.
                                         </p>
                                     </div>
                                 </div>
@@ -782,7 +1511,8 @@
                                     <div class="accordion_body">
                                         <p class="m-0">
                                             Engaging graphics are designed to amplify your marketing efforts.
-                                            Brand Strategy: We collaborate with you to create a branding strategy that resonates with your audience.
+                                            Brand Strategy: We collaborate with you to create a branding strategy that
+                                            resonates with your audience.
                                         </p>
                                     </div>
                                 </div>
@@ -868,7 +1598,9 @@
                                         Process Timeline
                                     </h3>
                                     <p class="item_description mb-0">
-                                        The timeline for your graphic design and branding project varies based on your unique requirements. During our consultation, we'll provide you with an estimated timeframe.
+                                        The timeline for your graphic design and branding project varies based on your
+                                        unique requirements. During our consultation, we'll provide you with an
+                                        estimated timeframe.
                                     </p>
                                 </div>
                             </div>
@@ -911,7 +1643,8 @@
                                         Team Expertise
                                     </h3>
                                     <p class="item_description mb-0">
-                                        Our graphic design and branding team includes experienced designers and brand strategists
+                                        Our graphic design and branding team includes experienced designers and brand
+                                        strategists
                                     </p>
                                 </div>
                             </div>
@@ -963,7 +1696,8 @@
                                         Guarantees or Warranties
                                     </h3>
                                     <p class="item_description mb-0">
-                                        We offer a satisfaction guarantee and ongoing support to ensure your brand's visual identity continues to resonate with your audience.
+                                        We offer a satisfaction guarantee and ongoing support to ensure your brand's
+                                        visual identity continues to resonate with your audience.
                                     </p>
                                 </div>
                             </div>
@@ -1028,7 +1762,7 @@
     <!-- Main Body - End
     ================================================== -->
     <!-- Start of Header -->
-    <?php include ('include/footer.php');?>
+    <?php include('include/footer.php'); ?>
     <!-- End of Header -->
 
 
@@ -1036,6 +1770,9 @@
 <!-- Body Wrap - End -->
 
 <!-- Fraimwork - Jquery Include -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js'></script>
+<script src="./script.js"></script>
 <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.bundle.min.js"></script>
@@ -1082,6 +1819,29 @@
 
 <!-- Custom - Jquery Include -->
 <script src="assets/js/main.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+        $('a.btn-gallery').on('click', function (event) {
+            event.preventDefault();
+
+            var gallery = $(this).attr('href');
+
+            $(gallery).magnificPopup({
+                delegate: 'a',
+                type: 'image',
+                gallery: {
+                    enabled: true
+                }
+            }).magnificPopup('open');
+        });
+
+    });
+
+
+</script>
+
 
 </body>
 
