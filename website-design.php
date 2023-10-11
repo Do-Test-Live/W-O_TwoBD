@@ -334,125 +334,397 @@
                 <div class="button-group filters-button-group">
                      <div class="portfolio_button">
                        <button class="active" data-filter="*">View All</button>
-                       <button data-filter=".graphics">Single Page</button>
-                       <button data-filter=".uiux">Multi Page</button>
+                       <button data-filter=".single">Single Page</button>
+                       <button data-filter=".multi">Multi Page</button>
+                         <button data-filter=".car">Car Dealer</button>
+                         <button data-filter=".day">Day Care</button>
                      </div>
                    </div>
                 <div class="row grid">
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg" alt="Paradox Portfolio Image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/single/Architect-2.jpg" alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">Graphics</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Taxi car for online transportation
-                                    </a>
-                                </h3>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg" alt="Paradox Portfolio Image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/single/Construction.jpg" alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">UI/UX</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Landing Page Marketing Theme
-                                    </a>
-                                </h3>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg" alt="Paradox Portfolio Image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/single/future-1.jpg" alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">WordPress</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Location Tracking 3D Illustration
-                                    </a>
-                                </h3>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/single/future-2.jpg" alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">Web Design</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Website Redesign
-                                    </a>
-                                </h3>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/single/future-3.jpg" alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">Web Design</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Location Tracking 3D Illustration
-                                    </a>
-                                </h3>
                             </div>
                         </div>
                     </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg" alt="Paradox Portfolio Image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/single/Garden-Design-Services1.jpg" alt="Paradox Portfolio Image">
                                 </a>
-                            </div>
-                            <div class="item_content">
-                                <ul class="category_list unordered_list_center">
-                                    <li><a href="#!">WordPress</a></li>
-                                </ul>
-                                <h3 class="item_title mb-0">
-                                    <a href="portfolio_details.html">
-                                        Furniture E-Commerce App
-                                    </a>
-                                </h3>
                             </div>
                         </div>
                     </div>
+
+
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-1.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-2.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-3.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-4.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-5.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/MUX.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/resaturant-1.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/resaturant%202.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="#">
+                                    <img src="assets/images/portfolio/multi/Restaurent-UI-3.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-3/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-3.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-4/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-4.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-5/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-5.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-6/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-6.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-7/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-7.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-8/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-8.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-9/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-9.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-10/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-10.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item day">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://day-care-service.github.io/Day-Care-11/" target="_blank">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-11.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Basic-1/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%201.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Basic-2/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%202.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Basic-3/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%203.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Basic-4/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%204.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Basic-5/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%205.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Basic-6/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%206.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Premium-1/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%201.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Premium-3/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%203.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Premium-4/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%204.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Premium-5/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%205.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Premium-6/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%206.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Premium-7/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%207.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Pro-1/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%201.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Pro-3/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%203.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Pro-4/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%204.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Pro-6/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%206.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Pro-7/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%207.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item car">
+                        <div class="portfolio_item layout_grid text-center">
+                            <div class="item_image">
+                                <a href="https://car-dealer-websites.github.io/Pro-8/" target="_blank">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%208.jpg" alt="Paradox Portfolio Image">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
                 </div>
 
                 <div class="pagination_wrap">
