@@ -121,10 +121,10 @@
         ================================================== -->
         <section class="page_banner text-center">
             <div class="container decoration_wrap">
-                <h1 class="page_title">Service Details</h1>
+                <h1 class="page_title">AI Integration Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
                     <li><a href="index.php">Home</a></li>
-                    <li>Service Details</li>
+                    <li>AI Integration Details</li>
                 </ul>
 
                 <div class="deco_item shape_1 wow fadeInUp" data-wow-delay=".1s">

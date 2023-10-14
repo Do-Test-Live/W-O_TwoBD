@@ -80,10 +80,10 @@
                     <h4 class="offcanvas__title">Contact Info</h4>
                     <div class="offcanvas__contact-text mb-2">
                       <p><a href="https://html.bdevs.net/cdn-cgi/l/email-protection#5b2b3a293a3f34231b3e233a362b373e" target="_blank"><span class="__cf_email__" data-cfemail="374756455653584f77524f565a475b521954585a">[email&#160;protected]</span></a></p>
-                      <span><a href="tel:725214456">725 214 456</a></span>
+                      <span><a href="tel:01729277765">01729277765</a></span>
                     </div>
                     <div class="offcanvas__contact-text">
-                      <p><a target="_blank" href="https://www.google.com/maps">Folkungagatan 83, Stockholm, Sweden</a></p>
+                      <p><a target="_blank" href="https://www.google.com/maps">17, 5th Floor, R. Amin Trade Centre,KDA Ave, Khulna 9100</a></p>
                     </div>
                 </div>
                 <div class="offcanvas__devider"></div>

@@ -117,7 +117,7 @@
           <div class="container decoration_wrap">
             <h1 class="page_title">Contact Us</h1>
             <ul class="breadcrumb_nav unordered_list_center">
-              <li><a href="index.html">Home</a></li>
+              <li><a href="index.php">Home</a></li>
               <li>Contact Us</li>
             </ul>
 
