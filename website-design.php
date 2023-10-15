@@ -344,7 +344,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-Architect-2/">
                                     <img src="assets/images/portfolio/single/Architect-2.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -395,8 +395,6 @@
                             </div>
                         </div>
                     </div>
-
-
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
