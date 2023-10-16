@@ -353,7 +353,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-Construction/">
                                     <img src="assets/images/portfolio/single/Construction.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -362,7 +362,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-Future-1/">
                                     <img src="assets/images/portfolio/single/future-1.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -371,7 +371,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/Future-2/">
                                     <img src="assets/images/portfolio/single/future-2.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -380,7 +380,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/Future-3/">
                                     <img src="assets/images/portfolio/single/future-3.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -389,7 +389,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://frogbid-khl.github.io/W-Garden-Design-Services1/">
                                     <img src="assets/images/portfolio/single/Garden-Design-Services1.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -398,7 +398,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-MintingLanding-1/">
                                     <img src="assets/images/portfolio/multi/MintingLanding-1.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -407,7 +407,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-MintingLanding-2/">
                                     <img src="assets/images/portfolio/multi/MintingLanding-2.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -416,7 +416,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-MintingLanding-3/">
                                     <img src="assets/images/portfolio/multi/MintingLanding-3.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -425,7 +425,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-MintingLanding-4/">
                                     <img src="assets/images/portfolio/multi/MintingLanding-4.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -434,7 +434,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-MintingLanding-5/">
                                     <img src="assets/images/portfolio/multi/MintingLanding-5.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -443,7 +443,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://frogbid-khl.github.io/W-MUX/">
                                     <img src="assets/images/portfolio/multi/MUX.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -452,7 +452,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://github.com/Frogbid-Khl/W-Restaurent1">
                                     <img src="assets/images/portfolio/multi/resaturant-1.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
@@ -470,7 +470,7 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item multi">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#">
+                                <a href="https://do-test-live.github.io/W-Restaurent-UI-3/">
                                     <img src="assets/images/portfolio/multi/Restaurent-UI-3.jpg" alt="Paradox Portfolio Image">
                                 </a>
                             </div>
