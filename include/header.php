@@ -30,7 +30,7 @@
                                         <li><a href="ManagementSoftware">Management Software</a></li>
                                         <li><a href="Automation">Automation and Integration</a></li>
                                         <li><a href="CRM">CRM Solutions</a></li>
-                                        <li><a href="WebsiteDesign">Website Maintenance</a></li>
+                                        <li><a href="WebsiteMaintenance">Website Maintenance</a></li>
                                         <li><a href="AI-Integration">AI Integration</a></li>
                                     </ul>
                                 </li>
