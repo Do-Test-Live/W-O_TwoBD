@@ -949,5 +949,4 @@
 
 </body>
 
-<!-- Mirrored from html.bdevs.net/paradox_prev/paradox/website-design.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Sep 2023 06:20:24 GMT -->
 </html>

@@ -7,7 +7,7 @@
                 <div class="col col-lg-4 col-md-6">
                     <div class="footer_widget pe-lg-5">
                         <div class="site_logo">
-                            <a class="site_link" href="index.html">
+                            <a class="site_link" href="Home">
                                 <img src="assets/images/logo/o2bdw.png" style="width: 170px;" alt="Site Logo - Paradox - Agency Template">
                             </a>
                         </div>
