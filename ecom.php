@@ -862,7 +862,7 @@
                 <div class="services_carousel">
                     <div class="row common_carousel_3col" data-slick='{"arrows": false, "autoplay:": false}'>
                         <div class="col carousel_item">
-                            <div class="service_item style_1" style="height: 400px;">
+                            <div class="service_item style_1" style="height: 600px;">
                                 <div class="item_icon">
                                     <svg width="80" height="61" viewBox="0 0 80 61" fill="none"
                                          xmlns="http://www.w3.org/2000/svg">
@@ -914,7 +914,7 @@
                                     <h3 class="item_title">
                                         Process Timeline
                                     </h3>
-                                    <p class="item_description mb-0">
+                                    <p class="item_description mb-0" >
                                         The timeline for implementing your e-commerce solution depends on the complexity
                                         of your project. We'll provide you with an estimated timeframe during our
                                         consultation.
@@ -926,7 +926,7 @@
                             </div>
                         </div>
                         <div class="col carousel_item">
-                            <div class="service_item style_1" style="height: 400px;">
+                            <div class="service_item style_1" style="height: 600px;">
                                 <div class="item_icon">
                                     <svg width="85" height="63" viewBox="0 0 85 63" fill="none"
                                          xmlns="http://www.w3.org/2000/svg">
@@ -970,7 +970,7 @@
                             </div>
                         </div>
                         <div class="col carousel_item">
-                            <div class="service_item style_1" style="height: 400px;">
+                            <div class="service_item style_1" style="height: 600px;">
                                 <div class="item_icon">
                                     <svg width="80" height="61" viewBox="0 0 80 61" fill="none"
                                          xmlns="http://www.w3.org/2000/svg">

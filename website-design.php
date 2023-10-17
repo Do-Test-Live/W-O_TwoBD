@@ -255,7 +255,7 @@
                         <div class="col col-lg-8">
                             <div class="row">
                                 <div class="col col-md-6">
-                                    <div class="iconbox_item bg-white" style="height: 405px;">
+                                    <div class="iconbox_item bg-white" style="height: 505px;">
                                         <div class="item_icon">
                                             <img src="assets/images/icons/icon_care_primary.svg"
                                                  alt="Paradox Icon Eye White">
@@ -272,7 +272,7 @@
                                     </div>
                                 </div>
                                 <div class="col col-md-6">
-                                    <div class="iconbox_item bg-white" style="height: 405px;">
+                                    <div class="iconbox_item bg-white" style="height: 505px;">
                                         <div class="item_icon">
                                             <img src="assets/images/icons/icon_together_primary.svg"
                                                  alt="Paradox Icon Eye White">
@@ -290,7 +290,7 @@
                                     </div>
                                 </div>
                                 <div class="col col-md-6">
-                                    <div class="iconbox_item bg-white" style="height: 405px;">
+                                    <div class="iconbox_item bg-white" style="height: 505px;">
                                         <div class="item_icon">
                                             <img src="assets/images/icons/icon_communication_primary.svg"
                                                  alt="Paradox Icon Eye White">
@@ -308,7 +308,7 @@
                                     </div>
                                 </div>
                                 <div class="col col-md-6">
-                                    <div class="iconbox_item bg-white" style="height: 405px;">
+                                    <div class="iconbox_item bg-white" style="height: 505px;">
                                         <div class="item_icon">
                                             <img src="assets/images/icons/icon_teaching_primary.svg"
                                                  alt="Paradox Icon Eye White">

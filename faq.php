@@ -67,7 +67,7 @@
                 <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                     <div class="offcanvas__logo">
                       <a href="Home">
-                      <img src="assets/images/logo/site_logo_white.svg" alt="logo not found">
+                      <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                       </a>
                     </div>
                     <div class="offcanvas__close">
