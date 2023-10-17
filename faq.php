@@ -66,7 +66,7 @@
               <div class="offcanvas__content">
                 <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                     <div class="offcanvas__logo">
-                      <a href="index.php">
+                      <a href="Home">
                       <img src="assets/images/logo/site_logo_white.svg" alt="logo not found">
                       </a>
                     </div>
@@ -116,7 +116,7 @@
           <div class="container decoration_wrap">
             <h1 class="page_title">Frequently Asked Questions</h1>
             <ul class="breadcrumb_nav unordered_list_center">
-              <li><a href="index.php">Home</a></li>
+              <li><a href="Home">Home</a></li>
               <li>FAQ</li>
             </ul>
 
@@ -270,7 +270,7 @@
               </div>
             </div>
             <div class="btn_wrap pb-0 text-center">
-              <a href="service.php" class="bd-btn-link btn_primary">
+              <a href="Service" class="bd-btn-link btn_primary">
                 <span class="bd-button-content-wrapper">
                    <span class="bd-button-icon">
                     <i class="fa-light fa-arrow-right-long"></i>

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Website Design and Development -  O2bd</title>
+    <title>Website Design and Development - O2bd</title>
     <link rel="shortcut icon" href="assets/images/logo/favourite_icon.svg">
 
     <!-- Fraimwork - CSS Include -->
@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.php">
+                            <a href="Home">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -89,7 +89,8 @@
                             <span><a href="tel:01729277765">01729277765</a></span>
                         </div>
                         <div class="offcanvas__contact-text">
-                            <p><a target="_blank" href="https://www.google.com/maps">17, 5th Floor, R. Amin Trade Centre,KDA Ave, Khulna 9100</a></p>
+                            <p><a target="_blank" href="https://www.google.com/maps">17, 5th Floor, R. Amin Trade
+                                    Centre,KDA Ave, Khulna 9100</a></p>
                         </div>
                     </div>
                     <div class="offcanvas__devider"></div>
@@ -110,7 +111,7 @@
     <!-- Offcanvas area start -->
 
     <!-- Start of Header -->
-    <?php include ('include/header.php');?>
+    <?php include('include/header.php'); ?>
     <!-- End of Header -->
 
     <!-- Main Body - Start
@@ -123,7 +124,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Website Design and Development Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Home">Home</a></li>
                     <li>Website Design and Development Details</li>
                 </ul>
 
@@ -262,7 +263,10 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Enhanced User Experience</h3>
                                             <p class="mb-0">
-                                                Our user-focused design guarantees that visitors to your website have a smooth, intuitive, and enjoyable experience. This means longer visits, fewer people leaving your site right away, and more customers choosing to do business with you.
+                                                Our user-focused design guarantees that visitors to your website have a
+                                                smooth, intuitive, and enjoyable experience. This means longer visits,
+                                                fewer people leaving your site right away, and more customers choosing
+                                                to do business with you.
                                             </p>
                                         </div>
                                     </div>
@@ -276,7 +280,10 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Mobile-First Approach</h3>
                                             <p class="mb-0">
-                                                In today's mobile-driven world, having a website that looks and works great on all screen sizes is a must. Our designs are fully responsive, ensuring a consistent and engaging experience for mobile users, who make up a significant portion of your audience.
+                                                In today's mobile-driven world, having a website that looks and works
+                                                great on all screen sizes is a must. Our designs are fully responsive,
+                                                ensuring a consistent and engaging experience for mobile users, who make
+                                                up a significant portion of your audience.
 
                                             </p>
                                         </div>
@@ -291,7 +298,10 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Higher Search Engine Visibility</h3>
                                             <p class="mb-0">
-                                                Our websites aren't just eye-catching; they're designed to perform well in search engine results. That means more people can find your website when they search online, leading to increased organic traffic and potential customers.
+                                                Our websites aren't just eye-catching; they're designed to perform well
+                                                in search engine results. That means more people can find your website
+                                                when they search online, leading to increased organic traffic and
+                                                potential customers.
 
                                             </p>
                                         </div>
@@ -306,7 +316,10 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Ready for Growth</h3>
                                             <p class="mb-0">
-                                                We build websites with your future success in mind. As your business grows, your website can easily expand to accommodate new features, products, or services, ensuring long-term success and adaptability to your evolving needs
+                                                We build websites with your future success in mind. As your business
+                                                grows, your website can easily expand to accommodate new features,
+                                                products, or services, ensuring long-term success and adaptability to
+                                                your evolving needs
 
                                             </p>
                                         </div>
@@ -332,20 +345,21 @@
                     </div>
                 </div>
                 <div class="button-group filters-button-group">
-                     <div class="portfolio_button">
-                       <button class="active" data-filter="*">View All</button>
-                       <button data-filter=".single">Single Page</button>
-                       <button data-filter=".multi">Multi Page</button>
-                         <button data-filter=".car">Car Dealer</button>
-                         <button data-filter=".day">Day Care</button>
-                     </div>
-                   </div>
+                    <div class="portfolio_button">
+                        <button class="active" data-filter="*">View All</button>
+                        <button data-filter=".single">Single Page</button>
+                        <button data-filter=".multi">Multi Page</button>
+                        <button data-filter=".car">Car Dealer</button>
+                        <button data-filter=".day">Day Care</button>
+                    </div>
+                </div>
                 <div class="row grid">
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-Architect-2/">
-                                    <img src="assets/images/portfolio/single/Architect-2.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/single/Architect-2.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -354,7 +368,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-Construction/">
-                                    <img src="assets/images/portfolio/single/Construction.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/single/Construction.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -363,7 +378,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-Future-1/">
-                                    <img src="assets/images/portfolio/single/future-1.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/single/future-1.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -372,7 +388,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/Future-2/">
-                                    <img src="assets/images/portfolio/single/future-2.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/single/future-2.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -381,7 +398,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/Future-3/">
-                                    <img src="assets/images/portfolio/single/future-3.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/single/future-3.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -390,7 +408,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://frogbid-khl.github.io/W-Garden-Design-Services1/">
-                                    <img src="assets/images/portfolio/single/Garden-Design-Services1.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/single/Garden-Design-Services1.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -399,7 +418,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-MintingLanding-1/">
-                                    <img src="assets/images/portfolio/multi/MintingLanding-1.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-1.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -408,7 +428,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-MintingLanding-2/">
-                                    <img src="assets/images/portfolio/multi/MintingLanding-2.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-2.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -417,7 +438,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-MintingLanding-3/">
-                                    <img src="assets/images/portfolio/multi/MintingLanding-3.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-3.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -426,7 +448,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-MintingLanding-4/">
-                                    <img src="assets/images/portfolio/multi/MintingLanding-4.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-4.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -435,7 +458,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-MintingLanding-5/">
-                                    <img src="assets/images/portfolio/multi/MintingLanding-5.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/multi/MintingLanding-5.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -453,7 +477,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://github.com/Frogbid-Khl/W-Restaurent1">
-                                    <img src="assets/images/portfolio/multi/resaturant-1.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/multi/resaturant-1.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -462,7 +487,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="#">
-                                    <img src="assets/images/portfolio/multi/resaturant%202.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/multi/resaturant%202.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -471,7 +497,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://do-test-live.github.io/W-Restaurent-UI-3/">
-                                    <img src="assets/images/portfolio/multi/Restaurent-UI-3.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/multi/Restaurent-UI-3.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -481,7 +508,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-3/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-3.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-3.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -490,7 +518,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-4/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-4.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-4.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -499,7 +528,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-5/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-5.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-5.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -508,7 +538,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-6/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-6.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-6.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -517,7 +548,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-7/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-7.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-7.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -526,7 +558,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-8/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-8.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-8.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -535,7 +568,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-9/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-9.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-9.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -544,7 +578,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-10/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-10.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-10.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -553,7 +588,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://day-care-service.github.io/Day-Care-11/" target="_blank">
-                                    <img src="assets/images/portfolio/daycare/Day-Care-11.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/daycare/Day-Care-11.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -563,7 +599,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Basic-1/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%201.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%201.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -572,7 +609,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Basic-2/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%202.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%202.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -581,7 +619,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Basic-3/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%203.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%203.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -590,7 +629,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Basic-4/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%204.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%204.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -599,7 +639,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Basic-5/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%205.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%205.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -608,7 +649,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Basic-6/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%206.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20Basic%206.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -617,7 +659,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Premium-1/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%201.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%201.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -626,7 +669,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Premium-3/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%203.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%203.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -635,7 +679,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Premium-4/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%204.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%204.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -644,7 +689,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Premium-5/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%205.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%205.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -653,7 +699,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Premium-6/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%206.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%206.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -662,7 +709,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Premium-7/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%207.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20premium%207.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -671,7 +719,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Pro-1/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%201.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%201.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -680,7 +729,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Pro-3/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%203.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%203.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -689,7 +739,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Pro-4/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%204.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%204.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -698,7 +749,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Pro-6/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%206.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%206.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -707,7 +759,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Pro-7/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%207.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%207.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
@@ -716,28 +769,15 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="https://car-dealer-websites.github.io/Pro-8/" target="_blank">
-                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%208.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/car/car-dealer-websites%20pro%208.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                         </div>
                     </div>
-
-
-                </div>
-
-                <div class="pagination_wrap">
-                    <ul class="pagination_nav unordered_list_center">
-                        <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
-                        <li class="active"><a href="#!">1</a></li>
-                        <li><a href="#!">2</a></li>
-                        <li><a href="#!">3</a></li>
-                        <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
-                    </ul>
                 </div>
             </div>
         </section>
-
-
 
 
         <!-- Review Section - Start
@@ -1025,7 +1065,8 @@
                                      data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We rigorously test your website to ensure it works perfectly on all devices and browsers.
+                                            We rigorously test your website to ensure it works perfectly on all devices
+                                            and browsers.
                                         </p>
                                     </div>
                                 </div>
@@ -1059,7 +1100,8 @@
                                      aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            We're here to provide ongoing support and maintenance to keep your site running smoothly.
+                                            We're here to provide ongoing support and maintenance to keep your site
+                                            running smoothly.
                                         </p>
                                     </div>
                                 </div>
@@ -1145,7 +1187,9 @@
                                         Process Timeline
                                     </h3>
                                     <p class="item_description mb-0">
-                                        The timeline for website design and development varies based on project complexity. During our consultation, we'll provide you with an estimated timeframe.
+                                        The timeline for website design and development varies based on project
+                                        complexity. During our consultation, we'll provide you with an estimated
+                                        timeframe.
                                     </p>
                                 </div>
                             </div>
@@ -1188,7 +1232,8 @@
                                         Guarantees or Warranties
                                     </h3>
                                     <p class="item_description mb-0">
-                                        We offer a satisfaction guarantee and provide ongoing support to ensure your website's continued success.
+                                        We offer a satisfaction guarantee and provide ongoing support to ensure your
+                                        website's continued success.
                                     </p>
                                 </div>
                             </div>
@@ -1240,7 +1285,8 @@
                                         Team Expertise
                                     </h3>
                                     <p class="item_description mb-0">
-                                        Our website design and development team includes experienced designers, developers, and UI/UX experts, all dedicated to ensuring your success online.
+                                        Our website design and development team includes experienced designers,
+                                        developers, and UI/UX experts, all dedicated to ensuring your success online.
                                     </p>
                                 </div>
                             </div>
@@ -1306,7 +1352,7 @@
     ================================================== -->
 
     <!-- Start of Header -->
-    <?php include ('include/footer.php');?>
+    <?php include('include/footer.php'); ?>
     <!-- End of Header -->
 
 

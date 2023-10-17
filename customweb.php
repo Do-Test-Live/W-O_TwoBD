@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.php">
+                            <a href="Home">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -123,7 +123,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Custom Web Applications Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Home">Home</a></li>
                     <li>Custom Web Applications Details</li>
                 </ul>
 
@@ -313,7 +313,7 @@
         <!-- Details Section - End
         ================================================== -->
 
-        <section class="portfolio_section section_space_lg">
+  <!--      <section class="portfolio_section section_space_lg">
             <div class="container">
                 <div>
                     <div class="row">
@@ -448,18 +448,8 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="pagination_wrap">
-                    <ul class="pagination_nav unordered_list_center">
-                        <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
-                        <li class="active"><a href="#!">1</a></li>
-                        <li><a href="#!">2</a></li>
-                        <li><a href="#!">3</a></li>
-                        <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
-                    </ul>
-                </div>
             </div>
-        </section>
+        </section>-->
 
         <!-- Review Section - Start
         ================================================== -->
@@ -786,15 +776,15 @@
                                 </div>
                             </div>
                             <div class="accordion_item">
-                                <h3 class="accordion_header m-0" id="heading_four">
+                                <h3 class="accordion_header m-0" id="heading_five">
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapse_four" aria-expanded="false"
-                                            aria-controls="collapse_four">
+                                            data-bs-target="#collapse_five" aria-expanded="false"
+                                            aria-controls="collapse_five">
                                         Launch
                                     </button>
                                 </h3>
-                                <div id="collapse_four" class="accordion-collapse collapse"
-                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                <div id="collapse_five" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_five" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
                                             Your custom web application is deployed and ready to transform your business.

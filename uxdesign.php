@@ -123,7 +123,7 @@
       <div class="container decoration_wrap">
         <h1 class="page_title">UI/UX Design Details</h1>
         <ul class="breadcrumb_nav unordered_list_center">
-          <li><a href="index.php">Home</a></li>
+          <li><a href="Home">Home</a></li>
           <li>UI/UX Design Details</li>
         </ul>
 
@@ -781,15 +781,15 @@
                 </div>
               </div>
               <div class="accordion_item">
-                <h3 class="accordion_header m-0" id="heading_four">
+                <h3 class="accordion_header m-0" id="heading_five">
                   <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
-                          data-bs-target="#collapse_four" aria-expanded="false"
-                          aria-controls="collapse_four">
+                          data-bs-target="#collapse_five" aria-expanded="false"
+                          aria-controls="collapse_five">
                     Refinement
                   </button>
                 </h3>
-                <div id="collapse_four" class="accordion-collapse collapse"
-                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                <div id="collapse_five" class="accordion-collapse collapse"
+                     aria-labelledby="heading_five" data-bs-parent="#faq_accordion">
                   <div class="accordion_body">
                     <p class="m-0">
                       Incorporating feedback and making necessary adjustments.
@@ -798,15 +798,15 @@
                 </div>
               </div>
               <div class="accordion_item">
-                <h3 class="accordion_header m-0" id="heading_four">
+                <h3 class="accordion_header m-0" id="heading_six">
                   <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
-                          data-bs-target="#collapse_four" aria-expanded="false"
-                          aria-controls="collapse_four">
+                          data-bs-target="#collapse_six" aria-expanded="false"
+                          aria-controls="collapse_six">
                     Implementation
                   </button>
                 </h3>
-                <div id="collapse_four" class="accordion-collapse collapse"
-                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                <div id="collapse_six" class="accordion-collapse collapse"
+                     aria-labelledby="heading_six" data-bs-parent="#faq_accordion">
                   <div class="accordion_body">
                     <p class="m-0">
                        Integrating the final design into your website or application.

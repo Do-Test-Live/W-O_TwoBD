@@ -8944,19 +8944,19 @@ h3 {
 }
 a,
 a:visited {
-  color: #1760BF;
+  color: #ffffff;
   text-decoration: none;
 }
 a:hover {
   color: #c00;
 }
 .links {
+}
 ul {
 
 }
 li {
   margin-bottom: 5px;
-}
 }
 h4 {
   margin: 24px 0 0 0;

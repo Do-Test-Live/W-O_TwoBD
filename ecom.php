@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.php">
+                            <a href="Home">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -89,7 +89,8 @@
                             <span><a href="tel:01729277765">01729277765</a></span>
                         </div>
                         <div class="offcanvas__contact-text">
-                            <p><a target="_blank" href="https://www.google.com/maps">17, 5th Floor, R. Amin Trade Centre,KDA Ave, Khulna 9100</a></p>
+                            <p><a target="_blank" href="https://www.google.com/maps">17, 5th Floor, R. Amin Trade
+                                    Centre,KDA Ave, Khulna 9100</a></p>
                         </div>
                     </div>
                     <div class="offcanvas__devider"></div>
@@ -110,7 +111,7 @@
     <!-- Offcanvas area start -->
 
     <!-- Start of Header -->
-    <?php include ('include/header.php');?>
+    <?php include('include/header.php'); ?>
     <!-- End of Header -->
     <!-- Main Body - Start
     ================================================== -->
@@ -122,7 +123,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">E-commerce Solutions Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Home">Home</a></li>
                     <li>E-commerce Solutions Details</li>
                 </ul>
 
@@ -163,8 +164,8 @@
                          </span>
                          <span class="pd-animation-flip">
                             <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">Get This Service Now</span>
-                               <span class="bd-button-text">Get This Service Now</span>
+                               <span class="bd-button-text text-white">Get This Service Now</span>
+                               <span class="bd-button-text text-white">Get This Service Now</span>
                             </span>
                          </span>
                       </span>
@@ -173,7 +174,9 @@
                         </div>
                         <div class="col col-lg-6">
                             <p>
-                                At o2bd, we're experts in creating powerful e-commerce solutions that drive sales and help businesses flourish online. Our e-commerce services are customized to your brand and business, delivering a seamless online shopping experience for your customers.
+                                At o2bd, we're experts in creating powerful e-commerce solutions that drive sales and
+                                help businesses flourish online. Our e-commerce services are customized to your brand
+                                and business, delivering a seamless online shopping experience for your customers.
 
                             </p>
                             <h4 class="mb-3">Features:</h4>
@@ -243,8 +246,8 @@
                          </span>
                          <span class="pd-animation-flip">
                             <span class="bd-btn-anim-wrapp">
-                               <span class="bd-button-text">View Case Studies</span>
-                               <span class="bd-button-text">View Case Studies</span>
+                               <span class="bd-button-text text-white">View Case Studies</span>
+                               <span class="bd-button-text text-white">View Case Studies</span>
                             </span>
                          </span>
                       </span>
@@ -262,7 +265,8 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Skyrocket Your Sales</h3>
                                             <p class="mb-0">
-                                                Our e-commerce solutions are designed to boost your online revenue, turning visitors into loyal customers and increasing your bottom line.
+                                                Our e-commerce solutions are designed to boost your online revenue,
+                                                turning visitors into loyal customers and increasing your bottom line.
                                             </p>
                                         </div>
                                     </div>
@@ -276,7 +280,8 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Customer Delight</h3>
                                             <p class="mb-0">
-                                                We create user-friendly online stores that make shopping a breeze. Happy customers are more likely to return and recommend your brand to others.
+                                                We create user-friendly online stores that make shopping a breeze. Happy
+                                                customers are more likely to return and recommend your brand to others.
 
                                             </p>
                                         </div>
@@ -291,7 +296,9 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Secure Transactions</h3>
                                             <p class="mb-0">
-                                                Rest easy knowing that our e-commerce solutions include robust security measures, ensuring that customer data and payments are protected at all times.
+                                                Rest easy knowing that our e-commerce solutions include robust security
+                                                measures, ensuring that customer data and payments are protected at all
+                                                times.
 
                                             </p>
                                         </div>
@@ -306,7 +313,9 @@
                                         <div class="item_content">
                                             <h3 class="item_title">Effortless Inventory Management</h3>
                                             <p class="mb-0">
-                                                Streamline your product catalog, manage inventory with ease, and stay on top of stock levels, minimizing out-of-stock situations and maximizing sales.
+                                                Streamline your product catalog, manage inventory with ease, and stay on
+                                                top of stock levels, minimizing out-of-stock situations and maximizing
+                                                sales.
 
 
                                             </p>
@@ -322,7 +331,7 @@
         <!-- Details Section - End
         ================================================== -->
 
-        <section class="portfolio_section section_space_lg">
+     <!--   <section class="portfolio_section section_space_lg">
             <div class="container">
                 <div>
                     <div class="row">
@@ -333,20 +342,21 @@
                     </div>
                 </div>
                 <div class="button-group filters-button-group">
-                     <div class="portfolio_button">
-                       <button class="active" data-filter="*">View All</button>
-                       <button data-filter=".graphics">Graphics</button>
-                       <button data-filter=".uiux">UI/UX</button>
-                       <button data-filter=".wordpress">WordPress</button>
-                       <button data-filter=".webdesign">Web Design</button>
-                     </div>
-                   </div>
+                    <div class="portfolio_button">
+                        <button class="active" data-filter="*">View All</button>
+                        <button data-filter=".graphics">Graphics</button>
+                        <button data-filter=".uiux">UI/UX</button>
+                        <button data-filter=".wordpress">WordPress</button>
+                        <button data-filter=".webdesign">Web Design</button>
+                    </div>
+                </div>
                 <div class="row grid">
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_4.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                             <div class="item_content">
@@ -365,7 +375,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_3.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                             <div class="item_content">
@@ -384,7 +395,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_2.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                             <div class="item_content">
@@ -403,7 +415,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_1.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                             <div class="item_content">
@@ -422,7 +435,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_5.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                             <div class="item_content">
@@ -441,7 +455,8 @@
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
                                 <a href="portfolio_details.html">
-                                    <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg" alt="Paradox Portfolio Image">
+                                    <img src="assets/images/portfolio/portfolio_lfi_image_6.jpg"
+                                         alt="Paradox Portfolio Image">
                                 </a>
                             </div>
                             <div class="item_content">
@@ -457,18 +472,8 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="pagination_wrap">
-                    <ul class="pagination_nav unordered_list_center">
-                        <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
-                        <li class="active"><a href="#!">1</a></li>
-                        <li><a href="#!">2</a></li>
-                        <li><a href="#!">3</a></li>
-                        <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
-                    </ul>
-                </div>
             </div>
-        </section>
+        </section>-->
 
         <!-- Review Section - Start
         ================================================== -->
@@ -755,7 +760,8 @@
                                      data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
-                                            Our experts create a unique e-commerce website that fits your brand and showcases your products effectively.
+                                            Our experts create a unique e-commerce website that fits your brand and
+                                            showcases your products effectively.
                                         </p>
                                     </div>
                                 </div>
@@ -909,9 +915,12 @@
                                         Process Timeline
                                     </h3>
                                     <p class="item_description mb-0">
-                                        The timeline for implementing your e-commerce solution depends on the complexity of your project. We'll provide you with an estimated timeframe during our consultation.
+                                        The timeline for implementing your e-commerce solution depends on the complexity
+                                        of your project. We'll provide you with an estimated timeframe during our
+                                        consultation.
 
-                                        Guarantees or Warranties: We offer a satisfaction guarantee and ongoing support to ensure your e-commerce success continues to grow.
+                                        Guarantees or Warranties: We offer a satisfaction guarantee and ongoing support
+                                        to ensure your e-commerce success continues to grow.
                                     </p>
                                 </div>
                             </div>
@@ -954,7 +963,8 @@
                                         Team Expertise
                                     </h3>
                                     <p class="item_description mb-0">
-                                        Our e-commerce team consists of seasoned designers, developers, and online retail specialists dedicated to your online success.
+                                        Our e-commerce team consists of seasoned designers, developers, and online
+                                        retail specialists dedicated to your online success.
                                     </p>
                                 </div>
                             </div>
@@ -1072,7 +1082,7 @@
     ================================================== -->
 
     <!-- Start of Header -->
-    <?php include ('include/footer.php');?>
+    <?php include('include/footer.php'); ?>
     <!-- End of Header -->
 
 

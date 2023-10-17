@@ -102,7 +102,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="faq.php">
+                                <a href="Faq">
                         <span class="list_item_icon">
                           <i class="fas fa-circle"></i>
                         </span>
@@ -135,7 +135,7 @@
     <div class="footer_bottom bg_dark_2">
         <div class="container">
             <div class="copyright_widget">
-                Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/"><u>FrogBID</u></a> All Rights Reserved.
+                Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/">FrogBID</a> All Rights Reserved.
             </div>
             <ul class="page_list unordered_list">
                 <li>

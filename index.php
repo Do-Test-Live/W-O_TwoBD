@@ -63,7 +63,7 @@
               <div class="offcanvas__content">
                 <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                     <div class="offcanvas__logo">
-                      <a href="index.php">
+                      <a href="Home">
                       <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                       </a>
                     </div>
@@ -351,7 +351,7 @@
                       Create a stunning website to attract more customers, boost your brand's visibility, and take your business to new heights.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website-design.php">
+                  <a class="item_details_btn" href="WebsiteDesign">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -391,7 +391,7 @@
                       Increase sales, make customers happier, and build a thriving online store.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="ecom.php">
+                  <a class="item_details_btn" href="Ecom">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -436,7 +436,7 @@
                       Cut costs, work smarter, and gain a competitive edge with our tailor-made web tools.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="customweb.php">
+                  <a class="item_details_btn" href="CustomWeb">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -486,7 +486,7 @@
                       Make your brand unforgettable, attract loyal customers, and stand out from the competition.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="graphic.php">
+                  <a class="item_details_btn" href="Graphic">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -539,7 +539,7 @@
                        Get more engagement, grow your online community, and turn clicks into customers.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="socialmedia.php">
+                  <a class="item_details_btn" href="SocialMedia">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -588,7 +588,7 @@
                       Keep customers happy, improve user satisfaction, and watch your sales soar.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="uxdesign.php">
+                  <a class="item_details_btn" href="UxDesign">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -637,7 +637,7 @@
                       Take control of your website content with ease.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="cms.php">
+                  <a class="item_details_btn" href="CMS">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -687,7 +687,7 @@
                       Gain control, increase productivity, and see your business flourish with our customized management tools.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="management_software.php">
+                  <a class="item_details_btn" href="ManagementSoftware">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -737,7 +737,7 @@
                       Focus on growth, eliminate errors, and boost your bottom line by streamlining your operations
                     </p>
                   </div>
-                  <a class="item_details_btn" href="automation.php">
+                  <a class="item_details_btn" href="Automation">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -787,7 +787,7 @@
                       Strengthen customer relationships, boost sales, and streamline your business with our customized CRM systems.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="crm.php">
+                  <a class="item_details_btn" href="CRM">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -837,7 +837,7 @@
                       Keep your website running smoothly, secure, and up-to-date without the hassle.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="website_maintenance.php">
+                  <a class="item_details_btn" href="WebsiteMaintenance">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -886,7 +886,7 @@
                       Leverage the power of artificial intelligence to automate tasks, enhance decision-making, and stay ahead of the competition.
                     </p>
                   </div>
-                  <a class="item_details_btn" href="al_integration.php">
+                  <a class="item_details_btn" href="AI-Integration">
                     <span class="btn_text">View Details</span>
                     <span class="btn_icon">
                       <img src="assets/images/icons/icon_arrow_down_right_primary.svg" alt="Paradox icons">
@@ -926,16 +926,16 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item graphics">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="graphic.php">
+                    <a href="Graphic">
                       <img src="assets/images/portfolio/Graphic-design-and-branding.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="graphic.php">Graphic</a></li>
+                      <li><a href="Graphic">Graphic</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="graphic.php">
+                      <a href="Graphic">
                           Graphic Design and Branding
                       </a>
                     </h3>
@@ -945,16 +945,16 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item uiux">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="uxdesign.php">
+                    <a href="UxDesign">
                       <img src="assets/images/portfolio/ui-ux-design.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="uxdesign.php">UI/UX</a></li>
+                      <li><a href="uxdesign">UI/UX</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="uxdesign.php">
+                      <a href="uxdesign">
                           Keep customers happy
                       </a>
                     </h3>
@@ -964,16 +964,16 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="website-design.php">
+                    <a href="WebsiteDesign">
                       <img src="assets/images/portfolio/website-design.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="website-design.php">Website Design and Development</a></li>
+                      <li><a href="WebsiteDesign">Website Design and Development</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="website-design.php">
+                      <a href="WebsiteDesign">
                           Take your business..
                       </a>
                     </h3>
@@ -983,16 +983,16 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="socialmedia.php">
+                    <a href="SocialMedia">
                       <img src="assets/images/portfolio/social-media-management.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="socialmedia.php">Social Media Management</a></li>
+                      <li><a href="SocialMedia">Social Media Management</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="socialmedia.php">
+                      <a href="SocialMedia">
                           Get more engagement
                       </a>
                     </h3>
@@ -1002,16 +1002,16 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item webdesign">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="customweb.php">
+                    <a href="CustomWeb">
                       <img src="assets/images/portfolio/Custom-web-application.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="customweb.php">Custom Web Applications</a></li>
+                      <li><a href="CustomWeb">Custom Web Applications</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="customweb.php">
+                      <a href="CustomWeb">
                           Cut costs, work smarter
                       </a>
                     </h3>
@@ -1021,16 +1021,16 @@
               <div class="col col-xl-4 col-lg-4 col-md-6 element-item wordpress">
                 <div class="portfolio_item layout_grid text-center">
                   <div class="item_image">
-                    <a href="ecom.php">
+                    <a href="Ecom">
                       <img src="assets/images/portfolio/ecommerce-solution.jpg" alt="Paradox Portfolio Image">
                     </a>
                   </div>
                   <div class="item_content">
                     <ul class="category_list unordered_list_center">
-                      <li><a href="ecom.php">E-commerce Solutions</a></li>
+                      <li><a href="Ecom">E-commerce Solutions</a></li>
                     </ul>
                     <h3 class="item_title mb-0">
-                      <a href="ecom.php">
+                      <a href="Ecom">
                           Increase sales, make customers happier.
                       </a>
                     </h3>
@@ -1038,16 +1038,6 @@
                 </div>
               </div>
             </div>
-
-          <!--  <div class="pagination_wrap">
-              <ul class="pagination_nav unordered_list_center">
-                <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
-                <li class="active"><a href="#!">1</a></li>
-                <li><a href="#!">2</a></li>
-                <li><a href="#!">3</a></li>
-                <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
-              </ul>
-            </div>-->
           </div>
         </section>
         <!-- Portfolio Section - End

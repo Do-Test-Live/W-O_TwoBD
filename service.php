@@ -66,7 +66,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.php">
+                            <a href="Home">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -125,7 +125,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Service</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Home">Home</a></li>
                     <li>Service</li>
                 </ul>
 

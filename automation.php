@@ -65,7 +65,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.php">
+                            <a href="Home">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -123,7 +123,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Automation and Integration Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Home">Home</a></li>
                     <li>Automation and Integration Details</li>
                 </ul>
 
@@ -640,15 +640,15 @@
                                 </div>
                             </div>
                             <div class="accordion_item">
-                                <h3 class="accordion_header m-0" id="heading_four">
+                                <h3 class="accordion_header m-0" id="heading_five">
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapse_four" aria-expanded="false"
-                                            aria-controls="collapse_four">
+                                            data-bs-target="#collapse_five" aria-expanded="false"
+                                            aria-controls="collapse_five">
                                         Training
                                     </button>
                                 </h3>
-                                <div id="collapse_four" class="accordion-collapse collapse"
-                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                <div id="collapse_five" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_five" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
                                             We provide training to ensure your team can effectively use the automated systems.
@@ -658,15 +658,15 @@
                                 </div>
                             </div>
                             <div class="accordion_item">
-                                <h3 class="accordion_header m-0" id="heading_four">
+                                <h3 class="accordion_header m-0" id="heading_six">
                                     <button class="accordion_button collapsed" type="button" data-bs-toggle="collapse"
-                                            data-bs-target="#collapse_four" aria-expanded="false"
-                                            aria-controls="collapse_four">
+                                            data-bs-target="#collapse_six" aria-expanded="false"
+                                            aria-controls="collapse_six">
                                         Ongoing Support
                                     </button>
                                 </h3>
-                                <div id="collapse_four" class="accordion-collapse collapse"
-                                     aria-labelledby="heading_four" data-bs-parent="#faq_accordion">
+                                <div id="collapse_six" class="accordion-collapse collapse"
+                                     aria-labelledby="heading_six" data-bs-parent="#faq_accordion">
                                     <div class="accordion_body">
                                         <p class="m-0">
                                             Our team offers continuous support, updates, and optimization as needed.

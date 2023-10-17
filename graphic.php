@@ -67,7 +67,7 @@
                 <div class="offcanvas__content">
                     <div class="offcanvas__top mb-4 d-flex justify-content-between align-items-center">
                         <div class="offcanvas__logo">
-                            <a href="index.php">
+                            <a href="Home">
                                 <img src="assets/images/logo/o2bdw.png" alt="logo not found">
                             </a>
                         </div>
@@ -125,7 +125,7 @@
             <div class="container decoration_wrap">
                 <h1 class="page_title">Graphic Design and Branding Details</h1>
                 <ul class="breadcrumb_nav unordered_list_center">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="Home">Home</a></li>
                     <li>Graphic Design and Branding Details</li>
                 </ul>
 
@@ -1174,18 +1174,6 @@
                             </div>
                         </div>
                     </div>
-
-
-                </div>
-
-                <div class="pagination_wrap">
-                    <ul class="pagination_nav unordered_list_center">
-                        <li><a href="#!"><i class="far fa-angle-left"></i></a></li>
-                        <li class="active"><a href="#!">1</a></li>
-                        <li><a href="#!">2</a></li>
-                        <li><a href="#!">3</a></li>
-                        <li><a href="#!"><i class="far fa-angle-right"></i></a></li>
-                    </ul>
                 </div>
             </div>
         </section>
