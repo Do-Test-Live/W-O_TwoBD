@@ -1206,7 +1206,7 @@
                           <li><i class="fas fa-star"></i></li>
                         </ul>
                         <p class="review_content">
-                          Customer feedback will help you understand exactly how your customers experience your service or product and fixing their concerns will lead to an improved client experience. Customer satisfaction leads to customer retention Excellent.
+                            O2bd was timely, friendly, offered appropriate advice and recommendations, and the design work was quick and accurate. Product arrived as promised in just a few days from order. I plan to use O2bd again.
                         </p>
                         <span class="quote_icon">
                           <img src="assets/images/icons/icon_quote_dark.svg" alt="Paradox Icon Quote">
@@ -1233,7 +1233,7 @@
                           <li><i class="fas fa-star"></i></li>
                         </ul>
                         <p class="review_content">
-                          Customer feedback will help you understand exactly how your customers experience your service or product and fixing their concerns will lead to an improved client experience. Customer satisfaction leads to customer retention Excellent.
+                            Was fast to respond and made the process very smooth. We appreciate all her efforts to ensure that we got the best customer service possible. It was a pleasurable experience, doing business with her and O2bd!
                         </p>
                         <span class="quote_icon">
                           <img src="assets/images/icons/icon_quote_dark.svg" alt="Paradox Icon Quote">
@@ -1260,7 +1260,7 @@
                           <li><i class="fas fa-star"></i></li>
                         </ul>
                         <p class="review_content">
-                          Customer feedback will help you understand exactly how your customers experience your service or product and fixing their concerns will lead to an improved client experience. Customer satisfaction leads to customer retention Excellent.
+                            Great product options, and the customer service was excellent. They provided very prompt responses and followed up with my order from beginning to end.
                         </p>
                         <span class="quote_icon">
                           <img src="assets/images/icons/icon_quote_dark.svg" alt="Paradox Icon Quote">

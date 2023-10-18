@@ -362,11 +362,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-2" class="btn-gallery">
                                     <img src="assets/images/portfolio/Banner/2.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-2" class="hidden">
                                     <a href="assets/images/portfolio/Banner/2.jpg"></a>
                                 </div>
                             </div>
@@ -375,11 +375,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-3" class="btn-gallery">
                                     <img src="assets/images/portfolio/Banner/3.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-3" class="hidden">
                                     <a href="assets/images/portfolio/Banner/3.jpg"></a>
                                 </div>
                             </div>
@@ -388,11 +388,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-4" class="btn-gallery">
                                     <img src="assets/images/portfolio/Banner/4.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-4" class="hidden">
                                     <a href="assets/images/portfolio/Banner/4.jpg"></a>
                                 </div>
                             </div>
@@ -401,11 +401,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-5" class="btn-gallery">
                                     <img src="assets/images/portfolio/Banner/5.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-5" class="hidden">
                                     <a href="assets/images/portfolio/Banner/5.jpg"></a>
                                 </div>
                             </div>
@@ -414,11 +414,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-6" class="btn-gallery">
                                     <img src="assets/images/portfolio/Banner/6.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-6" class="hidden">
                                     <a href="assets/images/portfolio/Banner/6.jpg"></a>
                                 </div>
                             </div>
@@ -427,11 +427,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-7" class="btn-gallery">
                                     <img src="assets/images/portfolio/Banner/7.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-7" class="hidden">
                                     <a href="assets/images/portfolio/Banner/7.jpg"></a>
                                 </div>
                             </div>
@@ -440,11 +440,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-8" class="btn-gallery">
                                     <img src="assets/images/portfolio/Banner/8.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-8" class="hidden">
                                     <a href="assets/images/portfolio/Banner/8.jpg"></a>
                                 </div>
                             </div>
@@ -453,11 +453,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item banner">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-9" class="btn-gallery">
                                     <img src="assets/images/portfolio/Banner/9.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-9" class="hidden">
                                     <a href="assets/images/portfolio/Banner/9.jpg"></a>
                                 </div>
                             </div>
@@ -466,11 +466,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-10" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/1.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-10" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/1.jpg"></a>
                                 </div>
                             </div>
@@ -479,11 +479,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-11" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/2.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-11" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/2.jpg"></a>
                                 </div>
                             </div>
@@ -492,11 +492,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-12" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/3.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-12" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/3.jpg"></a>
                                 </div>
                             </div>
@@ -505,11 +505,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-13" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/4.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-13" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/4.jpg"></a>
                                 </div>
                             </div>
@@ -518,11 +518,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-14" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/5.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-14" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/5.jpg"></a>
                                 </div>
                             </div>
@@ -531,11 +531,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-15" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/6.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-15" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/6.jpg"></a>
                                 </div>
                             </div>
@@ -544,11 +544,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-16" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/7.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-16" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/7.jpg"></a>
                                 </div>
                             </div>
@@ -557,11 +557,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-17" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/8.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-17" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/8.jpg"></a>
                                 </div>
                             </div>
@@ -570,11 +570,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-18" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/Branding/9.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-18" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/Branding/9.jpg"></a>
                                 </div>
                             </div>
@@ -584,11 +584,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-19" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/1.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-19" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/1.jpg"></a>
                                 </div>
                             </div>
@@ -597,11 +597,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-20" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/2.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-20" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/2.jpg"></a>
                                 </div>
                             </div>
@@ -610,11 +610,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-21" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/3.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-21" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/3.jpg"></a>
                                 </div>
                             </div>
@@ -623,11 +623,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-22" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/4.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-22" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/4.jpg"></a>
                                 </div>
                             </div>
@@ -636,11 +636,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-23" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/5.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-23" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/5.jpg"></a>
                                 </div>
                             </div>
@@ -649,11 +649,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-24" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/6.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-24" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/6.jpg"></a>
                                 </div>
                             </div>
@@ -662,11 +662,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-25" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/7.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-25" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/7.jpg"></a>
                                 </div>
                             </div>
@@ -675,11 +675,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-26" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/8.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-26" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/8.jpg"></a>
                                 </div>
                             </div>
@@ -688,11 +688,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item business">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-27" class="btn-gallery">
                                     <img src="assets/images/portfolio/Business%20Solution/brochure/9.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-27" class="hidden">
                                     <a href="assets/images/portfolio/Business%20Solution/brochure/9.jpg"></a>
                                 </div>
                             </div>
@@ -706,11 +706,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-28" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/1.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-28" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/1.jpg"></a>
                                 </div>
                             </div>
@@ -719,11 +719,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-29" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/2.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-29" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/2.jpg"></a>
                                 </div>
                             </div>
@@ -732,11 +732,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-30" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/3.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-30" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/3.jpg"></a>
                                 </div>
                             </div>
@@ -745,11 +745,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-31" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/4.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-31" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/4.jpg"></a>
                                 </div>
                             </div>
@@ -758,11 +758,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-32" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/5.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-32" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/5.jpg"></a>
                                 </div>
                             </div>
@@ -771,11 +771,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-33" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/6.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-33" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/6.jpg"></a>
                                 </div>
                             </div>
@@ -784,11 +784,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-34" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/7.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-34" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/7.jpg"></a>
                                 </div>
                             </div>
@@ -797,11 +797,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-35" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/8.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-35" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/8.jpg"></a>
                                 </div>
                             </div>
@@ -810,11 +810,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item email">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-36" class="btn-gallery">
                                     <img src="assets/images/portfolio/Email%20template/9.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-36" class="hidden">
                                     <a href="assets/images/portfolio/Email%20template/9.jpg"></a>
                                 </div>
                             </div>
@@ -824,11 +824,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-37" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/1.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-37" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/1.jpg"></a>
                                 </div>
                             </div>
@@ -837,11 +837,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-38" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/2.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-38" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/2.jpg"></a>
                                 </div>
                             </div>
@@ -850,11 +850,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-39" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/3.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-39" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/3.jpg"></a>
                                 </div>
                             </div>
@@ -863,11 +863,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-40" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/4.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-40" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/4.jpg"></a>
                                 </div>
                             </div>
@@ -876,11 +876,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-41" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/5.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-41" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/5.jpg"></a>
                                 </div>
                             </div>
@@ -889,11 +889,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-42" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/6.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-42" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/6.jpg"></a>
                                 </div>
                             </div>
@@ -902,11 +902,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-43" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/7.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-43" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/7.jpg"></a>
                                 </div>
                             </div>
@@ -915,11 +915,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-44" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/8.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-44" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/8.jpg"></a>
                                 </div>
                             </div>
@@ -928,11 +928,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item social">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-45" class="btn-gallery">
                                     <img src="assets/images/portfolio/Social%20media%20post/9.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-45" class="hidden">
                                     <a href="assets/images/portfolio/Social%20media%20post/9.jpg"></a>
                                 </div>
                             </div>
@@ -942,11 +942,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-46" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/1.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-46" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/1.jpg"></a>
                                 </div>
                             </div>
@@ -955,11 +955,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-47" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/2.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-47" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/2.jpg"></a>
                                 </div>
                             </div>
@@ -968,11 +968,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-48" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/3.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-48" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/3.jpg"></a>
                                 </div>
                             </div>
@@ -981,11 +981,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-49" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/4.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-49" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/4.jpg"></a>
                                 </div>
                             </div>
@@ -994,11 +994,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-50" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/5.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-50" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/5.jpg"></a>
                                 </div>
                             </div>
@@ -1007,11 +1007,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-51" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/6.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-51" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/6.jpg"></a>
                                 </div>
                             </div>
@@ -1020,11 +1020,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-52" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/7.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-52" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/7.jpg"></a>
                                 </div>
                             </div>
@@ -1033,11 +1033,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-53" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/8.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-53" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/8.jpg"></a>
                                 </div>
                             </div>
@@ -1046,11 +1046,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item tshirt">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-54" class="btn-gallery">
                                     <img src="assets/images/portfolio/Tshirt%20design/9.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-54" class="hidden">
                                     <a href="assets/images/portfolio/Tshirt%20design/9.jpg"></a>
                                 </div>
                             </div>
@@ -1060,11 +1060,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-55" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/1.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-55" class="hidden">
                                     <a href="assets/images/portfolio/typography/1.jpg"></a>
                                 </div>
                             </div>
@@ -1073,11 +1073,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-56" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/2.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-56" class="hidden">
                                     <a href="assets/images/portfolio/typography/2.jpg"></a>
                                 </div>
                             </div>
@@ -1086,11 +1086,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-57" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/3.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-57" class="hidden">
                                     <a href="assets/images/portfolio/typography/3.jpg"></a>
                                 </div>
                             </div>
@@ -1099,11 +1099,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-58" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/4.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-58" class="hidden">
                                     <a href="assets/images/portfolio/typography/4.jpg"></a>
                                 </div>
                             </div>
@@ -1112,11 +1112,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-59" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/5.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-59" class="hidden">
                                     <a href="assets/images/portfolio/typography/5.jpg"></a>
                                 </div>
                             </div>
@@ -1125,11 +1125,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-60" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/6.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-60" class="hidden">
                                     <a href="assets/images/portfolio/typography/6.jpg"></a>
                                 </div>
                             </div>
@@ -1138,11 +1138,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-61" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/7.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-61" class="hidden">
                                     <a href="assets/images/portfolio/typography/7.jpg"></a>
                                 </div>
                             </div>
@@ -1151,11 +1151,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-62" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/8.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-62" class="hidden">
                                     <a href="assets/images/portfolio/typography/8.jpg"></a>
                                 </div>
                             </div>
@@ -1164,11 +1164,11 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item typography">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="#gallery-1" class="btn-gallery">
+                                <a href="#gallery-63" class="btn-gallery">
                                     <img src="assets/images/portfolio/typography/9.jpg"
                                          alt="Paradox Portfolio Image">
                                 </a>
-                                <div id="gallery-1" class="hidden">
+                                <div id="gallery-63" class="hidden">
                                     <a href="assets/images/portfolio/typography/9.jpg"></a>
                                 </div>
                             </div>
@@ -1180,228 +1180,7 @@
 
         <!-- Review Section - Start
         ================================================== -->
-        <section class="review_section section_space_heading bg_light">
-            <div class="container">
-                <div class="section_heading text-center">
-                    <h2 class="heading_title mb-0">
-                        What People Says
-                    </h2>
-                </div>
-                <div class="review_carousel">
-                    <div class="row common_carousel_3col" data-slick='{"arrows": false}'>
-                        <div class="col carousel_item">
-                            <div class="review_item style_1">
-                                <div class="content_area">
-                                    <p class="review_content">
-                                        “I want you to know that everyone is very impressed and pleased with the work of
-                                        your entire teams. I can’t say enough of pleasure of working”
-                                    </p>
-                                    <ul class="rating_star unordered_list">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                                </div>
-                                <div class="admin_item">
-                                    <div class="admin_thumbnail">
-                                        <img src="assets/images/meta/avatar_1.png" alt="Admin Avatar">
-                                    </div>
-                                    <div class="admin_info">
-                                        <h3 class="admin_name">Manuel K. Peoples</h3>
-                                        <span class="admin_designation">Director</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col carousel_item">
-                            <div class="review_item style_1">
-                                <div class="content_area">
-                                    <p class="review_content">
-                                        “Their people are highly competent, easy to work with and have delivered results
-                                        that have enabled us to meet our business objectives”
-                                    </p>
-                                    <ul class="rating_star unordered_list">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                                </div>
-                                <div class="admin_item">
-                                    <div class="admin_thumbnail">
-                                        <img src="assets/images/meta/avatar_2.png" alt="Admin Avatar">
-                                    </div>
-                                    <div class="admin_info">
-                                        <h3 class="admin_name">Charles C.</h3>
-                                        <span class="admin_designation">Director</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col carousel_item">
-                            <div class="review_item style_1">
-                                <div class="content_area">
-                                    <p class="review_content">
-                                        “I am very pleased with your Project Management capability. Your team has
-                                        excellent communication skills and a fast response.”
-                                    </p>
-                                    <ul class="rating_star unordered_list">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                                </div>
-                                <div class="admin_item">
-                                    <div class="admin_thumbnail">
-                                        <img src="assets/images/meta/avatar_3.png" alt="Admin Avatar">
-                                    </div>
-                                    <div class="admin_info">
-                                        <h3 class="admin_name">Manuel K. Peoples</h3>
-                                        <span class="admin_designation">Director</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col carousel_item">
-                            <div class="review_item style_1">
-                                <div class="content_area">
-                                    <p class="review_content">
-                                        “I want you to know that everyone is very impressed and pleased with the work of
-                                        your entire teams. I can’t say enough of pleasure of working”
-                                    </p>
-                                    <ul class="rating_star unordered_list">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                                </div>
-                                <div class="admin_item">
-                                    <div class="admin_thumbnail">
-                                        <img src="assets/images/meta/avatar_1.png" alt="Admin Avatar">
-                                    </div>
-                                    <div class="admin_info">
-                                        <h3 class="admin_name">Manuel K. Peoples</h3>
-                                        <span class="admin_designation">Director</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col carousel_item">
-                            <div class="review_item style_1">
-                                <div class="content_area">
-                                    <p class="review_content">
-                                        “Their people are highly competent, easy to work with and have delivered results
-                                        that have enabled us to meet our business objectives”
-                                    </p>
-                                    <ul class="rating_star unordered_list">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                                </div>
-                                <div class="admin_item">
-                                    <div class="admin_thumbnail">
-                                        <img src="assets/images/meta/avatar_2.png" alt="Admin Avatar">
-                                    </div>
-                                    <div class="admin_info">
-                                        <h3 class="admin_name">Charles C.</h3>
-                                        <span class="admin_designation">Director</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col carousel_item">
-                            <div class="review_item style_1">
-                                <div class="content_area">
-                                    <p class="review_content">
-                                        “I am very pleased with your Project Management capability. Your team has
-                                        excellent communication skills and a fast response.”
-                                    </p>
-                                    <ul class="rating_star unordered_list">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                                </div>
-                                <div class="admin_item">
-                                    <div class="admin_thumbnail">
-                                        <img src="assets/images/meta/avatar_3.png" alt="Admin Avatar">
-                                    </div>
-                                    <div class="admin_info">
-                                        <h3 class="admin_name">Manuel K. Peoples</h3>
-                                        <span class="admin_designation">Director</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col carousel_item">
-                            <div class="review_item style_1">
-                                <div class="content_area">
-                                    <p class="review_content">
-                                        “Their people are highly competent, easy to work with and have delivered results
-                                        that have enabled us to meet our business objectives”
-                                    </p>
-                                    <ul class="rating_star unordered_list">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                                </div>
-                                <div class="admin_item">
-                                    <div class="admin_thumbnail">
-                                        <img src="assets/images/meta/avatar_2.png" alt="Admin Avatar">
-                                    </div>
-                                    <div class="admin_info">
-                                        <h3 class="admin_name">Charles C.</h3>
-                                        <span class="admin_designation">Director</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include ('include/review.php');?>
         <!-- Review Section - End
         ================================================== -->
 

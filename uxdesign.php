@@ -40,6 +40,8 @@
 
   <!-- Custom - CSS Include -->
   <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css'>
+    <link rel="stylesheet" href="./style.css">
 
 </head>
 
@@ -324,13 +326,12 @@
 
                   </div>
               </div>
-            <!--  <div class="button-group filters-button-group">
+         <!--   <div class="button-group filters-button-group">
                   <div class="portfolio_button">
                       <button class="active" data-filter="*">View All</button>
-                      <button data-filter=".graphics">Graphics</button>
                       <button data-filter=".uiux">UI/UX</button>
-                      <button data-filter=".wordpress">WordPress</button>
-                      <button data-filter=".webdesign">Web Design</button>
+                      <button data-filter=".graphics">Graphics</button>
+
                   </div>
               </div>-->
               <div class="row grid">
@@ -350,11 +351,11 @@
                   <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="#gallery-1" class="btn-gallery">
+                              <a href="#gallery-2" class="btn-gallery">
                                   <img src="assets/images/portfolio/UI-UX/2.jpg"
                                        alt="Paradox Portfolio Image">
                               </a>
-                              <div id="gallery-1" class="hidden">
+                              <div id="gallery-2" class="hidden">
                                   <a href="assets/images/portfolio/UI-UX/2.jpg"></a>
                               </div>
                           </div>
@@ -363,11 +364,11 @@
                   <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="#gallery-1" class="btn-gallery">
+                              <a href="#gallery-3" class="btn-gallery">
                                   <img src="assets/images/portfolio/UI-UX/3.jpg"
                                        alt="Paradox Portfolio Image">
                               </a>
-                              <div id="gallery-1" class="hidden">
+                              <div id="gallery-3" class="hidden">
                                   <a href="assets/images/portfolio/UI-UX/3.jpg"></a>
                               </div>
                           </div>
@@ -376,11 +377,11 @@
                   <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="#gallery-1" class="btn-gallery">
+                              <a href="#gallery-3" class="btn-gallery">
                                   <img src="assets/images/portfolio/UI-UX/4.jpg"
                                        alt="Paradox Portfolio Image">
                               </a>
-                              <div id="gallery-1" class="hidden">
+                              <div id="gallery-3" class="hidden">
                                   <a href="assets/images/portfolio/UI-UX/4.jpg"></a>
                               </div>
                           </div>
@@ -389,11 +390,11 @@
                   <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="#gallery-1" class="btn-gallery">
+                              <a href="#gallery-4" class="btn-gallery">
                                   <img src="assets/images/portfolio/UI-UX/5.jpg"
                                        alt="Paradox Portfolio Image">
                               </a>
-                              <div id="gallery-1" class="hidden">
+                              <div id="gallery-4" class="hidden">
                                   <a href="assets/images/portfolio/UI-UX/5.jpg"></a>
                               </div>
                           </div>
@@ -402,11 +403,11 @@
                   <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="#gallery-1" class="btn-gallery">
+                              <a href="#gallery-5" class="btn-gallery">
                                   <img src="assets/images/portfolio/UI-UX/6.jpg"
                                        alt="Paradox Portfolio Image">
                               </a>
-                              <div id="gallery-1" class="hidden">
+                              <div id="gallery-5" class="hidden">
                                   <a href="assets/images/portfolio/UI-UX/6.jpg"></a>
                               </div>
                           </div>
@@ -415,11 +416,11 @@
                   <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="#gallery-1" class="btn-gallery">
+                              <a href="#gallery-6" class="btn-gallery">
                                   <img src="assets/images/portfolio/UI-UX/7.jpg"
                                        alt="Paradox Portfolio Image">
                               </a>
-                              <div id="gallery-1" class="hidden">
+                              <div id="gallery-6" class="hidden">
                                   <a href="assets/images/portfolio/UI-UX/7.jpg"></a>
                               </div>
                           </div>
@@ -428,11 +429,11 @@
                   <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="#gallery-1" class="btn-gallery">
+                              <a href="#gallery-7" class="btn-gallery">
                                   <img src="assets/images/portfolio/UI-UX/8.jpg"
                                        alt="Paradox Portfolio Image">
                               </a>
-                              <div id="gallery-1" class="hidden">
+                              <div id="gallery-7" class="hidden">
                                   <a href="assets/images/portfolio/UI-UX/8.jpg"></a>
                               </div>
                           </div>
@@ -441,11 +442,11 @@
                   <div class="col col-xl-4 col-lg-4 col-md-6 element-item">
                       <div class="portfolio_item layout_grid text-center">
                           <div class="item_image">
-                              <a href="#gallery-1" class="btn-gallery">
+                              <a href="#gallery-8" class="btn-gallery">
                                   <img src="assets/images/portfolio/UI-UX/9.jpg"
                                        alt="Paradox Portfolio Image">
                               </a>
-                              <div id="gallery-1" class="hidden">
+                              <div id="gallery-8" class="hidden">
                                   <a href="assets/images/portfolio/UI-UX/9.jpg"></a>
                               </div>
                           </div>
@@ -457,228 +458,7 @@
 
     <!-- Review Section - Start
     ================================================== -->
-    <section class="review_section section_space_heading bg_light">
-      <div class="container">
-        <div class="section_heading text-center">
-          <h2 class="heading_title mb-0">
-            What People Says
-          </h2>
-        </div>
-        <div class="review_carousel">
-          <div class="row common_carousel_3col" data-slick='{"arrows": false}'>
-            <div class="col carousel_item">
-              <div class="review_item style_1">
-                <div class="content_area">
-                  <p class="review_content">
-                    “I want you to know that everyone is very impressed and pleased with the work of
-                    your entire teams. I can’t say enough of pleasure of working”
-                  </p>
-                  <ul class="rating_star unordered_list">
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                  </ul>
-                  <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                </div>
-                <div class="admin_item">
-                  <div class="admin_thumbnail">
-                    <img src="assets/images/meta/avatar_1.png" alt="Admin Avatar">
-                  </div>
-                  <div class="admin_info">
-                    <h3 class="admin_name">Manuel K. Peoples</h3>
-                    <span class="admin_designation">Director</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col carousel_item">
-              <div class="review_item style_1">
-                <div class="content_area">
-                  <p class="review_content">
-                    “Their people are highly competent, easy to work with and have delivered results
-                    that have enabled us to meet our business objectives”
-                  </p>
-                  <ul class="rating_star unordered_list">
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                  </ul>
-                  <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                </div>
-                <div class="admin_item">
-                  <div class="admin_thumbnail">
-                    <img src="assets/images/meta/avatar_2.png" alt="Admin Avatar">
-                  </div>
-                  <div class="admin_info">
-                    <h3 class="admin_name">Charles C.</h3>
-                    <span class="admin_designation">Director</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col carousel_item">
-              <div class="review_item style_1">
-                <div class="content_area">
-                  <p class="review_content">
-                    “I am very pleased with your Project Management capability. Your team has
-                    excellent communication skills and a fast response.”
-                  </p>
-                  <ul class="rating_star unordered_list">
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                  </ul>
-                  <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                </div>
-                <div class="admin_item">
-                  <div class="admin_thumbnail">
-                    <img src="assets/images/meta/avatar_3.png" alt="Admin Avatar">
-                  </div>
-                  <div class="admin_info">
-                    <h3 class="admin_name">Manuel K. Peoples</h3>
-                    <span class="admin_designation">Director</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col carousel_item">
-              <div class="review_item style_1">
-                <div class="content_area">
-                  <p class="review_content">
-                    “I want you to know that everyone is very impressed and pleased with the work of
-                    your entire teams. I can’t say enough of pleasure of working”
-                  </p>
-                  <ul class="rating_star unordered_list">
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                  </ul>
-                  <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                </div>
-                <div class="admin_item">
-                  <div class="admin_thumbnail">
-                    <img src="assets/images/meta/avatar_1.png" alt="Admin Avatar">
-                  </div>
-                  <div class="admin_info">
-                    <h3 class="admin_name">Manuel K. Peoples</h3>
-                    <span class="admin_designation">Director</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col carousel_item">
-              <div class="review_item style_1">
-                <div class="content_area">
-                  <p class="review_content">
-                    “Their people are highly competent, easy to work with and have delivered results
-                    that have enabled us to meet our business objectives”
-                  </p>
-                  <ul class="rating_star unordered_list">
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                  </ul>
-                  <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                </div>
-                <div class="admin_item">
-                  <div class="admin_thumbnail">
-                    <img src="assets/images/meta/avatar_2.png" alt="Admin Avatar">
-                  </div>
-                  <div class="admin_info">
-                    <h3 class="admin_name">Charles C.</h3>
-                    <span class="admin_designation">Director</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col carousel_item">
-              <div class="review_item style_1">
-                <div class="content_area">
-                  <p class="review_content">
-                    “I am very pleased with your Project Management capability. Your team has
-                    excellent communication skills and a fast response.”
-                  </p>
-                  <ul class="rating_star unordered_list">
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                  </ul>
-                  <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                </div>
-                <div class="admin_item">
-                  <div class="admin_thumbnail">
-                    <img src="assets/images/meta/avatar_3.png" alt="Admin Avatar">
-                  </div>
-                  <div class="admin_info">
-                    <h3 class="admin_name">Manuel K. Peoples</h3>
-                    <span class="admin_designation">Director</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col carousel_item">
-              <div class="review_item style_1">
-                <div class="content_area">
-                  <p class="review_content">
-                    “Their people are highly competent, easy to work with and have delivered results
-                    that have enabled us to meet our business objectives”
-                  </p>
-                  <ul class="rating_star unordered_list">
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                    <li><i class="fas fa-star"></i></li>
-                  </ul>
-                  <span class="quote_icon">
-                        <img src="assets/images/icons/icon_quote_white.svg" alt="Paradox Icon Quote">
-                      </span>
-                </div>
-                <div class="admin_item">
-                  <div class="admin_thumbnail">
-                    <img src="assets/images/meta/avatar_2.png" alt="Admin Avatar">
-                  </div>
-                  <div class="admin_info">
-                    <h3 class="admin_name">Charles C.</h3>
-                    <span class="admin_designation">Director</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+      <?php include ('include/review.php');?>
     <!-- Review Section - End
     ================================================== -->
 
@@ -1111,7 +891,30 @@
 <!-- Custom - Jquery Include -->
 <script src="assets/js/main.js"></script>
 
+<script>
+    $(document).ready(function () {
+
+        $('a.btn-gallery').on('click', function (event) {
+            event.preventDefault();
+
+            var gallery = $(this).attr('href');
+
+            $(gallery).magnificPopup({
+                delegate: 'a',
+                type: 'image',
+                gallery: {
+                    enabled: true
+                }
+            }).magnificPopup('open');
+        });
+
+    });
+
+
+</script>
+
+
 </body>
 
-<!-- Mirrored from html.bdevs.net/paradox_prev/paradox/website-design.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 10 Sep 2023 06:20:24 GMT -->
+
 </html>

@@ -31,7 +31,7 @@
                         <h3 class="footer_widget_title text-white">Our Services</h3>
                         <ul class="page_list unordered_list_block">
                             <li>
-                                <a href="#">
+                                <a href="uxdesign.php">
                         <span class="list_item_icon">
                           <i class="fas fa-circle"></i>
                         </span>
@@ -39,7 +39,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="website-design.php">
                         <span class="list_item_icon">
                           <i class="fas fa-circle"></i>
                         </span>
@@ -47,27 +47,11 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                                    <span class="list_item_text">Email Marketing</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
+                                <a href="socialmedia.php">
                         <span class="list_item_icon">
                           <i class="fas fa-circle"></i>
                         </span>
                                     <span class="list_item_text">SEO Analysing</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                                    <span class="list_item_text">Digital Marketing</span>
                                 </a>
                             </li>
                         </ul>
@@ -78,35 +62,19 @@
                         <h3 class="footer_widget_title text-white">Company</h3>
                         <ul class="page_list unordered_list_block">
                             <li>
-                                <a href="#">
+                                <a href="faq.php">
                         <span class="list_item_icon">
                           <i class="fas fa-circle"></i>
                         </span>
-                                    <span class="list_item_text">About Us</span>
+                                    <span class="list_item_text">Faq</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="contact.php">
                         <span class="list_item_icon">
                           <i class="fas fa-circle"></i>
                         </span>
-                                    <span class="list_item_text">Our Team</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                                    <span class="list_item_text">Gallery</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="Faq">
-                        <span class="list_item_icon">
-                          <i class="fas fa-circle"></i>
-                        </span>
-                                    <span class="list_item_text">FAQ</span>
+                                    <span class="list_item_text">Contact Us</span>
                                 </a>
                             </li>
                         </ul>
@@ -135,7 +103,7 @@
     <div class="footer_bottom bg_dark_2">
         <div class="container">
             <div class="copyright_widget">
-                Copyright © 2023 by <a target="_blank" href="https://www.frogbid.com/">FrogBID</a> All Rights Reserved.
+                Copyright © 2023 by <a target="_blank" href="#">o2bd</a> All Rights Reserved.
             </div>
             <ul class="page_list unordered_list">
                 <li>

@@ -373,7 +373,7 @@
                       Ready to Get Started A New Project ?
                     </h3>
                   </div>
-                  <a href="#" class="bd-btn-link btn_warning">
+                  <a href="contact.php" class="bd-btn-link btn_warning">
                     <span class="bd-button-content-wrapper">
                        <span class="bd-button-icon">
                         <i class="fa-light fa-arrow-right-long"></i>

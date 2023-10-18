@@ -213,11 +213,11 @@
                 <ul class="contact_info_list style_2 ps-lg-4 unordered_list_block">
                   <li>
                     <strong>Loaction:</strong>
-                    <span>1989 Timber Ridge Road Sacramento CA, California</span>
+                    <span>17, 5th Floor, R. Amin Trade Centre,KDA Ave, Khulna 9100</span>
                   </li>
                   <li>
                     <strong>Phone:</strong>
-                    <span>+1-202-555-0149</span>
+                    <span>+8801729277765</span>
                   </li>
                   <li>
                     <strong>Email:</strong>
@@ -230,9 +230,9 @@
                   <li>
                     <strong>Follow Us:</strong>
                     <ul class="social_icon unordered_list">
-                      <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-                      <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-                      <li><a href="#!"><i class="fab fa-youtube"></i></a></li>
+                      <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                      <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                      <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                   </li>
                 </ul>
@@ -270,7 +270,7 @@
                       Ready to Get Started A New Project ?
                     </h3>
                   </div>
-                  <a href="#" class="bd-btn-link btn_warning">
+                  <a href="contact.php" class="bd-btn-link btn_warning">
                     <span class="bd-button-content-wrapper">
                        <span class="bd-button-icon">
                         <i class="fa-light fa-arrow-right-long"></i>
