@@ -387,16 +387,6 @@
                     <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
                         <div class="portfolio_item layout_grid text-center">
                             <div class="item_image">
-                                <a href="https://do-test-live.github.io/Future-2/">
-                                    <img src="assets/images/portfolio/single/future-2.jpg"
-                                         alt="Paradox Portfolio Image">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col col-xl-4 col-lg-4 col-md-6 element-item single">
-                        <div class="portfolio_item layout_grid text-center">
-                            <div class="item_image">
                                 <a href="https://do-test-live.github.io/Future-3/">
                                     <img src="assets/images/portfolio/single/future-3.jpg"
                                          alt="Paradox Portfolio Image">

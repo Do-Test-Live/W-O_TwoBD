@@ -217,7 +217,7 @@
                   </li>
                   <li>
                     <strong>Phone:</strong>
-                    <span>+8801729277765</span>
+                    <span>+00000000000000000000</span>
                   </li>
                   <li>
                     <strong>Email:</strong>
